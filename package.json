@@ -21,6 +21,8 @@
   },
   "homepage": "https://github.com/dchege711/kenyans_applying_to_us_universities#readme",
   "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
     "express": "^4.16.3"
   }
 }
