@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/dchege711/kenyans_applying_to_us_universities/issues"
   },
-  "homepage": "https://github.com/dchege711/kenyans_applying_to_us_universities#readme"
+  "homepage": "https://github.com/dchege711/kenyans_applying_to_us_universities#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
