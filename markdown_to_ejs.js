@@ -18,6 +18,8 @@ var re_greater_than = /{REPLACE_ME}&gt;/g;
 var command_args = process.argv;
 var folder_destination = command_args[2];
 
+
+
 for (var i = 3; i < command_args.length; i++) {
 
     var input_file_name = command_args[i];
