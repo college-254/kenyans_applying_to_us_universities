@@ -1,6 +1,6 @@
 ---
 layout: post 
-title: "04. Organizing information about your extracurricular activities"
+title: 04. Organizing information about your extracurricular activities
 date: 2016-09-08
 ---
 

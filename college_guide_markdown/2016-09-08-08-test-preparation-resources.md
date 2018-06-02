@@ -1,6 +1,6 @@
 ---
 layout: post 
-title: "08. Test Preparation Resources"
+title: 08. Test Preparation Resources
 date: 2016-09-08
 ---
 

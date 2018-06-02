@@ -1,6 +1,6 @@
 ---
 layout: post 
-title: "10. When considering a university, what should you look for?"
+title: 10. When considering a university, what should you look for?
 date: 2016-09-08
 ---
 
@@ -22,7 +22,7 @@ You may have noticed that we’re dividing schools into those that have AB degre
 
 It’s a good idea to gauge where you stand on a university’s admitted profile. Let’s look at [Stanford’s Profile for SAT Math Scores for the Class of 2020](http://admission.stanford.edu/basics/selection/profile.html) as an example. Pay attention to the disclaimer that the school offers.
 
-> “The following statistics give a general picture of the freshman and transfer applicants and admits. We caution you against a narrow interpretation of this data. We are providing it because we are often asked to evaluate an applicant’s chances of admission based on certain criteria. To make such a judgment without reviewing an entire application is impossible, but the following information may prove useful to you. Bear in mind that an applicant in the top of one group may not be in the same position on another measure and that the rigor of academic programs varies considerably among schools.”
+>“The following statistics give a general picture of the freshman and transfer applicants and admits. We caution you against a narrow interpretation of this data. We are providing it because we are often asked to evaluate an applicant’s chances of admission based on certain criteria. To make such a judgment without reviewing an entire application is impossible, but the following information may prove useful to you. Bear in mind that an applicant in the top of one group may not be in the same position on another measure and that the rigor of academic programs varies considerably among schools.”
 
 | SAT Math Score| Percent of Applicants | Admit Rate | Percent of Admitted Class |
 | --- | --- | --- | --- |

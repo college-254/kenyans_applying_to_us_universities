@@ -1,6 +1,6 @@
 ---
 layout: post 
-title: "15. Financial Aid Applications"
+title: 15. Financial Aid Applications
 date: 2016-09-08
 ---
 

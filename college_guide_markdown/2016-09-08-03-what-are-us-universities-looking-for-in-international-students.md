@@ -1,6 +1,6 @@
 ---
 layout: post 
-title: "03. What are US universities looking for in international students?"
+title: 03. What are US universities looking for in international students?
 date: 2016-09-08
 ---
 
@@ -49,10 +49,14 @@ They seek evidence of good academics & academic initiative of extracurricular ac
 They wonder “Would I like to share a bedroom with this person?” They reject on: arrogance (boasting), bigotry (prejudice), signs of trickery, dishonesty, lying, unfair play, but also on dull essays.
 
 They also try to understand what you have achieved in your context:
-    * 71% of those applying through Common Application last year had at least one parent with a Bachelor’s Degree
-    * Are you the first in your family to finish high school, or to attend university?
-    * One of few in your village to go to high school?
-    * The first in your high school to apply abroad?
+
+* 71% of those applying through Common Application last year had at least one parent with a Bachelor’s Degree
+
+* Are you the first in your family to finish high school, or to attend university?
+
+* One of few in your village to go to high school?
+
+* The first in your high school to apply abroad?
 
 ## How will the admissions officer know this?
 
@@ -61,49 +65,73 @@ Therefore, in telling your story – think, analyze, provide others with the inf
 ### School profile
 
 * Where do people go on to university in last three years, how many went to university?
+
 * Where is it ranked – if high ranked, show you had good teaching; if low ranked, show you did well.
+
 * Guidance counselor reference – family background, how many children, both parents alive, live with grandparents, IDP, parents’ jobs – peasant farmers
+
 * School resources – how many computers, how many books in the school library
 
 ### Managing the information
+
 * What does the admissions officer need to know about me/my life?
+
 * What strengthens my application?
+
 * Focus & selective, not every detail
-* Who is the best person to tell them (teacher, headteacher, me in an essay)? 
+
+* Who is the best person to tell them (teacher, headteacher, me in an essay)?
+
 * Avoid duplication.
+
 * How can I help this person to provide accurate, compelling information?
 
 ### Academics and Academic Initiative
 
 > ‘Interested in learning for learning’s sake’
-    
+
 * The key issue ahead of extracurricular & leadership/impact – but on its own not sufficient
+
 * Vocal member of the class? Someone who asks interesting questions?
+
 * Intellectual potential, love of learning – how have you developed your interest?
+
 * Academic initiative – e.g. a teacher of lower classes, coordinator of maths club, district/regional awards, independent research.
 
 ### Extracurricular activities
 
 * What do you spend your time doing besides studying?
+
 * What excites and motivates you? Follow your interests.
+
 * What do you add beyond the figures (your SAT scores)?
+
 * Very impressive would be e.g. significant commitment to one or more activities, usually with regional or national recognition, leadership or dedication
+
 * BUT overcoming extreme challenge to attain high level of leadership/involvement is seen as most impressive
 
 ### Leadership and impact
 
 * Positions of responsibility
-    * At school? (*Did you teach lower classes?*)
-    * At work? 
-    * At home, as carer, wage-earner, for livestock?
-    * In the community, church, President’s Award, scouts?
+
+  * At school? (*Did you teach lower classes?*)
+
+  * At work?
+
+  * At home, as carer, wage-earner, for livestock?
+
+  * In the community, church, President’s Award, scouts?
+
 * How were you selected? What does it involve? What was the feedback from people who worked with you?
+
 * Do you initiate things, or do you follow behind?
 
 ### Work Experience
 
 * What have you been doing at your workplace?
+
 * How can you show the challenges, dedication, the integrity needed?
+
 * Have you been involved in other roles apart from your standard assigned roles?
 
 However, college admissions is not an exact science…
