@@ -6,7 +6,9 @@
 
 ## Kenyans Applying to US Universities To-do List
 
-:white_check_mark: Transfer the college guide from WordPress.
+* Transfer the college guide from WordPress.
+
+  * The CSS of the pages isn't quite right. Fix that.
 
 * Automate the inclusion of links to new posts into the relevant html files.
 
