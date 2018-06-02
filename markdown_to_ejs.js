@@ -10,6 +10,7 @@ const { JSDOM } = jsdom;
 
 var converter = new showdown.Converter({metadata: true});
 converter.setOption("completeHTMLDocument", true);
+converter.setOption("tables", true);
 
 var re_less_than = /{REPLACE_ME}&lt;/g;
 var re_greater_than = /{REPLACE_ME}&gt;/g;
@@ -54,7 +55,9 @@ for (var i = 3; i < command_args.length; i++) {
             fs.write(
                 file_descriptor, serialized_html,
                 (err, written, str) => {
-                    console.log(`Wrote ${written} bytes to ${output_file_name}`);
+                    fs.close(file_descriptor, (err) => {
+                        console.log(`Wrote ${written} bytes to ${output_file_name}`);
+                    });
                 });
             
         });
