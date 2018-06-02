@@ -16,8 +16,8 @@ app.get('/', (request, response) => {
     response.render('pages/home_page');
 });
 
-app.get(/college_guide*/, (request, response) => {
-    response.render(request.url);
+app.get(/college-guide*/, (request, response) => {
+    response.render(`college-guide/${request.url.split("/")[2]}`);
 });
 
 app.listen(port, () => {

@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: 01. Timeline of the Application Process
 date: 2016-09-08
 ---
