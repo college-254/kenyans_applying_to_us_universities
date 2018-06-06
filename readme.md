@@ -1,16 +1,18 @@
 # Contents
 
-* [Kenyans Applying to US Universities To-do List](#kenyans-applying-to-us-universities-to-do-list)
+* [To-do List](#kenyans-applying-to-us-universities-to-do-list)
 
-* [How to write new articles](#how-to-publish-new-articles)
+* [How to publish new articles](#how-to-publish-new-articles)
 
-## Kenyans Applying to US Universities To-do List
+## To-do List
 
-* Transfer the college guide from WordPress.
+If you have some time on your hands, help us achieve any of the following. We're welcome to pull requests. Cheers!
 
-  * The CSS of the pages isn't quite right. Fix that.
+* :white_check_mark: Transfer the college guide from WordPress to markdown documents.
 
-* Automate the inclusion of links to new posts into the relevant html files.
+* CSS is a pain. Help out by writing better CSS rules. As a collorary, avoid having inline CSS styling since it's hard to keep track of. Let the HTML files be be vanilla, and have the stylesheets work their magic.
+
+* (In Progress) Write a module for converting markdown documents to the HTML needed for the website. As soon as a writer transforms their markdown doc using `markdown_to_HTML.js`, we want it up on the website without having to fiddle with HTML docs.
 
 * Make navigating the website easier (college guide, announcements, resources, dates, shop).
 
