@@ -24,6 +24,10 @@ app.get(/blog-posts*/, (request, response) => {
     response.render(`blog-posts/${request.url.split("/")[2]}`);
 });
 
+app.get('/book-rentals', (request, response) => {
+    response.render('pages/book_rentals_page');
+});
+
 app.get('/about', (request, response) => {
     response.render('pages/about_page');
 });

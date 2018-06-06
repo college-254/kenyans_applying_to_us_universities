@@ -23,7 +23,6 @@ body {
 
 #main_div {
     flex: 1;
-    padding: 40px 0 0;
     margin: 5px 50px 5px 50px /* Clockwise: T R B L */
 }
 
@@ -59,8 +58,12 @@ body {
     outline:0
 }
 
+.italics {
+    font-style: italic
+}
+
 .dropdown {
-    position: relative;
+    /* position: relative; */
     display: inline-block;
 }
 

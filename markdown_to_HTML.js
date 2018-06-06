@@ -51,7 +51,7 @@ for (var i = 3; i < command_args.length; i++) {
             element = document.getElementsByTagName("body")[0];
             element.outerHTML = `
                 {REPLACE_ME}<% include ../partials/navbar.ejs %{REPLACE_ME}>
-                <div id='main_div' class='w3-content'>${element.innerHTML}</div>
+                <div id='main_div'>${element.innerHTML}</div>
                 {REPLACE_ME}<% include ../partials/footer.ejs %{REPLACE_ME}>`;
 
             var document_title = converter.getMetadata().title;
