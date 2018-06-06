@@ -32,10 +32,7 @@ If you have some time on your hands, help us achieve any of the following. We're
 title: New SAT Rentals Available
 author: Chege Gitau
 tags: [resources, sat-prep]
-abstract: |
-  We now have Princeton Review prep books for Math IC and Math IIC, and Barron's prep books for Biology E/M and Chemistry.
-
-  See the blog post for price info.
+abstract: We now have Princeton Review prep books for Math IC and Math IIC, and Barron's prep books for Biology E/M and Chemistry.
 
 ---
 ```

@@ -20,6 +20,10 @@ app.get(/college-guide*/, (request, response) => {
     response.render(`college-guide/${request.url.split("/")[2]}`);
 });
 
+app.get(/blog-posts*/, (request, response) => {
+    response.render(`blog-posts/${request.url.split("/")[2]}`);
+});
+
 app.get('/about', (request, response) => {
     response.render('pages/about_page');
 });

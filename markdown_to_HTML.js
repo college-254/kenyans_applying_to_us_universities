@@ -59,12 +59,11 @@ for (var i = 3; i < command_args.length; i++) {
             );
 
             var document_title = document.getElementsByTagName("title")[0].innerText;
-            document_title = "Dummy Title";
-            // console.log(document.getElementsByTagName("title"));
-            // if (!document_title) {
-            //     console.log(`Please include a title in ${input_file_name} then run this script again`);
-            //     return;
-            // }
+            document_title = converter.getMetadata().title;
+            if (!document_title) {
+                console.log(`Please include a title in ${input_file_name} then run this script again`);
+                return;
+            }
 
             /* Spent too much time trying to escape < > in the serializer
                Resulted to a manual search and replacement. Unless angle brackets
@@ -83,39 +82,48 @@ for (var i = 3; i < command_args.length; i++) {
                     if (err) throw(err);
                     
                     console.log(`Wrote ${written} bytes to ${output_file_path}`);
-                    
                     fs.close(file_descriptor, (err) => {
                         
+                        if (err) throw(err);
+
                         /* Now that we've written the intended file, let's 
                            update the navigation bar with new links if possible.
                            If we don't do this, the user would be expected to know
                            the actual URL beforehand.
                         */
-                        fs.readFile("./views/partials/navbar.ejs", "utf8", "r+", (error, data) => {
-                            var navbar_doc = new JSDOM(data).window.document;
-                            var navbar_element = navbar_doc.getElementById(folder_destination);
-                            if (navbar_element) {
-                                navbar_element.insertAdjacentHTML(
-                                    "beforeend",
-                                    `<a href=/${folder_destination}/${output_file_name}>${document_title}</a>`
-                                );
-                                console.log(`Updated ${folder_destination} with ${document_title}`);
-                            } else {
-                                console.log(`No item modified in navbar.ejs. Are
-                                    sure that users will be able to find this page?`);
+                        fs.readFile(
+                            "./views/partials/navbar.ejs", 
+                            {"encoding": "utf8", "flag": "r+"}, 
+                            (error, data) => {
+
+                                if (error) throw(error);
+
+                                var navbar_doc = new JSDOM(data).window.document;
+                                var navbar_element = navbar_doc.getElementById(folder_destination);
+                                var new_link = `<a href=/${folder_destination}/${output_file_name}>${document_title}</a>\n`;
+                                if (navbar_element) {
+                                    if (!navbar_element.innerHTML.includes(document_title)) {
+                                        navbar_element.insertAdjacentHTML("beforeend", new_link);
+                                        console.log(`Updated ${folder_destination} with ${document_title}`);
+                                        fs.writeFile(
+                                            "./views/partials/navbar.ejs",
+                                            navbar_doc.getElementsByTagName("body")[0].innerHTML,
+                                            (err) => {
+                                                if (err) throw (err);
+                                                console.log("Successfully modified navbar.ejs");
+                                            });
+                                    } else {
+                                        console.log("The link in the navbar already existed; it wasn't modified.");
+                                    }
+                                } else {
+                                    console.log(`There's no link to ${document_title}. Are
+                                        sure that users will be able to find this page?`);
+                                }
                             }
-                            fs.writeFile(
-                                "./views/partials/navbar_copy.ejs",
-                                navbar_doc.documentElement.outerHTML, 
-                                (err) => {
-                                    if (err) throw (err);
-
-                                    console.log("Modified navbar_copy.ejs");
-                            });
-
-                        });
+                        );
                     });
-                }); 
+                }
+            ); 
         });
     });
 }
