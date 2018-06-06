@@ -2,7 +2,12 @@
  * A helper module for converting markdown documents into EJS files, which can
  * be rendered as HTML documents.
  * 
+ * Usage: `$ node markdown_to_HTML.js {dest_folder} {filepath_to_markdown}`
+ * 
+ * Example: `$ node markdown_to_HTML.js blog-posts posts_markdown/2017-06-11-studying-your-way-to-nigh-perfect-scores.md`
+ * 
  * Author: Chege Gitau, d.chege711@gmail.com
+ * 
  */
 
 var showdown = require("showdown");
@@ -39,6 +44,8 @@ for (var i = 3; i < command_args.length; i++) {
 
             // Append information to match the rest of the HTML docs 
             var element = document.getElementsByTagName("head")[0];
+
+            // console.log(document.getElementsByTagName("head"));
             element.insertAdjacentHTML("beforeend", "{REPLACE_ME}<% include ../partials/header.ejs %{REPLACE_ME}>");
             
             element = document.getElementsByTagName("body")[0];
@@ -52,10 +59,12 @@ for (var i = 3; i < command_args.length; i++) {
             );
 
             var document_title = document.getElementsByTagName("title")[0].innerText;
-            if (!document_title) {
-                console.log(`Please include a title in ${input_file_name} then run this script again`);
-                return;
-            }
+            document_title = "Dummy Title";
+            // console.log(document.getElementsByTagName("title"));
+            // if (!document_title) {
+            //     console.log(`Please include a title in ${input_file_name} then run this script again`);
+            //     return;
+            // }
 
             /* Spent too much time trying to escape < > in the serializer
                Resulted to a manual search and replacement. Unless angle brackets
@@ -70,15 +79,19 @@ for (var i = 3; i < command_args.length; i++) {
             fs.write(
                 file_descriptor, serialized_html,
                 (err, written, str) => {
-                    fs.close(file_descriptor, (err) => {
-                        console.log(`Wrote ${written} bytes to ${output_file_path}`);
 
+                    if (err) throw(err);
+                    
+                    console.log(`Wrote ${written} bytes to ${output_file_path}`);
+                    
+                    fs.close(file_descriptor, (err) => {
+                        
                         /* Now that we've written the intended file, let's 
                            update the navigation bar with new links if possible.
                            If we don't do this, the user would be expected to know
                            the actual URL beforehand.
                         */
-                        fs.readFile("./views/navbar.ejs", "utf8", "r+", (error, data) => {
+                        fs.readFile("./views/partials/navbar.ejs", "utf8", "r+", (error, data) => {
                             var navbar_doc = new JSDOM(data).window.document;
                             var navbar_element = navbar_doc.getElementById(folder_destination);
                             if (navbar_element) {
@@ -89,13 +102,16 @@ for (var i = 3; i < command_args.length; i++) {
                                 console.log(`Updated ${folder_destination} with ${document_title}`);
                             } else {
                                 console.log(`No item modified in navbar.ejs. Are
-                            sure that users will be able to find this page?`);
+                                    sure that users will be able to find this page?`);
                             }
                             fs.writeFile(
-                                "./views/navbar_copy.ejs",
-                                navbar_doc.documentElement.outerHTML, (err) => {
+                                "./views/partials/navbar_copy.ejs",
+                                navbar_doc.documentElement.outerHTML, 
+                                (err) => {
                                     if (err) throw (err);
-                                });
+
+                                    console.log("Modified navbar_copy.ejs");
+                            });
 
                         });
                     });

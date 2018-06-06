@@ -27,7 +27,7 @@ If you have some time on your hands, help us achieve any of the following. We're
   For instance, in `./posts_markdown/2018-06-03-new-sat-rentals-available.md`, you might have metadata of the form:
 
 ```markdown
-----
+---
 
 title: New SAT Rentals Available
 author: Chege Gitau
