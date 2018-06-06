@@ -159,3 +159,7 @@ body {
     color: #000 !important;
     background-color: #fff !important
 }
+
+.w3-padding-small{
+    padding:4px 8px!important
+}

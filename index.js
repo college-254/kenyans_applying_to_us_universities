@@ -20,6 +20,10 @@ app.get(/college-guide*/, (request, response) => {
     response.render(`college-guide/${request.url.split("/")[2]}`);
 });
 
+app.get('/about', (request, response) => {
+    response.render('pages/about_page');
+});
+
 app.listen(port, () => {
     console.log(`App is running on port ${port}`);
 });
