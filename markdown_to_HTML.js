@@ -1,6 +1,8 @@
 /**
- * A helper module for converting markdown documents into EJS
- * files.
+ * A helper module for converting markdown documents into EJS files, which can
+ * be rendered as HTML documents.
+ * 
+ * Author: Chege Gitau, d.chege711@gmail.com
  */
 
 var showdown = require("showdown");
@@ -8,28 +10,29 @@ var fs = require("fs");
 const jsdom = require("jsdom");
 const { JSDOM } = jsdom;
 
+// The converter translates markdown documents into HTML
 var converter = new showdown.Converter({metadata: true});
 converter.setOption("completeHTMLDocument", true);
 converter.setOption("tables", true);
 
-var re_less_than = /{REPLACE_ME}&lt;/g;
+var re_less_than = /{REPLACE_ME}&lt;/g; // g is a flag for 'global search'
 var re_greater_than = /{REPLACE_ME}&gt;/g;
 
 var command_args = process.argv;
 var folder_destination = command_args[2];
 
-
-
+// Convert all of the markdown documents specified in the input
 for (var i = 3; i < command_args.length; i++) {
-
     var input_file_name = command_args[i];
 
     fs.readFile(input_file_name, "utf8", (error, data) => {
 
         if (error) throw error;
-
-        var output_file_name = `./views/${folder_destination}/${input_file_name.split("/")[1].split(".md")[0]}.ejs`;
-        fs.open(output_file_name, 'w', (error, file_descriptor) => {
+        
+        // Prepare the HTML document that will hold the markdown doc's contents
+        var output_file_name = input_file_name.split("/")[1].split(".md")[0]
+        var output_file_path = `./views/${folder_destination}/${output_file_name}.ejs`;
+        fs.open(output_file_path, 'w', (error, file_descriptor) => {
             
             var dom = new JSDOM(converter.makeHtml(data));
             var document = dom.window.document;
@@ -48,20 +51,55 @@ for (var i = 3; i < command_args.length; i++) {
                 "</div><footer class='w3-container w3-black'>{REPLACE_ME}<% include ../partials/footer.ejs %{REPLACE_ME}></footer>"
             );
 
-            // Spent too much time trying to escape < > in the serializer
-            // Resulted to a manual search and replacement.
+            var document_title = document.getElementsByTagName("title")[0].innerText;
+            if (!document_title) {
+                console.log(`Please include a title in ${input_file_name} then run this script again`);
+                return;
+            }
+
+            /* Spent too much time trying to escape < > in the serializer
+               Resulted to a manual search and replacement. Unless angle brackets
+               are part of tags, JSDOM autoescapes them. We need angle brackets
+               for EJS templating, hence this egregious work around.
+            */
             var serialized_html = dom.serialize();
             serialized_html = serialized_html.replace(re_greater_than, '>');
             serialized_html = serialized_html.replace(re_less_than, '<');
 
+            // Write the HTML document that will have the markdown doc's content
             fs.write(
                 file_descriptor, serialized_html,
                 (err, written, str) => {
                     fs.close(file_descriptor, (err) => {
-                        console.log(`Wrote ${written} bytes to ${output_file_name}`);
+                        console.log(`Wrote ${written} bytes to ${output_file_path}`);
+
+                        /* Now that we've written the intended file, let's 
+                           update the navigation bar with new links if possible.
+                           If we don't do this, the user would be expected to know
+                           the actual URL beforehand.
+                        */
+                        fs.readFile("./views/navbar.ejs", "utf8", "r+", (error, data) => {
+                            var navbar_doc = new JSDOM(data).window.document;
+                            var navbar_element = navbar_doc.getElementById(folder_destination);
+                            if (navbar_element) {
+                                navbar_element.insertAdjacentHTML(
+                                    "beforeend",
+                                    `<a href=/${folder_destination}/${output_file_name}>${document_title}</a>`
+                                );
+                                console.log(`Updated ${folder_destination} with ${document_title}`);
+                            } else {
+                                console.log(`No item modified in navbar.ejs. Are
+                            sure that users will be able to find this page?`);
+                            }
+                            fs.writeFile(
+                                "./views/navbar_copy.ejs",
+                                navbar_doc.documentElement.outerHTML, (err) => {
+                                    if (err) throw (err);
+                                });
+
+                        });
                     });
-                });
-            
+                }); 
         });
     });
 }
