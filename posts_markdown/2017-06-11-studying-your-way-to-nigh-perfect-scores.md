@@ -8,7 +8,7 @@ abstract: A discussion on why lots of practice trumps the SAT.
 
 # Studying your Way to (Nigh) Perfect Scores
 
-![Chege's SAT Scores](/images/scores-collage.png)
+![Chege's SAT Scores](/images/scores-collage.png =90%x90%)
 
 I took my SATs a while back, and that's what I scored. This post highlights the insights that I gained while studying. Feel free to message us on Facebook if you have more questions, or leave a comment.
 
@@ -30,7 +30,7 @@ This is my general strategy:
 
     * Here’s a snippet from my note book back when I was studying for Math IIC. Whenever I encountered a question for which I didn’t know the answer, I’d write it down once I was done with the practice test. To revise, I’d cover up the answer, and try to work it out myself.
 
-    * ![SAT_Math](/images/sat_math.jpg)
+    * ![SAT_Math](/images/sat_math.jpg =90%x90%)
 
     * Initially, you’ll be noting down a lot of questions per practice test, but as you keep learning from previous mistakes, you’ll have progressively fewer weak points. 
 

@@ -38,7 +38,7 @@ for (var i = 3; i < command_args.length; i++) {
         var output_file_name = input_file_name.split("/")[1].split(".md")[0]
         var output_file_path = `./views/${folder_destination}/${output_file_name}.ejs`;
         fs.open(output_file_path, 'w', (error, file_descriptor) => {
-            
+
             var dom = new JSDOM(converter.makeHtml(data));
             var document = dom.window.document;
 
@@ -49,17 +49,12 @@ for (var i = 3; i < command_args.length; i++) {
             element.insertAdjacentHTML("beforeend", "{REPLACE_ME}<% include ../partials/header.ejs %{REPLACE_ME}>");
             
             element = document.getElementsByTagName("body")[0];
-            element.insertAdjacentHTML(
-                "afterbegin",
-                "{REPLACE_ME}<% include ../partials/navbar.ejs %{REPLACE_ME}><div id='main_div' class='w3-content'>"
-            );
-            element.insertAdjacentHTML(
-                "beforeend",
-                "</div><footer class='w3-container w3-black'>{REPLACE_ME}<% include ../partials/footer.ejs %{REPLACE_ME}></footer>"
-            );
+            element.outerHTML = `
+                {REPLACE_ME}<% include ../partials/navbar.ejs %{REPLACE_ME}>
+                <div id='main_div' class='w3-content'>${element.innerHTML}</div>
+                {REPLACE_ME}<% include ../partials/footer.ejs %{REPLACE_ME}>`;
 
-            var document_title = document.getElementsByTagName("title")[0].innerText;
-            document_title = converter.getMetadata().title;
+            var document_title = converter.getMetadata().title;
             if (!document_title) {
                 console.log(`Please include a title in ${input_file_name} then run this script again`);
                 return;
