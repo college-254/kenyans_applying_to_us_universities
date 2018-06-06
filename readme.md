@@ -14,6 +14,8 @@ If you have some time on your hands, help us achieve any of the following. We're
 
 * (In Progress) Write a module for converting markdown documents to the HTML needed for the website. As soon as a writer transforms their markdown doc using `markdown_to_HTML.js`, we want it up on the website without having to fiddle with HTML docs.
 
+  * Ensure that the content is placed inside main_div
+
 * Make navigating the website easier (college guide, announcements, resources, dates, shop).
 
 * Support user accounts.
