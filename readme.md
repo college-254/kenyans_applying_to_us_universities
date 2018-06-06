@@ -12,11 +12,13 @@ If you have some time on your hands, help us achieve any of the following. We're
 
 * CSS is a pain. Help out by writing better CSS rules. As a collorary, avoid having inline CSS styling since it's hard to keep track of. Let the HTML files be be vanilla, and have the stylesheets work their magic.
 
-* (In Progress) Write a module for converting markdown documents to the HTML needed for the website. As soon as a writer transforms their markdown doc using `markdown_to_HTML.js`, we want it up on the website without having to fiddle with HTML docs.
+* :white_check_mark: Write a module for converting markdown documents to the HTML needed for the website. As soon as a writer transforms their markdown doc using `markdown_to_HTML.js`, we want it up on the website without having to fiddle with HTML docs.
 
-  * Ensure that the content is placed inside main_div
+  * :white_check_mark: Ensure that the content is placed inside main_div
 
-* Make navigating the website easier (college guide, announcements, resources, dates, shop).
+  * :white_check_mark: Display an article's metadata on the web page.
+
+* Make navigating the website easier (college guide, announcements, resources, dates, shop) by including top level links and buttons.
 
 * Support user accounts.
 
@@ -31,6 +33,7 @@ If you have some time on your hands, help us achieve any of the following. We're
 
 title: New SAT Rentals Available
 author: Chege Gitau
+date: 2017-09-08
 tags: [resources, sat-prep]
 abstract: We now have Princeton Review prep books for Math IC and Math IIC, and Barron's prep books for Biology E/M and Chemistry.
 

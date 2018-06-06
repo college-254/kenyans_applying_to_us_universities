@@ -2,6 +2,7 @@
 
 title: Studying your Way to (Nigh) Perfect Scores
 author: Chege Gitau
+date: 2017-06-11
 tags: [sat-prep]
 abstract: A discussion on why lots of practice trumps the SAT.
 ---

@@ -36,31 +36,10 @@ body {
     top: 0;
 }
 
-/* Popup container - can be anything you want */
-.popup {
-    position: relative;
-    display: inline-block;
-    cursor: pointer;
-    -webkit-user-select: none;
-    -moz-user-select: none;
-    -ms-user-select: none;
-    user-select: none;
-}
-
-/* The actual popup */
-.popup .popuptext {
-    visibility: hidden;
-    width: 160px;
-    background-color: #555;
-    color: #fff;
-    text-align: center;
-    border-radius: 6px;
-    padding: 8px 0;
-    position: absolute;
-    z-index: 1;
-    bottom: 125%;
-    left: 50%;
-    margin-left: -80px;
+.meta_string {
+    text-decoration: underline rgb(146, 146, 146);
+    font-style: italic;
+    font-size: smaller
 }
 
 /* A subset or rules from https://www.w3schools.com/w3css/w3css_downloads.asp */

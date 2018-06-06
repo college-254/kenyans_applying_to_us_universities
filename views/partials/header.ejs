@@ -4,3 +4,19 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
 <script src="/static/jquery-3.3.1.min.js"></script>
+<!-- If appropriate, show the metadata right below the header-->
+<script>
+    // Load and display any available metadata
+    window.onload = function() {
+        var metadataString = "";
+        var metadata = document.getElementsByTagName("meta");
+        if (metadata.author) metadataString += `By ${metadata.author.content}<br><br>`;
+        if (metadata.date) {
+            var date_obj = new Date(metadata.date.content);
+            metadataString += `${date_obj.toDateString()}`;
+        }
+        document.getElementsByTagName("h1")[0].insertAdjacentHTML(
+            "afterend", `<p class='meta_string'>${metadataString}</p>`
+        );
+    }
+</script>
