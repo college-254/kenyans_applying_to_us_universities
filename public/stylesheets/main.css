@@ -61,3 +61,101 @@ body {
     left: 50%;
     margin-left: -80px;
 }
+
+/* A subset or rules from https://www.w3schools.com/w3css/w3css_downloads.asp */
+/* class="w3-bar-item w3-button"> */
+
+.w3-bar {
+    width:100%;
+    overflow:hidden
+}
+
+.w3-bar .w3-bar-item {
+    padding:8px 16px;
+    float:left;
+    width:auto;
+    border:none;
+    display:block;
+    outline:0
+}
+
+.w3-dropdown-hover {
+    position:relative;
+    display:inline-block;
+    cursor:pointer
+}
+
+.w3-dropdown-hover:first-child,.w3-dropdown-click:hover{
+    background-color:#ccc;color:#000
+}
+
+.w3-dropdown-hover:hover > .w3-button:first-child,.w3-dropdown-click:hover > .w3-button:first-child{
+    background-color:#ccc;color:#000
+}
+
+.w3-dropdown-content {
+    cursor:auto;
+    color:#000;
+    background-color:#fff;
+    display:none;
+    position:absolute;
+    min-width:160px;
+    margin:0;
+    padding:0;
+    z-index:1
+}
+
+.w3-container {
+    padding:0.01em 16px
+}
+
+.w3-padding-32{
+    padding-top:32px !important;
+    padding-bottom:32px !important
+}
+
+.w3-content{
+    max-width:980px;
+    margin:auto
+}
+
+.w3-btn,.w3-button{
+    border:none;
+    display:inline-block;
+    padding:8px 16px;
+    vertical-align:middle;
+    overflow:hidden;
+    text-decoration:none;
+    color:inherit;
+    background-color:inherit;
+    text-align:center;
+    cursor:pointer;
+    white-space:nowrap;
+    -webkit-touch-callout:none;
+    -webkit-user-select:none;
+    -khtml-user-select:none;
+    -moz-user-select:none;
+    -ms-user-select:none;
+    user-select:none
+}
+
+.w3-disabled,.w3-btn:disabled,.w3-button:disabled{
+    cursor:not-allowed;
+    opacity:0.3;
+    pointer-events: none
+}
+
+.w3-button:hover{
+    color:#000!important;
+    background-color:#ccc!important
+}
+
+.w3-black {
+    color:#fff !important;
+    background-color:#000 !important
+}
+
+.w3-white {
+    color: #000 !important;
+    background-color: #fff !important
+}
