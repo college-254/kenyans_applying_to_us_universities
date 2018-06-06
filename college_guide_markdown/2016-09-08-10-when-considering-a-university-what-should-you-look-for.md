@@ -4,6 +4,8 @@ title: 10. When considering a university, what should you look for?
 date: 2016-09-08
 ---
 
+# 10. When considering a university, what should you look for?
+
 There are more than 2,000 4-year institutions in the US, but you’ll only apply to about 8 of them. This section highlights some key things to look for when researching a given school.
 
 ## Financial Aid (Scholarship)

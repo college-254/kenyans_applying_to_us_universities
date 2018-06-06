@@ -4,6 +4,8 @@ title: 03. What are US universities looking for in international students?
 date: 2016-09-08
 ---
 
+# 03. What are US universities looking for in international students?
+
 This section has been extracted from the [EGF Guide](https://drive.google.com/open?id=0BxcN6nrpsXL6eHlBUHBNaGdTZ00).
 
 While an admission decision based purely on test scores and grade point averages is easier to explain, such scores seldom reflect an applicant’s intellectual curiosity, creativity, originality and love of learning. Applicants can distinguish themselves for admission in a number of ways. Some show unusual academic promise through achievements in study or research that place them among the best potential scholars of their generation.

@@ -4,6 +4,8 @@ title: 13. Early Action (EA)/ Single Choice Early Action (SCEA)/ Early Decision 
 date: 2016-09-08
 ---
 
+# 13. Early Action (EA)/ Single Choice Early Action (SCEA)/ Early Decision (ED) & Regular Decision (RD)
+
 There are four types of college applications that you can send:
 
 * Early applications (EA, SCEA & ED) are usually due by November 1st, and you get the results in mid-December.

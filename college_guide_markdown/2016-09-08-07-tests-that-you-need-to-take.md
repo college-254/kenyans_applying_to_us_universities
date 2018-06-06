@@ -4,6 +4,8 @@ title: 07. Tests that you need to take
 date: 2016-09-08
 ---
 
+# 07. Tests that you need to take
+
 ## SAT
 
 * Created by College Board, the SAT is a college entrance exam used by most US colleges to make admissions decisions. This is not to mean that only the SAT matters in your application. There’s a lot more than the SAT that is considered for admission to US colleges e.g. co-curricular activities, admissions essays, GPA and teacher recommendations.

@@ -4,6 +4,8 @@ title: 12. High School Transcript, School Report and Letters of Recommendation
 date: 2016-09-08
 ---
 
+# 12. High School Transcript, School Report and Letters of Recommendation
+
 ## Transcript and School Report
 
 The transcript should contain all of your term grades since Form One. Here’s a [sample tanscript](https://drive.google.com/open?id=0BxcN6nrpsXL6Rk9LYlF5dnNVb28) that shows how a student’s grades may be presented. Please note that the transcript should be prepared on a school letterhead, bear the official school stamp and signed by an authority (usually the School Principal, but check your high school’s policy).

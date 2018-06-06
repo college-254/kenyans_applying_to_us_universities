@@ -4,6 +4,8 @@ title: 17. The I-20 Form, SEVIS Fee and Visa Interview
 date: 2016-09-08
 ---
 
+# 17. The I-20 Form, SEVIS Fee and Visa Interview
+
 If there’s a document that you’ll hold dear to your heart, it’s your [I-20 Form](https://studyinthestates.dhs.gov/2013/01/what-is-the-form-i-20). Once you’ve committed to your university, the Admissions Office/ International Students Office will send you the I-20. Ensure that you provide a reliable delivery address to avoid any inconvenience. The I-20 is proof that you’ve been admitted to the university, so scan it to ensure that you have a digital copy as well.
 
 If you’ve not yet made contact with [EducationUSA’s Office at the US Embassy in Gigiri](http://nairobi.usembassy.gov/edusa.html), we highly recommend that you do so. There are sessions designed for admitted students ranging from Visa Application workshops to Pre-Departure Orientation. The Visa Application workshop is especially helpful since it outlines the next steps that you need to take, and you also get a chance to clarify any steps that you don’t understand from a Consulate Officer (the people who actually approve your visa application). Although the process may have changed since 2015 when we had our visa applications, the process is generally like this:

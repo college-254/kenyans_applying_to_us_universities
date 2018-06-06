@@ -4,6 +4,8 @@ title: 18. Coming to the US - Travel Arrangements
 date: 2016-09-08
 ---
 
+# 18. Coming to the US - Travel Arrangements
+
 ## Booking Flights
 
 Booking flights can be quite hectic if you don’t know where to start. However, there are many agencies that can help you book your flights very convenient. If you know someone who has gone abroad before, it may be wise to ask them how they booked their flights. The following are some of the different ways you can book your flights:

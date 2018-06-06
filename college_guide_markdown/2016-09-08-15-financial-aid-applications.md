@@ -4,6 +4,8 @@ title: 15. Financial Aid Applications
 date: 2016-09-08
 ---
 
+# 15. Financial Aid Applications
+
 Application for Financial Aid (scholarships) is yet another crucial part of your college application. US universities are pretty expensive compared to Kenyan universities. With annual costs exceeding $65,000, Financial Aid comes in handy. US universities have endowments from which they can sponsor students. However, only some of the colleges (see the list we provided earlier) avail these funds to international students. Even so, the amount of aid they can offer depends on how rich the university is, for instance, some schools offer a no-loan package for internationals, while other schools may include loans in the Financial Aid Award. Therefore, it’s advantageous to apply to about 8 universities since admission isn’t the only thing that counts – whether you can afford the school also counts. In fact, before your visa gets approved, you’ll have to prove that you can afford your degree.
 
 There are 3 types of Financial Aid:

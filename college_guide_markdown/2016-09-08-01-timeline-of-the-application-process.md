@@ -4,6 +4,8 @@ title: 01. Timeline of the Application Process
 date: 2016-09-08
 ---
 
+# 01. Timeline of the Application Process
+
 Usually, the application process begins after completing high school. This must not be the case though. If you can take the standardized tests before you complete high school and pass, then you can consider that option. Remember your KCSE exams are not a requirement for your application abroad, but at times boost the strength of your application.
 
 The following are steps and the general timelines in the application process. We’ll address these steps in more detail later on.

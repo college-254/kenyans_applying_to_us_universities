@@ -4,6 +4,8 @@ title: 19. Freshman Pro-Tips
 date: 2016-09-08
 ---
 
+# 19. Freshman Pro-Tips
+
 This [Reddit post](https://www.reddit.com/r/AskReddit/comments/2ul7xd/what_is_your_best_pro_tip_for_new_college_students/) discusses some tips for incoming freshmen. I’ll highlight some of the pro-tips right here and add some of my own:
 
 * Wear your lanyard throughout the first two weeks. You will look back to that moment and smile.

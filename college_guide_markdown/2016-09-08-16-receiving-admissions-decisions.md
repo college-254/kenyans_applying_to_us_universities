@@ -4,6 +4,8 @@ title: 16. Receiving Admission Decisions
 date: 2016-09-08
 ---
 
+# 16. Receiving Admission Decisions
+
 ### It’s December. Your early application results are in!
 
 The school will have sent you an email with a link to the decisions portal. The school can tell you one of four things: Accepted, Waitlisted, Deferred, or Rejected.

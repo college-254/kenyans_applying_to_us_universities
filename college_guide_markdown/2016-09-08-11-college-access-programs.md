@@ -4,6 +4,8 @@ title: 11. Organizations in Kenya that Help Students Apply to US Universities
 date: 2016-09-08
 ---
 
+# 11. Organizations in Kenya that Help Students Apply to US Universities
+
 ## [EaSEP (Education and Social Empowerment Fund)](http://www.easep.org/)
 
 EaSEP picks a group of about 10 promising students and guides them in their application to US colleges. EaSEP’s requirements are quite straightforward:
