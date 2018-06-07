@@ -24,7 +24,7 @@ body {
 
 #main_div {
     flex: 1;
-    margin: 5px 50px 5px 50px /* Clockwise: T R B L */
+    margin: 10px 50px 5px 50px /* Clockwise: T R B L */
 }
 
 .topnav {
@@ -101,6 +101,10 @@ body {
 .w3-padding-32{
     padding-top:32px !important;
     padding-bottom:32px !important
+}
+
+.w3-center {
+    align-content: center;
 }
 
 .w3-content{
