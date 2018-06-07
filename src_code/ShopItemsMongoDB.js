@@ -1,7 +1,6 @@
 var ShopItem = require('./ShopItemSchema.js');
 var config = require('../config.js');
 var mongoose = require('mongoose');
-var MetadataDB = require('./MetadataMongoDB');
 
 var debug = false;
 
@@ -34,7 +33,7 @@ exports.create = function (shop_item_json, callBack) {
             });
         } else {
             callBack({
-                "success": false, "internal_error": false,
+                "success": true, "internal_error": false,
                 "message": saved_shop_item
             });
         }
