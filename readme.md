@@ -4,6 +4,8 @@
 
 * [How to publish new articles](#how-to-publish-new-articles)
 
+The test instance is running at [https://applicants-254.herokuapp.com/](https://applicants-254.herokuapp.com/) from the `prod` branch.
+
 ## To-do List
 
 If you have some time on your hands, help us achieve any of the following. We're welcome to pull requests and suggestions on how to imporove this project.
