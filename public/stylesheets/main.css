@@ -24,7 +24,7 @@ body {
 
 #main_div {
     flex: 1;
-    margin: 10px 50px 5px 50px /* Clockwise: T R B L */
+    margin: 10px 20% 5px 12% /* Clockwise: T R B L */
 }
 
 .topnav {
