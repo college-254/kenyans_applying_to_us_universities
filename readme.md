@@ -18,6 +18,10 @@ If you have some time on your hands, help us achieve any of the following. We're
 
   * :white_check_mark: Display an article's metadata on the web page.
 
+* :white_check_mark: Include a calendar on the home page. Add events related to college applications.
+
+* Style the website to be presentable even on mobile.
+
 * Generate shop data from the database. Implement logic for maintaining shop's inventory.
 
 * Support basic user accounts. Current students in the US should be able to sign up as mentors/collaborators. Applicants should be able to sign up as applicants. Match them up, but let the users find other means of chatting, e.g. WhatsApp. Don't write a messaging platform!
