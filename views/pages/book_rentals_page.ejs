@@ -3,8 +3,73 @@
 
 <head>
     <title>SAT Prep Rentals</title>
-    <meta name="date" content="2017-06-12">
     <% include ../partials/header.ejs %>
+
+    <style>
+
+        h1 {
+            font-size: 28px; flex: 1;
+        }
+
+        h5, h6 {
+            color: #666;
+        }
+
+        .product-filter {
+            display: flex; padding: 30px 0;
+        }
+
+        .product-filter h1 {
+            flex-grow: 1;
+        }
+
+        .sort {
+            display: flex; align-self: flex-end;
+        }
+
+        .collection-sort {
+            display: flex; flex-direction: column; padding: 2%;
+        }
+
+        .products {
+            display: flex; flex-wrap: wrap;
+        }
+
+        .product-card {
+            padding: 2%; flex-grow: 1; flex-basis: 46%; display: flex;
+            flex-direction: column;
+        }
+
+        .product-image img {
+            max-width: 100%;
+        }
+
+        .product-info {
+            margin-top: auto; padding-top: 20px; text-align: center;
+        }
+
+        @media (max-width: 920px) {
+            .product-card {
+                flex-grow: 1; flex-basis: 46%;
+            }
+        }
+
+        @media (max-width: 600px) {
+            .product-card {
+                flex-grow: 1; flex-basis: 46%;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .product-filter {
+                flex-direction: column;
+            }
+            .sort {
+                align-self: flex-start;
+            }
+        }
+
+    </style>
 </head>
 
 <body>
@@ -13,10 +78,136 @@
 
     <div id="main_div">
 
-        <h1>SAT Prep Rentals</h1>
+        <!-- Guidance on setting up shop items: 
+            https://css-tricks.com/designing-a-product-page-layout-with-flexbox/
+            https://www.w3schools.com/css/css3_flexbox.asp
+        -->
 
-        <div id="book_rentals_container">
-        
+        <div class="product-container">
+
+            <nav class="product-filter">
+            
+                <h1>SAT Prep Rentals</h1>
+            
+                <div class="sort">
+            
+                    <div class="collection-sort">
+                        <label>Filter by:</label>
+                        <select>
+                            <option value="All Books">All Books</option>
+                            <option value="Main SAT">Main SAT</option>
+                            <option value="Math Level 1">Math Level 1</option>
+                            <option value="Math Level 2">Math Level 2</option>
+                        </select>
+                    </div>
+            
+                    <div class="collection-sort">
+                        <label>Sort by:</label>
+                        <select>
+                            <option value="Price">Price</option>
+                        </select>
+                    </div>
+            
+                </div>
+
+            </nav>
+
+            <section class="products">
+            
+                <div class="product-card">
+                    <div class="product-image">
+                        <img src="http://i.imgur.com/cnRP45L.jpg">
+                    </div>
+                    <div class="product-info">
+                        <h5>Cracking the SAT: Chemistry, 15th Ed</h5>
+                        <h6>3 Practice Tests</h6>
+                        <h6>Market Price: 3,093 KES</h6>
+                        <h6>Weekly Rental Price: 257 KES</h6>
+                        <h6>Number in Stock: 1</h6>
+                    </div>
+                </div>
+            
+                <div class="product-card">
+                    <div class="product-image">
+                        <img src="http://i.imgur.com/cnRP45L.jpg">
+                    </div>
+                    <div class="product-info">
+                        <h5>Cracking the SAT: Chemistry, 15th Ed</h5>
+                        <h6>3 Practice Tests</h6>
+                        <h6>Market Price: 3,093 KES</h6>
+                        <h6>Weekly Rental Price: 257 KES</h6>
+                        <h6>Number in Stock: 1</h6>
+                    </div>
+                </div>
+            
+                <div class="product-card">
+                    <div class="product-image">
+                        <img src="http://i.imgur.com/cnRP45L.jpg">
+                    </div>
+                    <div class="product-info">
+                        <h5>Cracking the SAT: Chemistry, 15th Ed</h5>
+                        <h6>3 Practice Tests</h6>
+                        <h6>Market Price: 3,093 KES</h6>
+                        <h6>Weekly Rental Price: 257 KES</h6>
+                        <h6>Number in Stock: 1</h6>
+                    </div>
+                </div>
+            
+                <div class="product-card">
+                    <div class="product-image">
+                        <img src="http://i.imgur.com/cnRP45L.jpg">
+                    </div>
+                    <div class="product-info">
+                        <h5>Cracking the SAT: Chemistry, 15th Ed</h5>
+                        <h6>3 Practice Tests</h6>
+                        <h6>Market Price: 3,093 KES</h6>
+                        <h6>Weekly Rental Price: 257 KES</h6>
+                        <h6>Number in Stock: 1</h6>
+                    </div>
+                </div>
+            
+                <div class="product-card">
+                    <div class="product-image">
+                        <img src="http://i.imgur.com/cnRP45L.jpg">
+                    </div>
+                    <div class="product-info">
+                        <h5>Cracking the SAT: Chemistry, 15th Ed</h5>
+                        <h6>3 Practice Tests</h6>
+                        <h6>Market Price: 3,093 KES</h6>
+                        <h6>Weekly Rental Price: 257 KES</h6>
+                        <h6>Number in Stock: 1</h6>
+                    </div>
+                </div>
+            
+                <div class="product-card">
+                    <div class="product-image">
+                        <img src="http://i.imgur.com/cnRP45L.jpg">
+                    </div>
+                    <div class="product-info">
+                        <h5>Cracking the SAT: Chemistry, 15th Ed</h5>
+                        <h6>3 Practice Tests</h6>
+                        <h6>Market Price: 3,093 KES</h6>
+                        <h6>Weekly Rental Price: 257 KES</h6>
+                        <h6>Number in Stock: 1</h6>
+                    </div>
+                </div>
+            
+                <div class="product-card">
+                    <div class="product-image">
+                        <img src="http://i.imgur.com/cnRP45L.jpg">
+                    </div>
+                    <div class="product-info">
+                        <h5>Cracking the SAT: Chemistry, 15th Ed</h5>
+                        <h6>3 Practice Tests</h6>
+                        <h6>Market Price: 3,093 KES</h6>
+                        <h6>Weekly Rental Price: 257 KES</h6>
+                        <h6>Number in Stock: 1</h6>
+                    </div>
+                </div>
+            
+            
+            </section>
+
         </div>
 
         <div>
