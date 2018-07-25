@@ -16,8 +16,12 @@
             var date_obj = new Date(metadata.date.content);
             metadataString += `${date_obj.toDateString()}`;
         }
-        document.getElementsByTagName("h1")[0].insertAdjacentHTML(
-            "afterend", `<p class='meta_string'>${metadataString}</p>`
-        );
+
+        var element = document.getElementsByTagName("h1")[0]
+        if (element) {
+            element.insertAdjacentHTML(
+                "afterend", `<p class='meta_string'>${metadataString}</p>`
+            );
+        }
     }
 </script>

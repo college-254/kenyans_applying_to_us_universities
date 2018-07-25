@@ -160,3 +160,28 @@ body {
 .w3-padding-small{
     padding:4px 8px!important
 }
+
+.shop_item {
+    border: 3px solid black;
+    border-radius: 5px;
+}
+
+/* Why doesn't this work... */
+.shop_item div img {
+    width: 2;
+    height: 2;
+}
+
+/* ... yet this works? 
+.shop_item div p {
+    font-size: xx-large;
+}
+*/
+
+.w3-left{
+    float:left!important
+}
+
+.w3-right{
+    float:right!important
+}
