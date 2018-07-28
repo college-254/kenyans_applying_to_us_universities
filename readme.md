@@ -1,10 +1,24 @@
+> Note: On this branch, only edit stuff related to the Google Cloud Platform deployments. Any logical or content changes should be pulled from the `master` branch.
+
 # Contents
+
+* [Deploying the Site](#deploying-the-site)
 
 * [To-do List](#kenyans-applying-to-us-universities-to-do-list)
 
 * [How to publish new articles](#how-to-publish-new-articles)
 
-The test instance is running at [https://masomo254.herokuapp.com/](https://applicants-254.herokuapp.com/) from the `prod` branch.
+## Deploying the Site
+
+<sub><sup>[:arrow_up: Back to top](#contents)</sup></sub>
+
+This branch is configured to run on the Google Cloud Platform. Unlike Heroku's free tier that necessitates the site to go to sleep for at least 6 hours per day, GCP's free tier allows us to serve the site all day.
+
+From the root folder of this repository:
+
+1. Run `$ gcloud config set project applicants-254-v2`. `$ gcloud config list` shows you the current configuration.
+
+1. Run `$ gcloud app deploy`.
 
 ## To-do List
 
