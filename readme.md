@@ -12,7 +12,7 @@
 
 <sub><sup>[:arrow_up: Back to top](#contents)</sup></sub>
 
-This branch is configured to run on the Google Cloud Platform. Unlike Heroku's free tier that necessitates the site to go to sleep for at least 6 hours per day, GCP's free tier allows us to serve the site all day.
+This branch is configured to run on the Google Cloud Platform at https://applicants-254-v2.appspot.com. Unlike Heroku's free tier that necessitates the site to go to sleep for at least 6 hours per day, GCP's free tier allows us to serve the site all day.
 
 From the root folder of this repository:
 
