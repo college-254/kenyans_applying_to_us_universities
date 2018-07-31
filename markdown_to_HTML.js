@@ -21,6 +21,9 @@ var converter = new showdown.Converter({
 });
 
 /**
+ * @description Parse the specified markdown file and return its metadata and 
+ * body contents in HTML.
+ * 
  * @param {String} file_path The location of the markdown file.
  * 
  * @param {Function} callback The first parameter is set only when the function
