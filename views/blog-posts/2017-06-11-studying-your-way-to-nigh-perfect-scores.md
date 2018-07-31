@@ -9,10 +9,6 @@ abstract: A discussion on why lots of practice trumps the SAT.
 
 # Studying your Way to (Nigh) Perfect Scores
 
-![Chege's SAT Scores](/images/scores-collage.png =90%x90%)
-
-I took my SATs a while back, and that's what I scored. This post highlights the insights that I gained while studying. Feel free to message us on Facebook if you have more questions, or leave a comment.
-
 The fact that the SATs are standardized also reveals their greatest weakness - they can only test so much. Think about it this way: all editions of the test must be comparable. If you can consistently do well on your practice tests, your final score won’t be remarkably different.
 
 Of course, the above strategy works best only if you practice with materials that closely resemble the actual test. Unfortunately, College Board doesn’t offer an infinite number of practice tests for you.

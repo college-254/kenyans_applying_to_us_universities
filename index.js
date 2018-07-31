@@ -1,9 +1,10 @@
 var express = require('express');
 var bodyParser = require('body-parser');
 var path = require('path');
+const markdown_to_html = require("./markdown_to_HTML.js");
 
-var app = express();
-var port = process.env.PORT || 8080;
+const app = express();
+const port = process.env.PORT || 5000;
 
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
@@ -17,11 +18,15 @@ app.get('/', (request, response) => {
 });
 
 app.get(/college-guide*/, (request, response) => {
-    response.render(`college-guide/${request.url.split("/")[2]}`);
+    generate_html(
+        `./views${request.path}.md`, "pages/article_template", response
+    );
 });
 
 app.get(/blog-posts*/, (request, response) => {
-    response.render(`blog-posts/${request.url.split("/")[2]}`);
+    generate_html(
+        `./views${request.path}.md`, "pages/article_template", response
+    );
 });
 
 app.get('/book-rentals', (request, response) => {
@@ -35,3 +40,13 @@ app.get('/about', (request, response) => {
 app.listen(port, () => {
     console.log(`App is running on port ${port}`);
 });
+
+function generate_html(markdown_filepath, target_template, response) {
+    markdown_to_html.html_from_markdown_file(
+        markdown_filepath,
+        (err, parsed_html) => {
+            if (err) response.render("pages/4xx_error_page");
+            else response.render(target_template, parsed_html);
+        }
+    );
+}
