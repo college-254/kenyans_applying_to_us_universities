@@ -4,8 +4,6 @@
 
 * [How to publish new articles](#how-to-publish-new-articles)
 
-The test instance is running at [https://masomo254.herokuapp.com/](https://applicants-254.herokuapp.com/) from the `prod` branch.
-
 ## To-do List
 
 <sub><sup>[:arrow_up: Back to top](#contents)</sup></sub>
@@ -32,7 +30,7 @@ If you have some time on your hands, help us achieve any of the following. We're
 
 <sub><sup>[:arrow_up: Back to top](#contents)</sup></sub>
 
-Write an appropriate markdown document in `./posts_markdown/`. Include relevant metadata at the top of the markdown document. Please name your .md file in this format: `YYYY-MM-DD-title.md`. For instance, in `./posts_markdown/2017-06-03-new-sat-rentals-available.md`, you might have metadata:
+1. Write an appropriate markdown document in `./posts_markdown/`. Include relevant metadata at the top of the markdown document. Please name your .md file in this format: `YYYY-MM-DD-title.md`. For instance, in `./posts_markdown/2017-06-03-new-sat-rentals-available.md`, you might have metadata:
 
     ```markdown
     ---
@@ -48,4 +46,4 @@ Write an appropriate markdown document in `./posts_markdown/`. Include relevant 
     We're now offering SAT Prep Books...{Rest of the Document}
     ```
 
-That's it! There are under-the-hood scripts that will make sure that the post and appropriate hyperlinks appear on the website.
+2. Add an hyperlink in the appropriate section of `./partials/navbar.ejs`.
