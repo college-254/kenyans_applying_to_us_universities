@@ -44,7 +44,6 @@ exports.html_from_markdown_file = function(file_path, callback) {
             Object.keys(metadata).forEach((key) => {
                 metadata_html += `<meta name="${key}" content="${metadata[key]}">`;
             });
-            console.log(content_html);
             callback(null, {
                 metadata_html: metadata_html, content_html: content_html
             });
