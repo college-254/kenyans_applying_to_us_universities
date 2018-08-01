@@ -121,3 +121,11 @@ body {
 .w3-right{
     float:right!important
 }
+
+/* If the browser window reduces in size, remove the padding 
+ * from the main content */
+@media screen and (max-width: 900px) {
+    #main_div {
+        margin: 0;
+    }
+}
