@@ -26,21 +26,18 @@ From the root folder of this repository:
 
 If you have some time on your hands, help us achieve any of the following. We're welcome to pull requests and suggestions on how to imporove this project.
 
-* :white_check_mark: Transfer the college guide from WordPress to markdown documents.
+:white_check_mark: Transfer the college guide from WordPress to markdown documents.
 
-* :white_check_mark: Write a module for converting markdown documents to the HTML needed for the website. As soon as a writer transforms their markdown doc using `markdown_to_HTML.js`, we want it up on the website without having to fiddle with HTML docs.
+:white_check_mark: Generate HTML directly from markdown. All future posts should be written in markdown.
 
-  * :white_check_mark: Ensure that the content is placed inside main_div
+:white_check_mark: Include a calendar on the home page with events related to college applications.
 
-  * :white_check_mark: Display an article's metadata on the web page.
+:white_check_mark: Style the website to be presentable even on mobile.
 
-* :white_check_mark: Include a calendar on the home page. Add events related to college applications.
-
-* Style the website to be presentable even on mobile.
-
-* Generate shop data from the database. Implement logic for maintaining shop's inventory.
-
-* ~~Support basic user accounts. Current students in the US should be able to sign up as mentors/collaborators. Applicants should be able to sign up as applicants. Match them up, but let the users find other means of chatting, e.g. WhatsApp. Don't write a messaging platform!~~
+* Support basic user accounts. 
+  * Current students in the US should be able to sign up as mentors/collaborators. 
+  * Applicants should be able to sign up as applicants. 
+  * Match them up, but let the users find other means of chatting, e.g. WhatsApp. Don't write a messaging platform!
 
 ## How to Publish New Articles
 

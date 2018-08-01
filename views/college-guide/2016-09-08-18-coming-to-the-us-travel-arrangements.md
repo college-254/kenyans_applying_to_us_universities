@@ -10,11 +10,11 @@ date: 2016-09-08
 
 Booking flights can be quite hectic if you don’t know where to start. However, there are many agencies that can help you book your flights very convenient. If you know someone who has gone abroad before, it may be wise to ask them how they booked their flights. The following are some of the different ways you can book your flights:
 
-    * Flight-Booking Apps: You can find numerous suggestions for the apps you can use, these should not be limited. An example of these apps is [StudentUniverse](https://www.studentuniverse.com/) to book my flights, which I find very convenient.
+* Flight-Booking Apps: You can find numerous suggestions for the apps you can use, these should not be limited. An example of these apps is [StudentUniverse](https://www.studentuniverse.com/) to book my flights, which I find very convenient.
 
-    * Agencies: There are a handful of agencies that can help you book a flight. You could always check online for these agencies, but it would be even better if you know of someone who has actually used that agency before. Agencies may be more expensive, but they are hustle-free for first-time flyers.
+* Agencies: There are a handful of agencies that can help you book a flight. You could always check online for these agencies, but it would be even better if you know of someone who has actually used that agency before. Agencies may be more expensive, but they are hustle-free for first-time flyers.
 
-    * Airline Websites: The other option for finding flights is simply looking into an airline website. This is usually preferred for people who have a strong preference for specific airlines.
+* Airline Websites: The other option for finding flights is simply looking into an airline website. This is usually preferred for people who have a strong preference for specific airlines.
 
 As you travel, ensure that you have a few dollars, at least $50, to cater for your food at the airport and a few other things that may emerge on transit.
 
