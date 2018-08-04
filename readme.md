@@ -1,8 +1,18 @@
 # Contents
 
+* [Deploying the Site](#deploying-the-site)
+
 * [To-do List](#kenyans-applying-to-us-universities-to-do-list)
 
 * [How to publish new articles](#how-to-publish-new-articles)
+
+## Deploying the Site
+
+The site is primarily served from Google Cloud Platform, but we also maintain a backup site on Heroku.
+
+To deploy, switch to the `running-on-gcloud` and `running-on-heroku` branches. In each branch, pull the changes from the master branch, and then follow the deployment instructions in the readme.
+
+Please make sure that you've not broken the site.
 
 ## To-do List
 
