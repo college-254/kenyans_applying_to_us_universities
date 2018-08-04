@@ -10,6 +10,15 @@
 
 If you have some time on your hands, help us achieve any of the following. We're welcome to pull requests and suggestions on how to imporove this project.
 
+* Support basic user accounts. 
+  * Current students in the US should be able to sign up as mentors/collaborators. 
+  * Applicants should be able to sign up as applicants. 
+  * Match them up, but let the users find other means of chatting, e.g. WhatsApp. Don't write a messaging platform!
+
+* WordPress used to provide stats for us. We now need to fetch the logs ourselves and get some stats from them.
+
+* There is a version on Heroku and one on gcloud. Figure out a way of ensuring 100% up-time without spending any $$$.
+
 :white_check_mark: Transfer the college guide from WordPress to markdown documents.
 
 :white_check_mark: Generate HTML directly from markdown. All future posts should be written in markdown.
@@ -17,11 +26,6 @@ If you have some time on your hands, help us achieve any of the following. We're
 :white_check_mark: Include a calendar on the home page with events related to college applications.
 
 :white_check_mark: Style the website to be presentable even on mobile.
-
-* Support basic user accounts. 
-  * Current students in the US should be able to sign up as mentors/collaborators. 
-  * Applicants should be able to sign up as applicants. 
-  * Match them up, but let the users find other means of chatting, e.g. WhatsApp. Don't write a messaging platform!
 
 ## How to Publish New Articles
 

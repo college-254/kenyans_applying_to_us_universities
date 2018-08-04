@@ -10,11 +10,30 @@
     // Load and display any available metadata
     window.onload = function() {
         var metadataString = "";
+        var insert_extra_break = false;
         var metadata = document.getElementsByTagName("meta");
-        if (metadata.author) metadataString += `By ${metadata.author.content}<br><br>`;
+        if (metadata.author) {
+            metadataString += `By ${metadata.author.content}`;
+            insert_extra_break = true;
+        }
+
         if (metadata.date) {
             var date_obj = new Date(metadata.date.content);
-            metadataString += `${date_obj.toDateString()}`;
+            if (insert_extra_break) {
+                metadataString += `<br><br>Published: ${date_obj.toDateString()}`;
+            } else {
+                metadataString += `Published: ${date_obj.toDateString()}`;
+            }
+            insert_extra_break = true;
+        }
+
+        if (metadata.updated) { // 
+            var date_obj = new Date(metadata.updated.content);
+            if (insert_extra_break) {
+                metadataString += `<br><br>Updated: ${date_obj.toDateString()}`;
+            } else {
+                metadataString += `Updated: ${date_obj.toDateString()}`;
+            }
         }
 
         var element = document.getElementsByTagName("h1")[0]
