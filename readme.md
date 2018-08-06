@@ -57,4 +57,6 @@ If you have some time on your hands, help us achieve any of the following. We're
     We're now offering SAT Prep Books...{Rest of the Document}
     ```
 
-2. Add an hyperlink in the appropriate section of `./partials/navbar.ejs`.
+2. Add an hyperlink in the appropriate section of `./partials/navbar.ejs`. Also add an entry at the top of `./public/feed.xml`.
+
+3. [Re-deploy the site](#deploying-the-site).
