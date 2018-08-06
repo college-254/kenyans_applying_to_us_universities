@@ -34,6 +34,8 @@ body {
     font-style: italic
 }
 
+/*
+
 .w3-container {
     padding:0.01em 16px
 }
@@ -97,6 +99,8 @@ body {
     padding:4px 8px!important
 }
 
+*/
+
 .shop_item {
     border: 3px solid black;
     border-radius: 5px;
@@ -114,6 +118,7 @@ body {
 }
 */
 
+/*
 .w3-left{
     float:left!important
 }
@@ -121,6 +126,8 @@ body {
 .w3-right{
     float:right!important
 }
+
+*/
 
 /* If the browser window reduces in size, remove the padding 
  * from the main content */
