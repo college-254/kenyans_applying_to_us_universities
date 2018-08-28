@@ -37,6 +37,10 @@ app.get('/about', (request, response) => {
     response.render('pages/about_page');
 });
 
+app.get('/contribute', (request, response) => {
+    response.render('pages/contributors_page');
+});
+
 app.listen(port, () => {
     console.log(`App is running on port ${port}`);
 });
