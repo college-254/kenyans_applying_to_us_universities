@@ -37,8 +37,16 @@ app.get('/about', (request, response) => {
     response.render('pages/about_page');
 });
 
-app.get('/contribute', (request, response) => {
-    response.render('pages/contributors_page');
+app.get('/become-a-reviewer-or-tutor', (request, response) => {
+    response.render('pages/become_a_reviewer_or_tutor');
+});
+
+app.get('/request-a-reviewer-or-tutor', (request, response) => {
+    response.render('pages/request_essay_reviews_or_tutor');
+});
+
+app.use(function (req, res, next) {
+    res.status(404).render("pages/4xx_error_page");
 });
 
 app.listen(port, () => {
