@@ -37,12 +37,12 @@ app.get('/about', (request, response) => {
     response.render('pages/about_page');
 });
 
-app.get('/become-a-reviewer-or-tutor', (request, response) => {
-    response.render('pages/become_a_reviewer_or_tutor');
+app.get('/become-a-reviewer', (request, response) => {
+    response.render('pages/become_a_reviewer');
 });
 
-app.get('/request-a-reviewer-or-tutor', (request, response) => {
-    response.render('pages/request_essay_reviews_or_tutor');
+app.get('/request-a-reviewer', (request, response) => {
+    response.render('pages/request_essay_reviews');
 });
 
 app.use(function (req, res, next) {
