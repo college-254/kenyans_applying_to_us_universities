@@ -1,0 +1,13 @@
+<!-- 
+https://gohugo.io/getting-started/configuration-markup/#render-hook-templates
+-->
+<a href="{{ .Destination | safeURL }}"
+    {{ with .Title}} title="{{ . }}"{{ end }}
+    {{ $isExternalLink := strings.HasPrefix .Destination "http" }}
+    {{ if $isExternalLink }}
+        target="_blank" rel="noopener"
+    {{ else }}
+    {{ end }}>
+    {{ .Text | safeHTML }}
+    {{ if $isExternalLink }} <i class="fas fa-fw fa-external-link-alt"></i>{{ end }}
+</a>

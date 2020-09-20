@@ -1,0 +1,35 @@
+{{ define "main" }}
+<main>
+    <style>
+    div#tags-holder {
+        display: flex;
+        flex-flow: row wrap;
+    }
+
+    div#tags-holder > a {
+        margin: 0% 2%;
+    }    
+    </style>
+    <article>
+        <header>
+            <h1>{{.Title}}</h1>
+        </header>
+        <!-- "{{.Content}}" pulls from the markdown content of the corresponding _index.md -->
+        {{.Content}}
+    </article>
+
+    <div style="margin: 1%;">
+        <span class="link-style" onclick="goToRandomPage();">Random Link ¯\_(ツ)_/¯</span>
+    </div>
+
+    <div id="tags-holder">
+    {{ range .Data.Terms.ByCount }}
+        <a href="{{ .Page.Permalink }}">{{ .Page.Title }} ({{ .Count }})</a>
+    {{ end }}
+    </div>
+
+    <!-- TODO(dchege711, #1) -->
+    {{ partial "im-feeling-lucky-naive.html" . }}
+
+</main>
+{{ end }}

@@ -1,0 +1,180 @@
+/*******************************************************************************
+ * General CSS
+ ******************************************************************************/
+
+.hidden {
+    display: none;
+}
+
+body {
+    display: flex;
+    /* min-height: 100vh; */
+    flex-direction: column;
+    padding: 0;
+    margin-bottom: 5em;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 100;
+    background-color: #f6f6f6;
+    line-height: 200%;      
+}
+
+#site-navbar, #site-footer, #main_div {
+    margin: 10px 18% 5px 10%; /* Clockwise: T R B L */
+}
+
+#main_div {
+    flex: 1;
+    background-color: #ffffff;
+    border-radius: 15px;
+    padding: 2% 5% 2% 5%;
+}
+
+/* If the browser window reduces in size, remove the padding 
+ * from the main content */
+ @media screen and (max-width: 900px) {
+    #main_div {
+        margin: 0;
+    }
+}
+
+/*******************************************************************************
+ * Citations
+ ******************************************************************************/
+
+/** Used for citations. */
+div.citation {
+    padding: 1% 2%;
+    margin: 2% 0%;
+}
+
+div.citation a {
+    word-break: break-all; /* Source URLs can get pretty long */
+}
+
+/*******************************************************************************
+ * Navigation and footers
+ ******************************************************************************/
+
+nav, footer {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+}
+
+nav {
+    padding: 0 0 1% 0;
+    border-bottom: 1px solid #d5d5d5;
+}
+
+nav a {
+    font-weight: bold;
+    text-decoration: none !important;
+}
+
+footer {
+    border-top: 1px solid #d5d5d5;
+    position: relative;
+    bottom: 0;
+    padding: 2% 0 1% 0;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    font-size: .8em;
+}
+
+footer a {
+    text-decoration: none !important;
+}
+
+nav ul {
+    flex-flow: wrap;
+}
+
+nav ul li {
+    list-style-type: none;
+}
+
+.breadcrumb ul {
+    display: flex;
+}
+    
+.breadcrumb li::before {
+    content: " ⇒ ";
+}
+    
+.breadcrumb li:first-child::before {
+    content: "";
+}
+
+nav#TableOfContents li {
+    list-style-type: circle !important;
+}
+
+/*******************************************************************************
+ * Post headers and links to posts.
+ ******************************************************************************/
+
+ .post h1, .post h2 {
+    font-size: 1.2em;
+}
+
+ul.posts { 
+    margin: 20px auto 40px;
+}
+
+ul.posts li {
+    list-style: none;
+}
+
+/*******************************************************************************
+ * Table CSS.
+ ******************************************************************************/
+
+ table {
+    border-collapse: collapse;
+    width: auto;
+}
+
+th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #4CAF50;
+    color: white;
+}
+
+td, th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+tr:nth-child(even){
+    background-color: #f2f2f2;
+}
+
+td.no-decoration {
+    border: none;
+} 
+
+tr.no-decoration {
+    background-color: inherit;
+}
+
+/*******************************************************************************
+ * Miscellaneous
+ ******************************************************************************/
+
+/** Information about the page, e.g. last modified date. */
+.meta {
+    font-size: small;
+    font-style: italic;
+    color: gray;
+}
+
+/** A label for marking pages that are still in the draft stage. */
+span#draft-marker {
+    color: red;
+    padding: 1px 10px;
+    border: red thin solid;
+    border-radius: 3px;
+}

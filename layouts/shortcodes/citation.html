@@ -1,0 +1,31 @@
+<div class="citation">
+    <cite id='{{ with .Get "id" }}{{.}}{{ end }}'>
+        <!-- Only add a period if no punctuation exists -->
+        <i>{{.Get "title"}}{{ with .Get "title" }}{{ with findRE "[^.?!]$" . }}.{{ end }}</i>
+    {{ end }}
+    </cite>
+    {{ with .Get "authors" }} {{.}}.{{ end }}
+    {{ with .Get "author" }} {{.}}.{{ end }}
+    {{ with .Get "publication" }} {{.}}.{{ end }}
+    {{ with .Get "url" }}
+    <a href="{{.}}" target="_blank" rel="noopener"><i>{{.}}</i> <i class="fas fa-fw fa-external-link-alt"></i></a>.
+    {{ end }}
+    {{ with .Get "url_2" }}
+    <a href="{{.}}" target="_blank" rel="noopener"><i>{{.}}</i> <i class="fas fa-fw fa-external-link-alt"></i></a>.
+    {{ end }}
+    {{ with .Get "url_3" }}
+    <a href="{{.}}" target="_blank" rel="noopener"><i>{{.}}</i> <i class="fas fa-fw fa-external-link-alt"></i></a>.
+    {{ end }}
+    {{ with .Get "date" }} {{ dateFormat "Jan 2, 2006" . }}.{{ end }}
+    {{ with .Get "year" }} {{ . }}.{{ end }}
+    {{ with .Get "isbn" }} ISBN: {{.}}.{{ end }}
+    {{ with .Get "type" }}
+    {{ if eq . "book" }}
+    <i class="fas fa-fw fa-book" aria-hidden="true"></i>
+    {{ else if eq . "popular-article"}}
+    <i class="far fa-fw fa-newspaper" aria-hidden="true"></i>
+    {{ else if eq . "article" }}
+    <i class="far fa-fw fa-file-alt" aria-hidden="true"></i>
+    {{ end }}
+    {{ end }}
+</div>

@@ -1,0 +1,62 @@
+{{ define "main" }}
+<section>
+    <header>
+    <h1>{{with .Params.draft }}{{if .}}<span id="draft-marker">Draft</span>{{end}}{{end}} {{.Title}}</h1>
+    <p class="meta">
+        {{ if (isset .Params "date") }}
+        Dated {{ .Date.Format "Jan 2, 2006" }}; 
+        {{ end }}
+        last modified on {{.Lastmod.Format "Mon, 02 Jan 2006"}}
+        {{ if eq hugo.Environment "development" }}
+        ; <a href="vscode://file/Users/dchege711/kenyans_applying_to_us_universities/content/{{.File.Path}}">Edit in VS Code</a>
+        {{ end }}
+    </p>
+    </header>
+
+    <div id="toc-then-article">
+        <aside id="toc">
+            {{ .TableOfContents }}
+        </aside>
+
+        <article id="main-article">
+            {{.Content}}
+        </article>
+
+        {{ if isset .Params "tags" }}
+        <br />
+        <aside id="tags-holder" style="margin: 0 0 2% 0;">
+            Tags: 
+            {{ range .Params.tags }}
+                <a href="/tags/{{.}}">#{{.}}</a>
+            {{ end }}
+        </aside>
+        <br />
+        {{ end }}
+    </div>
+    <footer>
+        <!-- 
+        Modified from [1] since Hugo uses the default sort to determine previous
+        and next. These sorts should be the same ones used in ./list.html.
+
+        We need Scratch in order to overcome the variable scope limitations [2].
+
+        [1]: https://discourse.gohugo.io/t/custom-sort-hugo-single-pages/21442?u=felicianotech
+        [2]: https://gohugo.io/functions/scratch/
+        -->
+        {{ $pages := where (where .Parent.Pages "IsPage" true) ".File.TranslationBaseName" "ne" "_meta" }}
+        {{ if .Weight }}
+            {{ .Scratch.Set "sortedPages" $pages.ByWeight.Reverse }}
+        {{ else }}
+            {{ .Scratch.Set "sortedPages" $pages.ByLastmod.Reverse }}
+        {{ end }}
+
+        {{ with (.Scratch.Get "sortedPages").Prev . }}
+            <a href="{{ .Permalink }}">&laquo; {{ .Title }}</a>
+        {{ end }}
+        {{ with (.Scratch.Get "sortedPages").Next . }}
+            <a href="{{ .Permalink }}">{{ .Title }} &raquo;</a>
+        {{ end }}
+
+    </footer>
+</section>
+{{ end }}
