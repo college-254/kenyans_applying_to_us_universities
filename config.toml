@@ -1,0 +1,16 @@
+baseURL = "https://www.kenyansapplyingtousuniversities.com/"
+languageCode = "en-us"
+title = "Kenyans Applying to US Universities"
+enableGitInfo = "true"
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  domain = "domains"
+  author = "authors"
+[markup.goldmark.renderer]
+  unsafe= true
+[markup]
+  [markup.tableOfContents]
+    endLevel = 5
+    ordered = false
+    startLevel = 2

@@ -1,0 +1,17 @@
+{{ define "main" }}
+{{.Content}}
+
+<table border="0">
+
+{{ $supressedPages := .Site.Params.standalonePages }}
+
+{{ range first 15 .Site.RegularPages.ByLastmod.Reverse }}
+    {{ if (and (not (in $supressedPages .Page.Title)) (ne .File.TranslationBaseName "_meta") ) }}
+        {{ partial "table-row-for-file" . }}
+    {{ end }}
+{{ end }}
+
+</table>
+
+{{ end }}
+

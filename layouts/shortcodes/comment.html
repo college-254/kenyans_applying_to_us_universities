@@ -1,0 +1,7 @@
+{{ $_hugo_config := `{ "version": 1 }` }}
+<!-- https://github.com/gohugoio/hugo/issues/5870#issuecomment-496080814 -->
+{{ with .Inner }}
+<div class="comment-holder">
+    <div class="comment">{{.}}</div>
+</div>
+{{ end }}

@@ -1,0 +1,29 @@
+{{ if eq .File.TranslationBaseName "_meta" }}
+    <tr class="no-decoration">
+        <td class="no-decoration">{{ .Parent.Date.Format "Jan 2, 2006" }}</td>
+        <td class="no-decoration">&raquo; </td>
+        <td class="no-decoration"><a href="{{.Parent.Permalink}}">{{ .Title }}</a></td>
+    </tr>
+{{ else }}
+    <tr class="no-decoration">
+        <td class="no-decoration">{{ .Date.Format "Jan 2, 2006" }}</td>
+        <td class="no-decoration">&raquo; </td>
+        <td class="no-decoration">
+            <a href="{{.Permalink}}">{{.Title}}</a>
+            {{ if .IsPage }}
+                {{ if .Lastmod }}
+                    <span class="meta">
+                    {{ .ReadingTime }} min; updated {{ .Lastmod.Format "Jan 2, 2006" }}
+                    </span>
+                    <p class="meta">
+                        {{ .Summary }}{{ if .Truncated }}...{{ end }}
+                    </p>
+                {{ end }}
+            {{ else }}
+                <span class="meta">
+                ({{ len .RegularPagesRecursive }} items)
+                </span>
+            {{ end }}
+        </td>
+    </tr>
+{{ end }}
