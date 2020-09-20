@@ -18,18 +18,11 @@
         {{.Content}}
     </article>
 
-    <div style="margin: 1%;">
-        <span class="link-style" onclick="goToRandomPage();">Random Link ¯\_(ツ)_/¯</span>
-    </div>
-
     <div id="tags-holder">
     {{ range .Data.Terms.ByCount }}
         <a href="{{ .Page.Permalink }}">{{ .Page.Title }} ({{ .Count }})</a>
     {{ end }}
     </div>
-
-    <!-- TODO(dchege711, #1) -->
-    {{ partial "im-feeling-lucky-naive.html" . }}
 
 </main>
 {{ end }}

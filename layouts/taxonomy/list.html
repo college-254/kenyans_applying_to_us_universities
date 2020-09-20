@@ -13,11 +13,6 @@
 
     <!-- Range through content/posts/*.md -->
     <table border="0">
-        <tr class="no-decoration">
-            <td class="no-decoration"></td>
-            <td class="no-decoration"></td>
-            <td class="no-decoration"><span class="link-style" onclick="goToRandomPage();">Random Link ¯\_(ツ)_/¯</span></td>
-        </tr>
         <!-- 
             When we're on a category page, say /category/books/, we want to list
             the `_meta.md` files so that we can link to the `_index.md` file that
@@ -41,9 +36,6 @@
         {{ end }}
         {{ end }}
     </table>
-
-    <!-- TODO(dchege711, #1) -->
-    {{ partial "im-feeling-lucky-naive.html" . }}
     
 </main>
 {{ end }}
