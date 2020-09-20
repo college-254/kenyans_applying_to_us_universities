@@ -2,6 +2,7 @@
 title: "A Message From the Authors"
 layout: standalone
 weight: 4
+summary: "A note from the authors of this site."
 ---
 
 Dear Prospective Applicant,

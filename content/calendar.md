@@ -1,6 +1,7 @@
 ---
 title: "Calendar"
 weight: 3
+summary: "Deadlines/Milestones for students applying to US colleges."
 ---
 
 ## Calendar
