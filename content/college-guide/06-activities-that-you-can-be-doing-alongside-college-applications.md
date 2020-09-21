@@ -2,6 +2,8 @@
 title: 06. Activities that you can be doing alongside college applications
 date: 2016-09-08
 weight: 6
+aliases:
+- 2016-09-08-06-activities-that-you-can-be-doing-alongside-college-applications/
 ---
 
 As much as we’re guiding you on how to apply to US universities, we’ll also offer suggestions on what you can be doing with your free time (assuming you’ve just done your KCSE). There’s more to life than watching an entire series per day!

@@ -2,6 +2,8 @@
 title: 07. Tests that you need to take
 date: 2016-09-08
 weight: 7
+aliases:
+- 2016-09-08-07-tests-that-you-need-to-take/
 ---
 
 ## SAT

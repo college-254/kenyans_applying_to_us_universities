@@ -2,6 +2,8 @@
 title: 08. Test Preparation Resources
 date: 2016-09-08
 weight: 8
+aliases:
+- 2016-09-08-08-test-preparation-resources/
 ---
 
 ## College Confidential

@@ -2,6 +2,8 @@
 title: 02. What will you gain from US universities?
 date: 2016-09-08
 weight: 2
+aliases:
+- 2016-09-08-02-what-will-you-gain-from-us-universities/
 ---
 
 Leaving friends and family for study in a foreign country seems daunting. Yet deciding to cross the Atlantic to study in the US might be one of the best decisions you can make in your life, seriously. Nothing comes easy, and the road to studying in the most elite of colleges demands sacrifice and commitment. Here’s why you should consider studying in the US:

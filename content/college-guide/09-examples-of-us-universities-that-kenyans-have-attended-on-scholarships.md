@@ -2,6 +2,8 @@
 title: 09. Examples of US universities that Kenyans have attended on scholarships
 date: 2016-09-08
 weight: 9
+aliases:
+- 2016-09-08-09-examples-of-us-universities-that-kenyans-have-attended-on-scholarships/
 ---
 
 An easy starting point for your college search would be universities where other Kenyans have attended. Here is a list* to get you started. The numbers in parentheses indicate the approximate number of undergrad Kenyan students as of August 2016. If a school doesn’t have a number next to it, it’s only because we’ve not yet heard from people attending that school.

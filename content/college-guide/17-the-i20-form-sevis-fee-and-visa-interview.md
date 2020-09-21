@@ -2,6 +2,8 @@
 title: 17. The I-20 Form, SEVIS Fee and Visa Interview
 date: 2016-09-08
 weight: 17
+aliases:
+- 2016-09-08-17-the-i20-form-sevis-fee-and-visa-interview/
 ---
 
 If there’s a document that you’ll hold dear to your heart, it’s your [I-20 Form](https://studyinthestates.dhs.gov/2013/01/what-is-the-form-i-20). Once you’ve committed to your university, the Admissions Office/ International Students Office will send you the I-20. Ensure that you provide a reliable delivery address to avoid any inconvenience. The I-20 is proof that you’ve been admitted to the university, so scan it to ensure that you have a digital copy as well.

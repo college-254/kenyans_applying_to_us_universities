@@ -2,6 +2,8 @@
 title: 03. What are US universities looking for in international students?
 date: 2016-09-08
 weight: 3
+aliases:
+- 2016-09-08-03-what-are-us-universities-looking-for-in-international-students/
 ---
 
 This section has been extracted from the [EGF Guide](https://drive.google.com/open?id=0BxcN6nrpsXL6eHlBUHBNaGdTZ00).

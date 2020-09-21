@@ -2,6 +2,8 @@
 title: 16. Receiving Admission Decisions
 date: 2016-09-08
 weight: 16
+aliases:
+- 2016-09-08-16-receiving-admissions-decisions/
 ---
 
 ### It’s December. Your early application results are in!

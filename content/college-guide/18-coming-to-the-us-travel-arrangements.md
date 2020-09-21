@@ -2,6 +2,8 @@
 title: 18. Coming to the US - Travel Arrangements
 date: 2016-09-08
 weight: 18
+aliases:
+- 2016-09-08-18-coming-to-the-us-travel-arrangements/
 ---
 
 ## Booking Flights

@@ -2,6 +2,8 @@
 title: 14. Common Application Essays and Writing Supplements
 date: 2016-09-08
 weight: 14
+aliases:
+- 2016-09-08-14-common-application-essays-and-writing-supplements/
 ---
 
 Unlike Kenyan universities which admit solely based on KCSE scores, US colleges require personal essays that show the applicant’s personality. The calibre of colleges that you’re applying to will NOT smother your feet with kisses for having a 4.0 GPA and perfect scores! So give yourself enough time to craft memorable essays. You will find these essay prompts on your Common App. The essays range from short answers (less than 150 words), to medium-sized ones (300 words) and finally, long ones (650 words). Heed the word limits since the Common App will not accept any essays above the word limit.
