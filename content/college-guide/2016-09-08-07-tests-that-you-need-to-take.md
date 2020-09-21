@@ -1,5 +1,4 @@
 ---
-layout: post 
 title: 07. Tests that you need to take
 date: 2016-09-08
 weight: 7

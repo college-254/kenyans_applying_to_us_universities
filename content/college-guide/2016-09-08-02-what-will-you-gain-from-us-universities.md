@@ -1,5 +1,4 @@
 ---
-layout: post 
 title: 02. What will you gain from US universities?
 date: 2016-09-08
 weight: 2

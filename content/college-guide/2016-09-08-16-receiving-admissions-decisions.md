@@ -1,5 +1,4 @@
 ---
-layout: post 
 title: 16. Receiving Admission Decisions
 date: 2016-09-08
 weight: 16

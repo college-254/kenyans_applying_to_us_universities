@@ -1,5 +1,4 @@
 ---
-layout: post 
 title: 12. High School Transcript, School Report and Letters of Recommendation
 date: 2016-09-08
 weight: 12

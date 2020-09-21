@@ -1,5 +1,4 @@
 ---
-layout: post 
 title: 05. Self evaluation questions
 date: 2016-09-08
 weight: 5

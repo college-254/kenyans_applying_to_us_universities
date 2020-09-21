@@ -1,5 +1,4 @@
 ---
-layout: post 
 title: 17. The I-20 Form, SEVIS Fee and Visa Interview
 date: 2016-09-08
 weight: 17

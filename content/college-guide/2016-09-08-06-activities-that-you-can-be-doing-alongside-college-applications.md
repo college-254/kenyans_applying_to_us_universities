@@ -1,5 +1,4 @@
 ---
-layout: post 
 title: 06. Activities that you can be doing alongside college applications
 date: 2016-09-08
 weight: 6

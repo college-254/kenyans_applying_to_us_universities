@@ -1,5 +1,4 @@
 ---
-layout: post 
 title: 11. Organizations in Kenya that Help Students Apply to US Universities
 date: 2016-09-08
 weight: 11

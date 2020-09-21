@@ -1,5 +1,4 @@
 ---
-layout: post 
 title: 03. What are US universities looking for in international students?
 date: 2016-09-08
 weight: 3

@@ -1,5 +1,4 @@
 ---
-layout: post 
 title: 10. When considering a university, what should you look for?
 date: 2016-09-08
 weight: 10

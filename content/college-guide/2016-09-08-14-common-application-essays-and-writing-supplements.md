@@ -1,5 +1,4 @@
 ---
-layout: post 
 title: 14. Common Application Essays and Writing Supplements
 date: 2016-09-08
 weight: 14

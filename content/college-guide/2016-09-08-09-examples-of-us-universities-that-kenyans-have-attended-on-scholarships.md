@@ -1,5 +1,4 @@
 ---
-layout: post 
 title: 09. Examples of US universities that Kenyans have attended on scholarships
 date: 2016-09-08
 weight: 9

@@ -1,5 +1,4 @@
 ---
-layout: post 
 title: 19. Freshman Pro-Tips
 date: 2016-09-08
 weight: 19
