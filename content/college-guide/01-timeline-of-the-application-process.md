@@ -7,80 +7,114 @@ aliases:
 - 2016-09-08-01-timeline-of-the-application-process/
 ---
 
-Usually, the application process begins after completing high school. This must not be the case though. If you can take the standardized tests before you complete high school and pass, then you can consider that option. Remember your KCSE exams are not a requirement for your application abroad, but at times boost the strength of your application.
+{{% comment %}}
+The dates on this page are for applicants looking to join university in fall (September) 2022. They've not been updated to take COVID-19 into account.
+{{% /comment %}}
+
+Usually, the application process begins after completing high school. This may
+not always be the case though. Completing the application while you're still in
+school saves you one year. The KCSE is not a requirement for your applications
+abroad, but you still need it for Kenyan universities.
+
+{{% comment %}}
+The main challenges to completing US college applications while still in high
+school are lack of time (school schedules tend to be packed with KCSE prep) and
+lack of access to the internet (you'll need to research your options).
+{{% /comment %}}
 
 The following are steps and the general timelines in the application process. We’ll address these steps in more detail later on.
 
-## Taking the National Exams (KCSE) (November 2017)
+## Taking the National Exams (KCSE) (November 2020)
 
 As mentioned above, these are not a requirement to your general application, but many people embark on their applications abroad after taking their high school national exams. This makes it a good starting point.
 
-## Preparation for the SAT Exams / Taking the SATs  (December 2017 – November 2018)
+## Preparation for the SAT Exams / Taking the SATs  (December 2020 – November 2021)
 
-Since SAT exams are not the standard test in the Kenyan system, you need ample time to prepare for these exams. It is wisest to start early so that you can familiarize yourself with the SATs and get better at it with time. You can find several practice tests online and even in prep books which will help you improve your scores.
+Since SAT exams are not the standard test in the Kenyan system, you need ample time to prepare for these exams. It is wisest to start early so that you can familiarize yourself with the SATs and get better at it with time. See [07. Tests That You Need to Take]({{< ref "/college-guide/07-tests-that-you-need-to-take.md">}}) and [08. Test Preparation Resources]({{< ref "/college-guide/08-test-preparation-resources.md" >}}) for more info.
 
-The SAT exams are offered on specific dates all year round. When you should take these exams is entirely up to you and when you feel you are ready for these exams. Remember, however, that you need to have taken these exams and preferably received your results by the time your application is due.
+## School Search (May 2021 – October 2021)
 
-If you intend to take Subject Tests, it is sometimes advised that you take them a few months after your National exams (KCSE) because the content is still fresh in your mind. You may spend a month or two after KCSE to familiarize yourself with the new concepts in the subject test you intend to do.
+Many applicants find themselves having "dream schools", which is not a bad thing,
+but you need to widen your net to a few backup schools. As much as you may
+really want to go to a certain school simply because you have heard about it,
+it’s not always guaranteed that it is your best match. It is important to embark
+on an intensive school search process. See [09. Examples of US universities that Kenyans have attended on scholarships]({{< ref "college-guide/09-examples-of-us-universities-that-kenyans-have-attended-on-scholarships.md">}})
+and [10. When Considering a University, What Should You Look For?]({{< ref "/college-guide/10-when-considering-a-university-what-should-you-look-for.md" >}}).
 
-## School Search (May 2018 – October 2018)
+{{% comment %}}
+There is more to the US than Harvard. Don't be fooled by the term "backup
+schools". Backup schools that still offer financial aid to international students
+accept around 10% of applicants, so still competitive.
+{{% /comment %}}
 
-Many applicants find themselves having ‘dream schools’, which is not a bad thing, but the fact that these ‘dream schools’ limit their school options is unfortunate. As much as you may really want to go to a certain school simply because you have heard about it, it’s not always guaranteed that it is your best match. It is important to embark on a serious school search process, as will be discussed later, so as to find your best match of a school.  
+## Completing the College Applications (August 2021 - December 2021)
 
-## Setting Up the Common App Account (August 2018)
+You'll also need a couple of things from your high school. See [12. High School Transcript, School Report and Letters of Recommendation | Kenyans Applying to US Universities]({{< ref "/college-guide/12-high-school-transcript-school-report-and-letters-of-recommendation.md" >}}).
 
-Application to many schools abroad requires you to have an account with the Common App. This is the platform where you fill in your application details, and unless you want to apply to a very specific school which does not use the Common App, you should most definitely create this account.
+{{% comment %}}
+Don't underestimate the time needed for this. Your teachers will be busy
+preparing the seniors for the KCSE. Start early.
+{{% /comment %}}
 
-You can open your account earlier than August so as to get a head start on your application. Unlike in previous years, the accounts on the Common App don't get wiped out before every college applications cycle. The only parts that may change once August comes are the essay prompts that the Common App and various schools give. So apart from the essays, you can get everything else started before August. [Edit 1]
+Most schools accept the Common Application. This is the platform where you fill
+in your application details, respond to school-specific essay prompts, and submit
+your applications. See [14. Common Application Essays and Writing Supplements]({{< ref "/college-guide/14-common-application-essays-and-writing-supplements.md" >}})
 
-The Common App account is renewed annually, which means you may have to wait until August (when it opens for a new wave of college applications) to create your account. You may have created an account earlier, but note that the account will be wiped out of the system in August. Explore the Common App website so that you can be familiar with its content.
+{{% comment %}}
+Used to be that accounts get wiped every year, but that's no longer so. Feel
+free to create an account, and get a feel of the application requirements. The
+essay prompts may change from year to year, but everything else is mostly
+constant. [Thanks Ahmed for pointing this out!]
+{{% /comment %}}
 
-## Filling the Application Details and Submissions (August 2018 – February 2019)
+## Submitting College Applications (November 2021 & December/January 2021-22)
 
-This is usually the time when you fill in most of you Common App information, get recommendations and actually do most of the details of your application, as will be explained later on. This is usually an intense period since it is also when you will probably be taking your SATs.
+There are two deadlines for college applications. The first one is in October/
+November for your top choice, while the other one is in December/January for
+additional schools. See [13. Early Action (EA)/ Single Choice Early Action (SCEA)/ Early Decision (ED) & Regular Decision (RD)]({{< ref "/college-guide/13-ea-scea-ed-and-rd.md" >}}).
 
-Submissions vary on whether you are applying for Early Decision/Action or Regular Decision.
+Some schools schedule an interview between you and an alumni after receiving
+your application.
 
-Most Early Decision deadlines lie in November, while most Regular Decision deadlines lie in January. The Common App’s Dashboard feature is usually useful in monitoring your deadlines.
+## Applying for Financial Aid (November 2021 & January/February 2022)
 
-But Financial Aid deadlines don’t show on the Common App, you’ll find from the school’s financial aid office. Their deadlines range from November (early applications) to February (regular applications).
+Applying for financial aid (e.g. a scholarship) is separate from your college
+application. For early applications, the deadline is in November, while for
+regular applications, the deadline is in January/February. Schools may have
+their separate application process for financial aid. See
+[15. Financial Aid Applications]({{< ref "/college-guide/15-financial-aid-applications.md" >}})
 
-## Alumni Interviews (November 2018 - Feb/March 2019)
+## Admission Notification (December 2021 & March/April 2022)
 
-While some schools may not require you to have an interview with their representative, others will. These interviews are held to help narrow down the pool of applicants, usually when there is tough enough competition.
+The moment you've been waiting for! If you applied early, you'll get the
+school's decision in December. Otherwise, you'll get in March/April. Godspeed!
+See [16. Receiving Admissions Decisions](16-receiving-admissions-decisions.md)
 
-## Admission Notification (December 2018 & March/April 2019)
+## Get Your Kenyan Passport Ready (January 2022 – May 2022)
 
-This is the dreaded moment; when you know whether you have been accepted into a school or not. Early decision notifications usually come out in December, while regular decision notifications come out mostly in March and April. Schools will give you a few days to accept/reject their admission offer.
+Passport processing time may vary. If you don't have a passport, get one ASAP.
+Don't wait till you hear back from the universities. Spare yourself the trouble
+of anxiously camping outside the passport application office for days on end.
 
-## Get Your Kenyan Passport Ready (January 2019 – May 2019)
+## Get Your Student Visa Stamp (May 2022 – July 2022)
 
-Since passports in Kenya take different times to get processed, we advise that you get yours as soon as possible after you get admitted (if you didn’t have one already). This should NOT be done last minute because you’ll need it to acquire your visa, which can be another time-demanding process.
+After committing to attend a university, they'll send you a form that you'll
+present to the US Embassy in Kenya to get a student visa. Visa interview slots
+may run out so book yours early. See [17. The I-20 Form, SEVIS Fee and Visa Interview](/college-guide/17-the-i20-form-sevis-fee-and-visa-interview.md)
 
-You may take a leap of faith and apply for your passport in January to get this step out of the way. Even if you won’t attend a US university, the passport will be useful in other situations.
+Additionally, getting your visa early allows you to book the flight ahead of
+time. Airlines offer cheaper tickets for flights booked ahead of time. See
+[18. Coming to the US - Travel Arrangements > Booking Flights]({{< ref "/college-guide/18-coming-to-the-us-travel-arrangements.md#booking-flights" >}}).
 
-## Visa Interview (June 2019 – July 2019)
+## Travel Checklist (April 2022 - August 2022)
 
-Acquiring a visa stamp may take time, given that once you book your Visa Interview you will have to wait a few weeks (or more) until the day of the interview. It is therefore recommended that you book your appointment around June or July so that you have your interview in either late June or July. You don’t want to risk having your interview later than this period because your Visa may be delayed, making you miss the first few days of classes. Also, you don’t want to book your flight before you get your visa. It might cost you!
+There are a couple things to take care of: vaccinations, booking a flight,
+shopping, etc. See [18. Coming to the US - Travel Arrangements]({{< ref "/college-guide/18-coming-to-the-us-travel-arrangements.md" >}})
 
-## Vaccinations and Health Requirements (April 2019 – August 2019)
+## Departure (September 2022)
 
-Once you are admitted to a school, you will find that they have specific requirements in terms of the vaccines you are required to have taken before you get to school. During this period, you should ensure that you get all these vaccines.
-
-Some vaccines require you to take more than just one dose, with intervals of a few months. These need you to start early, so immediately you are admitted to a school make sure to keep your eyes open for any vaccines that you are required to take. In addition to vaccinations required by the school, also tell the nurses that you’re flying to the US because there are vaccines that you should get before flying.
-
-## General Preparation and Shopping (August 2019)
-
-By mid-August, you are done with most of those things that require institutions to accomplish. It is now time to think of the personal things you need to start life in a foreign country. This is the time to get yourself a Kenyan bracelet, if you don’t already own one, or get a Maasai blanket. This is when you get yourself enough clothes and other things that you think you may need during your stay in the US.
-
-## Departure (August 2019 – September 2019)
-
-It’s now time to leave for your new home. Only make sure you have a plan once you arrive at the airport. You can have someone else pick you up if your school doesn’t send someone to do it.
+It’s now time to leave for your new home. Esure you have a plan once you arrive
+at the airport. You can have someone else pick you up if your school doesn’t
+send someone to do it.
 
 *This timeline guide may be flexible in some cases and exceptions may be offered by some schools or in special circumstances.*
-
-## Edits
-
-* Edit 1 (Sept 2016): The Common App no longer wipes out accounts every year. Credits to Ahmed for pointing this out.
-
-* Edit 2 (Aug 2018): Updated the dates to be relevant for the future class of 2022
