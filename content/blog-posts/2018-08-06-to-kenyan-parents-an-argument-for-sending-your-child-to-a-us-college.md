@@ -2,19 +2,22 @@
 title: To Kenyan Parents - An Argument for Sending Your Child to a US College
 author: Chege Gitau
 date: 2018-08-06
-tags: [sat-prep]
 abstract: A discussion on why lots of practice trumps the SAT.
+tags:
+- parents
 ---
 
 ## Context
 
-I’m Chege, a 4th year student at Princeton University. I write this on behalf of the folks behind Kenyans Applying to US Universities. We studied at Kenyan high schools then joined universities in the US for our undergraduate degrees. We’re helping Kenyan high school graduates who wish to do the same.
+{{% comment %}}
+Brief Intro: I’m Chege, currently a 4th year undergraduate student at Princeton University. I studied at Mang'u High School in Kenya.
+{{% /comment %}}
 
 This post is directed to Kenyan parents/guardians who have child in high school that is about to sit for their KCSE. It’s never too early to start thinking of possible next steps.
 
-If your child has already graduated from high school but has not started applying to schools in the US, it’s a bit risky for them to start now. The applications and required exams need are time-consuming. That said, if they wish to start the process right now, please email us so that we can get them up to speed as best as we can.
+If your child has already ~~graduated from high school but has not started applying to schools in the US~~ started undergraduate classes at a local university, it’s a bit risky for them to start thinking of undergraduate US universities. The applications and required exams are time-consuming.
 
-When I talk about US universities, I’m only referring to the ones that provide full (or close to full) scholarships to international students based on their financial need (i.e. how much the family can afford). There are scholarships that require the student to be an athlete or maintain a certain GPA, but I’m not well-versed to advise on such scholarships.
+When I talk about US universities, I’m only referring to the ones that provide full (or close to full) scholarships to international students based on how much the family can afford. There are scholarships that require the student to be an athlete or maintain a certain GPA, but I’m not well-versed to advise on such scholarships.
 
 ## What is it going to cost?
 
@@ -26,11 +29,13 @@ When I talk about US universities, I’m only referring to the ones that provide
 | Miscellaneous | ~75 | 7,533 | SAT Prep Books, Internet Access |
 | Total | Between 275 and 314 | Between 27,619 and 31,536 | We’ve not included the application fees because most applicants request waivers. We recommend applying to 8 schools. |
 
-* At the time of this writing, 1 USD = 100.43 KES
+{{% comment %}}
+The costs in this post were obtained on 6th August, 2018. Conversion rate at the time: 1 USD = 100.43 KES. As with most valuable things in life, the costs have most likely risen since then.
+{{% /comment %}}
 
 ## Should you and your child take such a bet?
 
-US universities cost ~27,000,000 KES for the 4 years. The bet costs ~29,000 KES. There are other costs down the road like air tickets, visa fees and immunizations, but once your child has a full scholarship at the world’s best universities, the rest tends to fall into place. For instance, Princeton paid for my flight.
+US universities cost ~27m KES for the 4 years. The bet costs ~29,000 KES. There are other costs down the road like air tickets, visa fees and immunizations, but once your child has a full scholarship at the world’s best universities, the rest tends to fall into place. For instance, Princeton paid for my flight.
 
 The universities that provide scholarships tend to accept between 4% and 15% of their 30,000 or so applicants. A good portion of the 30,000 applicants are quite qualified. Luck plays a role in the admission process, but again, looking at the students who get accepted, it’s impossible to point out who got lucky. It’s a matter of giving your best shot and crossing your fingers.
 
@@ -40,9 +45,9 @@ It’s also crucial that your child also wants to attend a US university. Introd
 
 ## Why didn’t I know about this?
 
-Most of us went to Mang’u, Alliance, Starehe, Maryhill, etc. The teachers at these schools tend to be knowledgeable about the application process. In my case, my teachers even connected me with alumni that had attended Harvard.
+Most of us went to Mang’u, Alliance, Starehe, Maryhill, etc. The teachers at these schools tend to be knowledgeable about the application process. These schools also tend to have alumni that attended university abroad, and the alumni usually come back to their alma maters to encourage the current students to apply to universities abroad.
 
-By providing information and guidance to a larger audience, we hope that more students decide to try their luck at these college applications.
+By spreading this information and guidance to a larger audience, we hope that more students decide to try their luck at these college applications.
 
 ## What about attending local universities?
 
@@ -52,8 +57,14 @@ The applications open on August 1st, and close by January. The first set of admi
 
 A well-crafted college application takes time and effort. Some students choose to attend the first year of class at Kenyan universities. Others defer enrollment in order to give college applications their full attention. I was in the second group - I joined EaSEP at Nandi Hills and later worked as an SAT Tutor before joining university.
 
+{{% comment %}}
+I got accepted into JKUAT's Civil Engineering and was part of the September 2014 intake. It took a bit of convincing, but my parents allowed me to defer my JKUAT admission for a year and focus on the college application process.
+
+Luckily, my bet paid off, but I also have peers who didn't get admitted or who didn't get a big enough scholarship. However, in the grand scheme of things, deferring for a year isn't the end of the world.
+{{% /comment %}}
+
 ## Closing Note
 
 Our parents are proud of the decisions that we made three years ago. You probably will too. If you have the means to take this bet, please do!
 
-Feel free to shoot us an email at [2016collegeessays@gmail.com](mailto:2016collegeessays@gmail.com), or on our [Facebook Group](https://www.facebook.com/254Applicants/).
+Feel free to shoot us an email at [2016collegeessays@gmail.com](mailto:2016collegeessays@gmail.com)

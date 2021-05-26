@@ -1,8 +1,9 @@
 ---
-layout: post 
 title: 11. Organizations in Kenya that Help Students Apply to US Universities
 date: 2016-09-08
 weight: 11
+aliases:
+- 2016-09-08-11-college-access-programs/
 ---
 
 ## [EaSEP (Education and Social Empowerment Fund)](http://www.easep.org/)

@@ -1,9 +1,24 @@
 ---
-layout: post 
 title: 07. Tests that you need to take
 date: 2016-09-08
 weight: 7
+aliases:
+- 2016-09-08-07-tests-that-you-need-to-take/
 ---
+
+{{% comment %}}
+The COVID-19 pandemic made it nearly impossible to take the standardized
+tests. As a result, some schools have (temporarily) waived standardized
+testing requirements. To get the latest information, look up the
+school's admissions website.
+
+For example, searching the web for "princeton undergraduate admissions
+requirements" leads me to
+[https://admission.princeton.edu/how-apply/application-checklist](https://admission.princeton.edu/how-apply/application-checklist),
+which says that Princeton University will not require submission of
+standardized testing (SAT or ACT) for students who wish to join the
+school in September 2022.
+{{% /comment %}}
 
 ## SAT
 

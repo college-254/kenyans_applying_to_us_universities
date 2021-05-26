@@ -1,8 +1,9 @@
 ---
-layout: post 
 title: 05. Self evaluation questions
 date: 2016-09-08
 weight: 5
+aliases:
+- 2016-09-08-05-self-evaluation-questions/
 ---
 
 This section has been extracted from the [EGF Guide](https://drive.google.com/open?id=0BxcN6nrpsXL6eHlBUHBNaGdTZ00).

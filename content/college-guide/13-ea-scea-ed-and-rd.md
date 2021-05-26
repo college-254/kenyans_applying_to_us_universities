@@ -1,8 +1,9 @@
 ---
-layout: post 
 title: 13. Early Action (EA)/ Single Choice Early Action (SCEA)/ Early Decision (ED) & Regular Decision (RD)
 date: 2016-09-08
 weight: 13
+aliases:
+- 2016-09-08-13-ea-scea-ed-and-rd/
 ---
 
 There are four types of college applications that you can send:
