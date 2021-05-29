@@ -1,4 +1,4 @@
-baseURL = "https://kenyansapplyingtousuniversities.netlify.app/"
+baseURL = "https://kenyansapplyingtousuniversities.com/"
 languageCode = "en-us"
 title = "Kenyans Applying to US Universities"
 enableGitInfo = "true"
