@@ -66,5 +66,3 @@ Luckily, my bet paid off, but I also have peers who didn't get admitted or who d
 ## Closing Note
 
 Our parents are proud of the decisions that we made three years ago. You probably will too. If you have the means to take this bet, please do!
-
-Feel free to shoot us an email at [2016collegeessays@gmail.com](mailto:2016collegeessays@gmail.com)
