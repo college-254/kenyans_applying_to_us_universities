@@ -1,6 +1,7 @@
 ---
 title: "Submit Feedback"
 layout: standalone
+weight: 5
 summary: "Get in touch with the website authors"
 ---
 
