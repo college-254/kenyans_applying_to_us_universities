@@ -6,7 +6,7 @@ aliases:
 - 2016-09-08-05-self-evaluation-questions/
 ---
 
-This section has been extracted from the [EGF Guide](https://drive.google.com/open?id=0BxcN6nrpsXL6eHlBUHBNaGdTZ00).
+This section has been extracted from the [EGF Guide](https://drive.google.com/drive/folders/0BxcN6nrpsXL6VUlPWThlaTdtZ1E?resourcekey=0-zab22OZ9EjcJWeng8nFplA&usp=sharing).
 
 First, take several hours to think about yourself as an individual. KEEP NOTES. Consider, from primary school onwards, who you are, what makes you an individual, which the key aspects of your character are, and what examples you can provide that express them. Don’t think of one example for each section then stop. Try and think comprehensively of all possible experiences/examples, to then help you select the most appropriate example for each situation.
 

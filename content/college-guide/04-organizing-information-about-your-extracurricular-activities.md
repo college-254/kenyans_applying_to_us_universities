@@ -6,7 +6,7 @@ aliases:
 - 2016-09-08-04-organizing-information-about-your-extracurricular-activities/
 ---
 
-This section has been extracted from the [EGF Guide](https://drive.google.com/open?id=0BxcN6nrpsXL6eHlBUHBNaGdTZ00).
+This section has been extracted from the [EGF Guide](https://drive.google.com/drive/folders/0BxcN6nrpsXL6VUlPWThlaTdtZ1E?resourcekey=0-zab22OZ9EjcJWeng8nFplA&usp=sharing).
 
 Colleges are interested in knowing how you spent time outside class. Extracurricular activities are very diverse: leadership roles, drama & music festivals, sports, volunteer activities, income-generating projects like rearing rabbits, coding apps, etc. You’ll be given little space to show your extracurriculars, so it’s crucial that you include relevant details. EALP advises applicants to use the STAR technique. STAR stands for Situation, Task, Action and Result.
 

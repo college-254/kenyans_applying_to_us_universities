@@ -8,7 +8,7 @@ aliases:
 
 ## Transcript and School Report
 
-The transcript should contain all of your term grades since Form One. Here’s a [sample tanscript](https://drive.google.com/open?id=0BxcN6nrpsXL6Rk9LYlF5dnNVb28) that shows how a student’s grades may be presented. Please note that the transcript should be prepared on a school letterhead, bear the official school stamp and signed by an authority (usually the School Principal, but check your high school’s policy).
+The transcript should contain all of your term grades since Form One. Here’s a [sample tanscript](https://drive.google.com/file/d/0BxcN6nrpsXL6Rk9LYlF5dnNVb28/view?usp=sharing&resourcekey=0-y89tjuvELZK2bZoRLIhejA) that shows how a student’s grades may be presented. Please note that the transcript should be prepared on a school letterhead, bear the official school stamp and signed by an authority (usually the School Principal, but check your high school’s policy).
 
 You’ll also need a School Counselor to fill in your school profile. If your high school has had a history of sending its students to the US, chances are there is a teacher who has already assumed the role of the School Counselor. In that case, approach him/her. If you’re the first one from your high school to apply to US universities, approach your Dean of Studies or Careers & Guidance Counselor, and request that they assume the role of the School Counselor.
 
@@ -26,7 +26,7 @@ Teacher recommendations give the college an unfiltered view about you from a thi
 
 * Teachers/ counselors who you worked with outside class are solid recommenders. Colleges want to know your character outside of school work. Are you passionate about anything? How are your social skills? These are things such recommenders could shed some light on.
 
-* Make an appointment with potential recommenders and discuss what you’d like highlighted in your recommendation letter. Remind them of things that really interested you in class, your accomplishments,  talk to them about your extracurricular interests, mention a few challenges you encountered and how you overcame them, discuss your future plans etc. This will enable the recommender to come up with specific examples to use in your recommendation letter and get their recommendation juices flowing. This [Teacher Recommendations Kit](https://drive.google.com/open?id=0BxcN6nrpsXL6TW9fRzdzM0c4bWs) PDF should get you started on this process.
+* Make an appointment with potential recommenders and discuss what you’d like highlighted in your recommendation letter. Remind them of things that really interested you in class, your accomplishments,  talk to them about your extracurricular interests, mention a few challenges you encountered and how you overcame them, discuss your future plans etc. This will enable the recommender to come up with specific examples to use in your recommendation letter and get their recommendation juices flowing. This [Teacher Recommendations Kit](https://drive.google.com/file/d/0BxcN6nrpsXL6TW9fRzdzM0c4bWs/view?usp=sharing&resourcekey=0-rdCjvh_YiIpz9LGwjFUoUQ) PDF should get you started on this process.
 
 * Most importantly, look for someone who’d be enthusiastic about recommending you. Make sure to politely ask for a recommendation.
 
