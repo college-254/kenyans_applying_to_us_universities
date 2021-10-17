@@ -13,18 +13,6 @@ comes easy, and the road to studying in the most elite of colleges
 demands sacrifice and commitment. Here’s why you should consider
 studying in the US:
 
-## Variety, the spice of life
-
-US universities exemplify this in an array of ways. Studying in the US
-accords you the opportunity to meet and interact with people from
-different countries and cultures. Through such interactions, you are
-made to realize that not everyone shares similar beliefs as you do or
-sees things from the same perspective as you do. With time, you acquire
-a global mindset which allows you to be less biased towards other
-cultures and to appreciate your own culture more. Besides this, you
-learn to approach everything from a more objective perspective; which is
-a key life skill to have.
-
 ## Great opportunities
 
 Studying in the US comes with a plethora of opportunities. Most campuses
@@ -92,3 +80,15 @@ Being in the US and away from family pushes you out of your comfort
 zone. You make new friends from all over the world, try out new things
 (lots of concerts in NYC!), and with time these new experiences form a
 vital part of who you are. Those four years will prove unforgettable!
+
+## Variety, the spice of life
+
+US universities exemplify this in an array of ways. Studying in the US
+accords you the opportunity to meet and interact with people from
+different countries and cultures. Through such interactions, you are
+made to realize that not everyone shares similar beliefs as you do or
+sees things from the same perspective as you do. With time, you acquire
+a global mindset which allows you to be less biased towards other
+cultures and to appreciate your own culture more. Besides this, you
+learn to approach everything from a more objective perspective; which is
+a key life skill to have.
