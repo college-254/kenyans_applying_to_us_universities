@@ -4,6 +4,8 @@ date: 2016-09-08
 weight: 2
 aliases:
 - 2016-09-08-02-what-will-you-gain-from-us-universities/
+tags:
+- kenya-vs-us-university
 ---
 
 Leaving friends and family for study in a foreign country seems

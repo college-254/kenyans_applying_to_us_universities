@@ -5,6 +5,7 @@ date: 2018-08-06
 abstract: A discussion on why lots of practice trumps the SAT.
 tags:
 - parents
+- kenya-vs-us-university
 ---
 
 ## Context
