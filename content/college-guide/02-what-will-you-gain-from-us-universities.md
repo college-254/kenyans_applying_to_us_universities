@@ -15,19 +15,37 @@ easy, and the road to studying in the most elite of colleges demands
 sacrifice and commitment. Here's why you should consider studying in the
 US:
 
-## Great Opportunities
+## Career Opportunities
 
-Studying in the US comes with many opportunities. Most campuses will
-provide a lot of tools to help you land internships and jobs, e.g.
-resume critiques, career building workshops, etc. Networking is also
-given so much priority and through sharing thoughts with people, great
-ideas are conceived. The massive financial endowments of most colleges
-also allow you to do things that you’d not have done at Kenyan
-universities e.g. 4 Kenyan students from Stanford, Dartmouth and
-NorthWestern University were funded this summer to start a coding camp
-(NaiCode) in Nairobi; others were funded to work with several NGOs in an
-effort to combat various challenges in Africa. Such things give you an
-edge over most of the competition in the job market.
+There is ample support, typically through a staffed and dedicated
+careers office, to help you land internships and jobs. The careers
+office offers services such as: one-on-one appointments, resume & cover
+letter workshops, job fairs where company employees & recruiters source
+talent, job/internship listings, etc.
+
+The universities have strong alumni networks, which avail even more
+career opportunities. Want to pursue a career in X? Well, there is a
+database of alumni working on X looking to mentor current students. Or
+maybe alumni from company Y are hosting a panel on campus where they'll
+discuss how working on X is like, and point you to open positions in Y.
+
+{{% comment %}}
+In an ideal meritocratic world, only your intrinsic qualifications would
+matter; where you got your education from would be inconsequential.
+However, opportunities are not equally available for all.
+
+[A survey of senior level and executive managers by Indeed (a top
+website for job
+listings)](https://offers.indeed.com/rs/699-SXJ-715/images/InteractiveResearch_ExecutiveSummary.pdf)
+found that a degree from an elite university helps open the door for job
+opportunities.
+
+Furthermore, some universities are feeder schools into various
+industries. For example, some tech companies assign dedicated recruiters
+(crucial in ensuring someone reviews your application in time) to
+universities with renown computer science schools, e.g. Stanford, MIT,
+etc.
+{{% /comment %}}
 
 ## Breadth and Depth
 
@@ -54,6 +72,11 @@ million volumes. Professors have labs which are addressing ideas like
 Quantum Computing, De Novo Proteins, Wireless Communications, Anonymous
 Internet Networks, Autonomous Cars, Nanofabrication, Machine Learning
 Algorithms, etc.
+
+The massive financial endowments make ambitious summer projects
+feasible, e.g. [Stanford funded Norah Borus to run a coding camp in
+Nairobi in the summer of
+2016](https://stanfordwics.medium.com/founding-a-youth-based-tech-organization-8b91980217f6).
 
 ## Financial Aid
 
