@@ -4,7 +4,7 @@
     <h1>{{with .Params.draft }}{{if .}}<span id="draft-marker">Draft</span>{{end}}{{end}} {{.Title}}</h1>
     <p class="meta">
         {{ if eq hugo.Environment "development" }}
-        <a href="vscode-insiders://file/Users/dchege711/blog/content/{{.File.Path}}">Edit in VS Code</a>
+        <a href="vscode://file/Users/dchege711/kenyans_applying_to_us_universities/content/{{.File.Path}}">Edit in VS Code</a>
         {{ end }}
     </p>
     </header>

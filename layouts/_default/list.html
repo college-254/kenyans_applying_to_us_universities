@@ -5,11 +5,11 @@
             <h1>{{.Title}}</h1>
             <p class="meta">
                 {{ if (isset .Params "date") }}
-                Dated {{ .Date.Format "Jan 2, 2006" }}; 
+                Dated {{ .Date.Format "Jan 2, 2006" }};
                 {{ end }}
                 last modified on {{.Lastmod.Format "Mon, 02 Jan 2006"}}
                 {{ if eq hugo.Environment "development" }}
-                ; <a href="vscode-insiders://file/Users/dchege711/blog/content/{{.File.Path}}">Edit in VS Code</a>
+                ; <a href="vscode://file/Users/dchege711/blog/content/{{.File.Path}}">Edit in VS Code</a>
                 {{ end }}
             </p>
         </header>
@@ -19,7 +19,7 @@
 
     <!-- Range through content/posts/*.md -->
     <table border="0">
-        <!-- 
+        <!--
             Setting the `weight` attribute is my way of indicating serial pages.
             Note that `weight` must also be defined for the parent. We adopt the
             convention that the grandest parent gets a (meaningless) weight of 1.
@@ -44,7 +44,7 @@
             {{ end }}
         {{ end }}
     </table>
-    
+
 </main>
 {{ end }}
 
