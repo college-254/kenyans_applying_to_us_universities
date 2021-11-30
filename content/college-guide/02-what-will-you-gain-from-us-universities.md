@@ -112,32 +112,14 @@ US than at a university in Kenya. See [Financial Aid Applications]({{<
 ref "/college-guide/15-financial-aid-applications.md" >}}) for more
 information.
 
-## Independence
-
-Studying away from home inevitably makes you learn how to depend on
-yourself. You get to learn so much about yourself and you cultivate
-responsibility. While your parents may want to send you money, take that
-burden off their shoulders and plan your own finances. There are
-numerous student jobs which can provide enough income for daily
-expenses. You will learn how to improve yourself overall. Independence
-is a definitely one of the most important traits to lead a good future
-life.
-
-## Create Memories
+## Friends from All Over the World
 
 Being in the US and away from family pushes you out of your comfort
 zone. You make new friends from all over the world, try out new things
 (lots of concerts in NYC!), and with time these new experiences form a
-vital part of who you are. Those four years will prove unforgettable!
+vital part of who you are.
 
-## Friends from All Over the World
-
-US universities exemplify this in an array of ways. Studying in the US
-accords you the opportunity to meet and interact with people from
-different countries and cultures. Through such interactions, you are
-made to realize that not everyone shares similar beliefs as you do or
-sees things from the same perspective as you do. With time, you acquire
-a global mindset which allows you to be less biased towards other
-cultures and to appreciate your own culture more. Besides this, you
-learn to approach everything from a more objective perspective; which is
-a key life skill to have.
+Through such interactions, you come to realize that not everyone shares
+your beliefs and/or perspectives. With time, you acquire a bird's eye
+view that prompts you to be less biased towards other cultures, and to
+appreciate and weigh aspects of your own culture.
