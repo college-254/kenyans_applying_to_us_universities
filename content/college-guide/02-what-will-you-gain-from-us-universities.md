@@ -20,14 +20,15 @@ US:
 There is ample support, typically through a staffed and dedicated
 careers office, to help you land internships and jobs. The careers
 office offers services such as: one-on-one appointments, resume & cover
-letter workshops, job fairs where company employees & recruiters source
-talent, job/internship listings, etc.
+letter workshops, job fairs where companies recruit interns &
+full-timers, job/internship listings, etc.
 
 The universities have strong alumni networks, which avail even more
 career opportunities. Want to pursue a career in X? Well, there is a
 database of alumni working on X looking to mentor current students. Or
 maybe alumni from company Y are hosting a panel on campus where they'll
-discuss how working on X is like, and point you to open positions in Y.
+discuss how working on X is like, while pointing you to open positions
+in Y.
 
 {{% comment %}}
 In an ideal meritocratic world, only your intrinsic qualifications would
@@ -42,22 +43,38 @@ opportunities.
 
 Furthermore, some universities are feeder schools into various
 industries. For example, some tech companies assign dedicated recruiters
-(crucial in ensuring someone reviews your application in time) to
-universities with renown computer science schools, e.g. Stanford, MIT,
-etc.
+(crucial in ensuring someone reviews your application) to universities
+with renown computer science schools, e.g. Stanford, MIT, etc.
 {{% /comment %}}
 
 ## Breadth and Depth
 
-The liberal arts curriculum offered by most schools in the US allows you
-to study a wide range of subjects, while at the same time giving you an
-in-depth insight into your major. Even if you’re pursuing an Engineering
-degree, you’ll have slots for classes from other disciplines such as
-Economics, Visual Arts, Literature, Foreign Languages, Entrepreneurship,
-Politics, etc. This allows you to mingle with people from different
-majors in your classes and definitely helps you become an all-rounded
-individual. It’s also just fun studying things you’d never thought of
-before.
+{{% comment %}}
+Your "major" is your field of concentration, i.e. your intended degree,
+e.g. Economics, Math, Physics, Computer Science, Sociology,
+Anthropology, Electrical Engineering, etc.
+{{% /comment %}}
+
+Most universities have a wide range of class offerings such that there
+is no fixed path to getting your degree. You can take classes that
+you're interested in, even when they don't [directly] relate to your
+major. This enables you to develop both depth in your major, annd
+breadth in a few other disciplines.
+
+{{% comment %}}
+For example, say you're majoring in Computer Science at Princeton. There
+are different paths that you can take, e.g.
+
+{{< figure
+  src="/images/princeton-cs-bse-track.png"
+  caption="Path for gaining a BSE (Bachelor of Science in Engineering) Computer Science degree at Princeton. Sourced from [https://www.cs.princeton.edu/ugrad/paths-through-the-major](https://www.cs.princeton.edu/ugrad/paths-through-the-major) on Oct 17th, 2021.">}}
+
+While there are classes that you must take, e.g. COS 226, there is
+wiggle room in your schedule, especially in your 3rd and 4th years. In
+particular, notice the slots that lack specific classes in them.
+{{% /comment %}}
+
+This allows you to mingle with people from different majors in your classes and definitely helps you become an all-rounded individual. It’s also just fun studying things you’d never thought of before.
 
 ## World-Class Education
 
