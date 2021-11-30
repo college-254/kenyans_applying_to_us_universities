@@ -77,10 +77,12 @@ ref
 >}}).
 
 {{% comment %}}
+
 There is more to the US than Harvard. Don't be fooled by the term
 "safety schools". Safety schools that still offer financial aid to
 international students accept around 10% of applicants, so they're still
 competitive.
+
 {{% /comment %}}
 
 Furthermore, schools may have different testing requirements. The
@@ -95,8 +97,10 @@ Recommendation]({{< ref
 >}}) for items that you'll need from your high school.
 
 {{% comment %}}
+
 Don't underestimate the time needed for this. Your teachers will be busy
 preparing the seniors for the KCSE. Start early.
+
 {{% /comment %}}
 
 Most schools accept the Common Application. This is the platform where
@@ -133,9 +137,11 @@ for financial aid. See [15. Financial Aid Applications]({{< ref
 "/college-guide/15-financial-aid-applications.md" >}})
 
 {{% comment %}}
+
 Scholarships are typically called "grants" because you don't pay for
 them. Another form of financial aid are student loans. These need to be
 paid back. Similar to [Kenya's HELB Loans](https://www.helb.co.ke/).
+
 {{% /comment %}}
 
 ## Admission Notification
