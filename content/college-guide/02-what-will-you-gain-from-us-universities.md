@@ -106,11 +106,11 @@ Autonomous Cars, Nanofabrication, Machine Learning Algorithms, etc.
 ## Financial Aid
 
 This should have come top of the list because it makes it affordable and
-possible to study in the US. It may seem absurd but you could get a
+possible to study in the US. It may seem absurd, but you could get a
 financial aid package so good that it would be cheaper to study in the
-US than at a private university in Kenya. Financial Aid comes in form of
-grants and loans; most international students get grants, meaning you
-don’t have to pay them back.
+US than at a university in Kenya. See [Financial Aid Applications]({{<
+ref "/college-guide/15-financial-aid-applications.md" >}}) for more
+information.
 
 ## Independence
 
