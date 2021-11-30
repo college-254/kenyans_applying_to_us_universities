@@ -89,19 +89,19 @@ also just fun studying things you’d never thought of before.
 Most US universities are highly ranked. In these schools, you are taught
 by world-renowned professors and rub shoulders with smart students from
 all over the world. This challenging yet invigorating academic
-atmosphere pushes you to your limits and makes you a better version of
-yourself. The huge endowments that US colleges have also mean that they
-make you as comfortable as possible. The libraries are huge: UoN’s
-library system has half a million volumes while Princeton has twenty-two
-million volumes. Professors have labs which are addressing ideas like
-Quantum Computing, De Novo Proteins, Wireless Communications, Anonymous
-Internet Networks, Autonomous Cars, Nanofabrication, Machine Learning
-Algorithms, etc.
+atmosphere pushes you to your limits and makes you a better scholar.
 
-The massive financial endowments make ambitious summer projects
-feasible, e.g. [Stanford funded Norah Borus to run a coding camp in
-Nairobi in the summer of
+The huge endowments that US colleges have also mean that they avail more
+resources than local universities do. For instance, UoN's library system
+has half a million volumes while Princeton has twenty-two million
+volumes! These endowments also make ambitious summer projects feasible,
+e.g. [Stanford funded Norah Borus to run a coding camp in Nairobi in the
+summer of
 2016](https://stanfordwics.medium.com/founding-a-youth-based-tech-organization-8b91980217f6).
+
+Professors have labs which are addressing ideas like Quantum Computing,
+De Novo Proteins, Wireless Communications, Anonymous Internet Networks,
+Autonomous Cars, Nanofabrication, Machine Learning Algorithms, etc.
 
 ## Financial Aid
 
