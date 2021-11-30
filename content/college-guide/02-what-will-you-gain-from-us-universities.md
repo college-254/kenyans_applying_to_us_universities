@@ -31,6 +31,7 @@ discuss how working on X is like, while pointing you to open positions
 in Y.
 
 {{% comment %}}
+
 In an ideal meritocratic world, only your intrinsic qualifications would
 matter; where you got your education from would be inconsequential.
 However, opportunities are not equally available for all.
@@ -45,14 +46,17 @@ Furthermore, some universities are feeder schools into various
 industries. For example, some tech companies assign dedicated recruiters
 (crucial in ensuring someone reviews your application) to universities
 with renown computer science schools, e.g. Stanford, MIT, etc.
+
 {{% /comment %}}
 
 ## Breadth and Depth
 
 {{% comment %}}
+
 Your "major" is your field of concentration, i.e. your intended degree,
 e.g. Economics, Math, Physics, Computer Science, Sociology,
 Anthropology, Electrical Engineering, etc.
+
 {{% /comment %}}
 
 Most universities have a wide range of class offerings such that there
@@ -62,6 +66,7 @@ major. This enables you to develop both depth in your major, annd
 breadth in a few other disciplines.
 
 {{% comment %}}
+
 For example, say you're majoring in Computer Science at Princeton. There
 are different paths that you can take, e.g.
 
@@ -72,9 +77,12 @@ are different paths that you can take, e.g.
 While there are classes that you must take, e.g. COS 226, there is
 wiggle room in your schedule, especially in your 3rd and 4th years. In
 particular, notice the slots that lack specific classes in them.
+
 {{% /comment %}}
 
-This allows you to mingle with people from different majors in your classes and definitely helps you become an all-rounded individual. It’s also just fun studying things you’d never thought of before.
+This allows you to mingle with people from different majors in your
+classes and definitely helps you become an all-rounded individual. It’s
+also just fun studying things you’d never thought of before.
 
 ## World-Class Education
 
