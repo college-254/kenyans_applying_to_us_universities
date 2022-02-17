@@ -1,2 +1,4 @@
 <!-- https://gohugo.io/getting-started/configuration-markup#heading-link-example -->
-<h{{ .Level }} id="{{ .Anchor | safeURL }}">{{ .Text | safeHTML }} <a href="#{{ .Anchor | safeURL }}"> ¶</a></h{{ .Level }}>
+<h{{ .Level }} id="{{ .Anchor | safeURL }}">{{ .Text | safeHTML }}
+    <a href="#{{ .Anchor | safeURL }}"><span class="not-for-print"> ¶</span></a>
+</h{{ .Level }}>
