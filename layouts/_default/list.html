@@ -1,3 +1,9 @@
+{{ define "extend_head" }}
+{{ if eq (urls.Parse .Permalink).Path "/college-guide/" }}
+<script type="text/javascript" src="/js/PrintCollegeGuide.js"></script>
+{{ end }}
+{{ end }}
+
 {{ define "main" }}
 <main>
     <article>
