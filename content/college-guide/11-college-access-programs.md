@@ -35,10 +35,9 @@ The program consists of 3 parts. From July to August, students get
 guidance on the SAT & TOEFL, and take the TOEFL Test in August. In the
 2nd part of the program, which begins sometime in September, students
 mainly focus on the SAT Reasoning Test, which they take in October.
-Students also begin intense prep for the SAT Subject Tests and complete
-their first college application to their most desired school. The
-students get a short break and come back for the final stretch in which
-they do their Subject Tests and work on more college applications.
+Students also complete their first college application to their most
+desired school. The students get a short break and come back for the
+final stretch in which they work on more college applications.
 
 It’s worth noting that the [East African Scholars
 Fund](http://www.eastafricanscholarsfund.org/) sponsors EaSEP, so the
@@ -104,10 +103,10 @@ train a bit to ensure that your body is ready for the run. KenSAP picks
 14 – 16 students.
 
 KenSAP students attend camp from July to November, but there are breaks
-in between. In the camp, you’ll get guidance on the TOEFL, SAT, SAT
-Subject Tests and your college applications. Of the college access
-programs that require applications, KenSAP is very selective. It’s worth
-noting that students pay nothing. Kenya Fluorspar sponsors KenSAP.
+in between. In the camp, you’ll get guidance on the standardized tests,
+and your college applications. Of the college access programs that
+require applications, KenSAP is very selective. It’s worth noting that
+students pay nothing. Kenya Fluorspar sponsors KenSAP.
 
 ## EducationUSA
 
