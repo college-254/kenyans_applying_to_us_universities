@@ -8,10 +8,10 @@ aliases:
 
 {{% comment %}}
 
-The COVID-19 pandemic made it nearly impossible to take the standardized
-tests. As a result, some schools have (temporarily) waived standardized
-testing requirements. To get the latest information, look up the
-school's admissions website.
+The COVID-19 pandemic made it hard to take the standardized tests. As a
+result, some schools have (temporarily) waived standardized testing
+requirements. To get the latest information, look up the school's
+admissions website.
 
 For example, searching the web for "princeton undergraduate admissions
 requirements" leads me to
@@ -133,7 +133,7 @@ Nairobi Email: info@lts-africa.com Phone: +254 20-233-0843, +254
 
 * Mainly required by Canadian universities. Most American universities
   waive this requirement by virtue of Kenya being an English speaking
-  country. Also, English is the language of instruction in Kenyan
+  country, and English being the language of instruction in Kenyan
   schools.
 
 * In case a school insists that you take the TOEFL, register at LTS –

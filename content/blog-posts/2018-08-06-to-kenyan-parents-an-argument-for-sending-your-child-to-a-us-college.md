@@ -21,11 +21,9 @@ This post is directed to Kenyan parents/guardians who have child in high
 school that is about to sit for their KCSE. It’s never too early to
 start thinking of possible next steps.
 
-If your child has already ~~graduated from high school but has not
-started applying to schools in the US~~ started undergraduate classes at
-a local university, it’s a bit risky for them to start thinking of
-undergraduate US universities. The applications and required exams are
-time-consuming.
+If your child has already started undergraduate classes at a local
+university, it’s a bit risky for them to start thinking of undergraduate
+US universities. The applications and required exams are time-consuming.
 
 When I talk about US universities, I’m only referring to the ones that
 provide full (or close to full) scholarships to international students
@@ -98,9 +96,10 @@ probably the better choice. Medicine and Law are not offered as
 undergraduate degrees in the US.
 
 The applications open on August 1st, and close by January. The first set
-of admission results are out in December 2018, and the second set of
-results come are released in March/April 2019. If your child gets
-accepted, they’ll start school in the US in September 2019.
+of admission results are out in December, and the second set of
+results come are released in March/April. If your child gets
+accepted, they’ll start school in the US in the September after getting
+their admission results.
 
 A well-crafted college application takes time and effort. Some students
 choose to attend the first year of class at Kenyan universities. Others
