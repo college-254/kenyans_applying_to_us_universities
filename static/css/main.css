@@ -213,3 +213,18 @@ span#draft-marker {
     border: red thin solid;
     border-radius: 3px;
 }
+
+@media print {
+    .not-for-print {
+        display: none;
+    }
+
+    body {
+        margin: 0;
+        line-height: 140%;
+    }
+
+    #site-navbar, #site-footer, #main_div {
+        margin: 0;
+    }
+}

@@ -21,11 +21,9 @@ This post is directed to Kenyan parents/guardians who have child in high
 school that is about to sit for their KCSE. It’s never too early to
 start thinking of possible next steps.
 
-If your child has already ~~graduated from high school but has not
-started applying to schools in the US~~ started undergraduate classes at
-a local university, it’s a bit risky for them to start thinking of
-undergraduate US universities. The applications and required exams are
-time-consuming.
+If your child has already started undergraduate classes at a local
+university, it’s a bit risky for them to start thinking of undergraduate
+US universities. The applications and required exams are time-consuming.
 
 When I talk about US universities, I’m only referring to the ones that
 provide full (or close to full) scholarships to international students
@@ -37,17 +35,16 @@ not well-versed to advise on such scholarships.
 
 | Item | Cost (USD) | Cost (KES) | Remarks |
 | --- | --- | --- | ---|
-| [SAT I](https://collegereadiness.collegeboard.org/sat/register/international/fees) | 89 or 106 | 8,939 to 10,646 | SATs are the equivalent of KCSE. The SAT I tests on Reading, Writing and Math. 89 USD is for Reading and Math only. Some schools don't need the Writing portion. |
-| [SAT Subject Tests](https://collegereadiness.collegeboard.org/sat-subject-tests/register/international-registration/fees) | 111 or 133 | 11,148 or 13,358 | Subjects include Math, Physics, Chemistry, Biology, etc. 111 USD is for 2 subjects, 133 USD is for 3 subjects. |
-| Application Fee | Between 50 and 100 per university. | 5,022 to 10,043 per university | If you these costs are too much, you can request a waiver. Universities usually grant this waiver. |
-| Miscellaneous | ~75 | 7,533 | SAT Prep Books, Internet Access |
-| Total | Between 275 and 314 | Between 27,619 and 31,536 | We’ve not included the application fees because most applicants request waivers. We recommend applying to 8 schools. |
+| [SAT](https://collegereadiness.collegeboard.org/sat/register/international/fees) | 103 | 12,706 | SATs are the equivalent of KCSE. The SAT tests on Reading and Math. |
+| Application Fee | Between 50 and 100 per university. | 6,168 to 12,335 per university | If you these costs are too much, you can request a waiver. Universities usually grant this waiver. |
+| Miscellaneous | ~75 | 9,252 | SAT Prep Books, Internet Access |
+| Total | 178 | 21,958 | We’ve not included the application fees because most applicants request waivers. We recommend applying to 8 schools. |
 
 {{% comment %}}
 
-The costs in this post were obtained on 6th August, 2018. Conversion
-rate at the time: 1 USD = 100.43 KES. As with most valuable things in
-life, the costs have most likely risen since then.
+The costs in this post were obtained on 26th Dec, 2022. [Conversion
+rate](https://g.co/finance/USD-KES?window=5Y) at the time: 1 USD =
+123.35 KES.
 
 {{% /comment %}}
 
@@ -99,9 +96,10 @@ probably the better choice. Medicine and Law are not offered as
 undergraduate degrees in the US.
 
 The applications open on August 1st, and close by January. The first set
-of admission results are out in December 2018, and the second set of
-results come are released in March/April 2019. If your child gets
-accepted, they’ll start school in the US in September 2019.
+of admission results are out in December, and the second set of
+results come are released in March/April. If your child gets
+accepted, they’ll start school in the US in the September after getting
+their admission results.
 
 A well-crafted college application takes time and effort. Some students
 choose to attend the first year of class at Kenyan universities. Others

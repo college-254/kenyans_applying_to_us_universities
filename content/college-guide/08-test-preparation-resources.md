@@ -112,27 +112,6 @@ non-official material first, and then do the Official ACT Tests as you
 near the test date. Make sure you have enough time to do and review all
 the Official Tests.
 
-### SAT Subject Tests
-
-Unlike the ACT and Redesigned SAT, there aren’t many Official Practice
-Test PDFs floating around. You’ll have to make do with unofficial test
-prep. As you guessed, [CrackSAT](http://www.cracksat.net/sat2/) has free
-practice questions and some prep books as well. Kindly note that some of
-the concepts covered on the SAT Subject Tests were not taught in high
-school. Furthermore, with the exception of Math IC and Math IIC, you’re
-not allowed to use a calculator on the SAT Subject Tests – so this is
-quite different from high school Biology, Physics, and Chemistry.
-
-The general strategy is this: Review the content, then do LOTS of
-practice tests. Here is some [advice from some gurus at College
-Confidential](http://talk.collegeconfidential.com/sat-subject-tests-preparation/1077242-list-of-the-best-sat-subject-test-prep-books.html).
-
-Note: While the gurus endorse a certain book, it doesn’t imply that the
-book was responsible for stellar scores. Their scores may also have had
-to do with their high school curriculum. As a KCPE candidate would say,
-“Don’t put all your eggs in one basket.” Do practice tests from as many
-books as you can.
-
 ### TOEFL-iBT
 
 Since Kenyan high schools are taught in English, students don’t usually
