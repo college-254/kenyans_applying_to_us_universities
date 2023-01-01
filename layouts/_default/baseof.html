@@ -3,14 +3,14 @@
 
     <head>
         <title>
-            {{ block "title" . }} 
+            {{ block "title" . }}
                 {{ .Page.Title }} | Kenyans Applying to US Universities
             {{ end }}
         </title>
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" type="text/css" href="/css/main.css" />
         <link rel="stylesheet" type="text/css" href="/css/all_font_awesome_v5.9.min.css" />
-        <!-- <link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet"> -->
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
         <link rel="shortcut icon" href="/img/favicon_io/favicon.ico">
         <link rel="apple-touch-icon" sizes="180x180" href="/img/favicon_io/apple-touch-icon.png">
         <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon_io/favicon-32x32.png">
@@ -26,9 +26,9 @@
     <body>
 
         <div class="container" id="main_div">
-            
+
             {{ partial "breadcrumb.html" . }}
-            
+
             {{ block "main" . }}
             {{ end }}
 
