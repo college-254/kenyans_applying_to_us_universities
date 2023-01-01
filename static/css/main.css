@@ -203,7 +203,7 @@ figure > figcaption {
 .meta {
     font-size: small;
     font-style: italic;
-    color: gray;
+    color: #727272;
 }
 
 /** A label for marking pages that are still in the draft stage. */
