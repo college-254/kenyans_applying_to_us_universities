@@ -6,6 +6,28 @@ aliases:
 - 2016-09-08-11-college-access-programs/
 ---
 
+College access programs are non-profit organizations that guide students
+in their college applications, e.g., test preparation, essay guidance,
+college choices, etc. These programs are free to students; their funds
+come from donations and grants.
+
+*These programs do not provide scholarships.* Instead, they help
+students craft stellar applications to top universities. These
+universities are the ones that grant scholarships.
+
+{{% comment %}}
+
+See [15. Financial Aid Applications]({{< ref
+"/college-guide/15-financial-aid-applications.md" >}}) for more
+information about scholarships.
+
+{{% /comment %}}
+
+These programs especially target high-performing low-income applicants.
+This is largely a matter of who needs more help in completing a college
+application. That said, Education USA offers guidance to all applicants,
+whether they are in a college access program or not.
+
 ## [EaSEP (Education and Social Empowerment Fund)](http://www.easep.org/)
 
 EaSEP picks a group of about 10 promising students and guides them in
@@ -167,29 +189,3 @@ for updates. Their offices in Kenya can be found at:
 >Zawadi Africa Education Fund-Kenya <br>Lenana Road, Kilimani <br>Cathy
 Flats, Suite No. 4 <br>P.O.Box 59949-00200 Nairobi,Kenya <br>Tel:
 +254202305655 <br>Email: info@zawadiafrica.org
-
-## Remarks About College Access Programs
-
-Numerous applicants reach out to us asking what chances they have if
-they attend a certain access program. None of the programs guarantee
-that you’ll get into a US college. All they do is provide guidance. If a
-student is lax on his/her application, there’s nothing that the college
-access program can do. You may have noted that these programs were
-designed for low-income applicants. This is largely a matter of who
-needs more help in completing a college application. As long as you
-diligently complete the college applications and the required testing,
-you can also get admitted into a US university, like many before you
-have done. Also remember that Education USA offers guidance to all
-applicants, whether they are in a college access program or not.
-
-## Edits to the Article
-
-* The required score for KenSAP changed from 81 points in KCSE and and A
-  in English, to 77 points in KCSE and a B plain in English. (22nd Mar,
-  2017)
-
-* EaSEP also lowered the cutoff from 82 points in KCSE to an A-minus.
-  (22nd Mar, 2017)
-
-* A more detailed account of what happens when you apply to KenSAP (22nd
-  Mar, 2017)
