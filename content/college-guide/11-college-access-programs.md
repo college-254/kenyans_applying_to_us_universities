@@ -115,36 +115,47 @@ KCSE in December 2022.
 Note that, despite its name, KenSAP does not work with students seeking
 athletic scholarships.
 
-## EducationUSA
+## [EducationUSA in Kenya](https://ke.usembassy.gov/educationusa-in-kenya/)
 
-EducationUSA has always been providing counseling for students who wish
-to apply to US universities. To access these resources, set up an
-appointment with the College Advisor through this email address:
-NairobiEdUSA@state.gov. You can either set up an individual appointment
-or attend a group session. To get the most out of the individual
-appointment, have copies of academic certificates that you already have
-(KCSE result slip, high school transcript, SAT test scores, etc) and a
-paragraph describing your career objectives. The group session is held
-on the last Friday of every month, but you’ll also need an appointment
-to be allowed into the US Embassy.
+EducationUSA is part of the US Dept. of State, and found at the US
+Embassy at Gigiri, Nairobi. It offers:
 
-EducationUSA offers access to test prep books, computers equipped with
-internet access, workshops (choosing schools to apply to, applying for
-financial aid, applying for student visas and even sessions with
-admissions officers from US universities).
+* Monthly Facebook Live info sessions on the [US Embassy Nairobi
+  Facebook page](https://www.facebook.com/U.S.EmbassyNairobi).
+* Individual advising sessions by appointment.
+* Quarterly workshops on the different stages of the application
+  process.
+* The [EducationUSA Scholars Program](#educationusa-scholars-program).
 
-In addition to these resources that are available for free to everyone,
-EducationUSA also has the College Club, a college access program for
-high achieving low-income students. The College Club requires that you
-submit a complete application. Send an email at around March to
-EducationUSA to inquire about the application. In addition to the
-guidance offered to all students interested in applying to US
-universities, the College Club pays for the test fees of its selected
-applicants.
+Note that, despite its affiliation with the US Government, EducationUSA
+does not provide scholarships.
 
-Whether you end up in the general advisees or in the College Club has
-nothing to do with your chances of getting a scholarship. Everyone has
-access to the same resources, except for the payment of test fees.
+### EducationUSA Scholars Program
+
+Unlike the more general EducationUSA program, their Scholars Program
+requires an application. It offers more support, e.g., paying for
+[standardized tests]({{< ref
+"/college-guide/07-tests-that-you-need-to-take.md" >}}).
+
+Class Size: 40 students
+
+Requirements:
+
+* A- in KCSE (74 points or higher)
+
+Application Instructions: Be on the lookout for applications invite on
+the [U.S. Embassy Nairobi Facebook
+Page](https://www.facebook.com/U.S.EmbassyNairobi), typically after KCSE
+results are announced.
+
+{{% comment %}}
+
+The EducationUSA Scholars Program is now accepting applications from
+students that completed the KCSE in December 2022. [Facebook
+post](https://www.facebook.com/photo/?fbid=553076613530447&set=a.293295186175259).
+The application deadline is Feb 19th, 2023.
+
+{{% /comment %}}
 
 ## [Zawadi Africa](http://www.zawadiafrica.org/)
 
