@@ -55,35 +55,22 @@ Application Instructions:
 
 ## EALP (Equity African Leaders Program)
 
-EALP is a merit-based program that enrolls high-school graduates. The
-selection criteria for these candidates include:
+Requirements:
 
-* Best male and female student in every district.
+* Best male and female student in every sub-county in Kenya where Equity
+  has a branch.
+* Wings to Fly scholars who have attained A- and above in the KCSE.
 
-* Wings to Fly scholars who have attained A- and above in their KCSE
-  exams.
+Students who meet the above criteria have a paid internship with Equity
+Bank, and an opportunity to join the College Counselling Program.
 
-Although EALP does NOT give you any scholarship to study abroad, they
-provide the following:
+{{% comment %}}
 
-* Two camps where you are assigned a mentor who guides you through the
-  application process. You also get to do SAT and ACT exam practice to
-  improve your scores and orient you to the exam that you will
-  eventually take.
+Note that not everyone in the paid internship program joins the College
+Counselling Program. As far as US universities are concerned, the
+College Counselling Program is the place to be.
 
-* Revision material such as books and other online material.
-
-* A stipend once you get admitted to a university abroad. This caters
-  for your air ticket as well as basic shopping once you get to the US.
-
-* Recommendations that boost your chances of getting into schools
-  abroad.
-
-* Mailing of documents to the respective schools that you apply to.
-
-This is also a leadership program and NOT everyone enrolled to it gets
-to apply abroad. Within EALP, you still have to qualify to get into the
-College Counselling program. This process is merit-based as well.
+{{% /comment %}}
 
 ## [KenSAP (Kenya Scholar-Athlete Program)](http://kensap.org/)
 
