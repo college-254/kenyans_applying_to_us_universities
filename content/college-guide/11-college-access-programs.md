@@ -159,29 +159,21 @@ The application deadline is Feb 19th, 2023.
 
 ## [Zawadi Africa](http://www.zawadiafrica.org/)
 
-Sorry dudes - Zawadi only takes girls. The applicant should have:
+Requirements:
 
-* Completed her secondary school examination i.e. The Kenya Certificate
-  of Secondary Examination (KCSE)
+* A female student
+* A- in KCSE (74 points or higher)
+* Demonstrated leadership qualities in school and/or community
+* Come from a financially needy background
+* Completed high school no more than two years before applying.
 
-* Demonstrated academic excellence ( A- or A Plain or a B+ under
-  exceptional circumstances i.e. from marginalized areas)
+{{% comment %}}
 
-* Demonstrated leadership qualities e.g. in school as a prefect, in the
-  community, church, leadership in peer related activities etc.)
+Zawadi Africa's requirements are unique on two fronts: only female
+students are considered, and students that completed the KCSE prior to
+the most recent KCSE are also considered.
 
-* Overcome insurmountable odds such as serious financial challenges,
-  oppressive social-cultural practices such as early marriages and
-  Female Genital Mutilation (FGM) etc. in order to attain academic
-  excellence.
+{{% /comment %}}
 
-* Come from a financially disadvantaged background.
-
-* Demonstrated clear financial need
-
-Applications open in February and close in April. Check Zawadi’s website
-for updates. Their offices in Kenya can be found at:
-
->Zawadi Africa Education Fund-Kenya <br>Lenana Road, Kilimani <br>Cathy
-Flats, Suite No. 4 <br>P.O.Box 59949-00200 Nairobi,Kenya <br>Tel:
-+254202305655 <br>Email: info@zawadiafrica.org
+Application Instructions:
+[https://www.zawadiafrica.org/apply-now/](https://www.zawadiafrica.org/apply-now/)
