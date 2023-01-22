@@ -28,44 +28,26 @@ This is largely a matter of who needs more help in completing a college
 application. That said, Education USA offers guidance to all applicants,
 whether they are in a college access program or not.
 
-## [EaSEP (Education and Social Empowerment Fund)](http://www.easep.org/)
+Some of the programs require that students to submit applications, and
+pass interviews. Once KCSE results are announced, check the programs'
+websites as their applications tend to open up at that time and close
+after a couple of weeks.
 
-EaSEP picks a group of about 10 promising students and guides them in
-their application to US colleges. EaSEP’s requirements are quite
-straightforward:
+## [EaSEP (Education and Social Empowerment Program)](http://www.easep.org/)
 
-* You must have completed KCSE in the previous year, e.g. for EaSEP’s
-  Class of 2016, the students did their KCSE in 2015
+The students stay at a camp in Nandi Hills for weeks at a time. The
+program also pays for its students' [standardized tests]({{< ref
+"/college-guide/07-tests-that-you-need-to-take.md" >}}).
 
-* You must have earned at least an A of 82 and be among the top in your
-  high school. Bonus points if you scored highly in English!
+**Class Size:** 10 students
 
-* You should have an A- in KCSE. Bonus points if you scored highly in
-  English.
+**Requirements:** Completed the preceding KCSE [1] and earned at least
+an A-; demonstrated leadership; preferably from (or schooled in) western
+Kenya.
 
-* You must have demonstrated leadership. NB. Being a prefect is NOT the
-  only form of leadership!
-
-* You must have roots in Western Kenya.
-
-The camp is based in Nandi Hills and runs from July to November. Its
-applications open in early March, so keep an eye on their website. To
-get accepted into the program, download, fill and send a scan of your
-completed application by the deadline (usually in early May).
-
-The program consists of 3 parts. From July to August, students get
-guidance on the SAT & TOEFL, and take the TOEFL Test in August. In the
-2nd part of the program, which begins sometime in September, students
-mainly focus on the SAT Reasoning Test, which they take in October.
-Students also complete their first college application to their most
-desired school. The students get a short break and come back for the
-final stretch in which they work on more college applications.
-
-It’s worth noting that the [East African Scholars
-Fund](http://www.eastafricanscholarsfund.org/) sponsors EaSEP, so the
-students do not incur any costs. That granted, EaSEP and EASF will NOT
-fund your college degree; EaSEP’s work is to help you secure a
-scholarship from the university itself!
+**How to Join:** Complete the application from
+[https://www.easep.org/apply.html](https://www.easep.org/apply.html).
+Shortlisted applicants are invited for interviews.
 
 ## EALP (Equity African Leaders Program)
 
