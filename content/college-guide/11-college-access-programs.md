@@ -33,21 +33,25 @@ pass interviews. Once KCSE results are announced, check the programs'
 websites as their applications tend to open up at that time and close
 after a couple of weeks.
 
+Unless otherwise specified, the programs only accept applications from
+students who completed the most recent KCSE.
+
 ## [EaSEP (Education and Social Empowerment Program)](http://www.easep.org/)
 
 The students stay at a camp in Nandi Hills for weeks at a time. The
 program also pays for its students' [standardized tests]({{< ref
 "/college-guide/07-tests-that-you-need-to-take.md" >}}).
 
-**Class Size:** 10 students
+Class Size: 10 students
 
-**Requirements:** Completed the preceding KCSE [1] and earned at least
-an A-; demonstrated leadership; preferably from (or schooled in) western
-Kenya.
+Requirements:
 
-**How to Join:** Complete the application from
-[https://www.easep.org/apply.html](https://www.easep.org/apply.html).
-Shortlisted applicants are invited for interviews.
+* A- or better on the KCSE
+* Demonstrated leadership
+* Preferably from (or schooled in) western Kenya.
+
+Application Instructions:
+[https://www.easep.org/apply.html](https://www.easep.org/apply.html)
 
 ## EALP (Equity African Leaders Program)
 
@@ -83,34 +87,33 @@ College Counselling program. This process is merit-based as well.
 
 ## [KenSAP (Kenya Scholar-Athlete Program)](http://kensap.org/)
 
-KenSAP's applications roll out in March, but you need an invitation.
-Inquire early on how to receive an application form (there’s a contact
-email on KenSAP’s website). KenSAP generally invites the top 100
-students in KCSE. But anyone with an A of at least 81 points and an A in
-English is also welcome to request an application. You must have scored
-77 or above in KCSE with at least a B plain in English.
+The students stay at a camp in Nandi Hills for weeks at a time. The
+program also pays for its students' [standardized tests]({{< ref
+"/college-guide/07-tests-that-you-need-to-take.md" >}}). Of the college
+access programs, KenSAP is very selective.
 
-To apply, submit a request through the ‘Contact Us’ tab on their
-website. KenSAP will get back to you with instructions on how to
-proceed. If you pass the 1st round, KenSAP will send you an
-individualized application form. Completing the form will require a lot
-of time, so start early. If your application goes through the 2nd round,
-you’ll be invited to an interview and an exam.
+Class Size: 15 - 20 students
 
-KenSAP also includes a 1500m run. The run takes place in Eldoret, and at
-the end of the day, applicants are notified of the decision. Don’t
-despair if you’re really good at being a bad runner. The run exists only
-for KenSAP to identify potential applicants that could pursue athletics
-in college; most of KenSAP admits do poorly. Your written application,
-test and interview matter more in the selection process. Either way,
-train a bit to ensure that your body is ready for the run. KenSAP picks
-14 – 16 students.
+Requirements:
 
-KenSAP students attend camp from July to November, but there are breaks
-in between. In the camp, you’ll get guidance on the standardized tests,
-and your college applications. Of the college access programs that
-require applications, KenSAP is very selective. It’s worth noting that
-students pay nothing. Kenya Fluorspar sponsors KenSAP.
+* A- of at least 79 points on the KCSE
+  * Students that scored between 74 and 78 may still request to apply,
+    but need an additional statement explaining why they should be
+    considered alongside higher scoring candidates.
+* B or better in English.
+
+Application Instructions:
+[https://www.kensap.org/apply](https://www.kensap.org/apply)
+
+{{% comment %}}
+
+KenSAP is now accepting applications from students that completed the
+KCSE in December 2022.
+
+{{% /comment %}}
+
+Note that, despite its name, KenSAP does not work with students seeking
+athletic scholarships.
 
 ## EducationUSA
 
