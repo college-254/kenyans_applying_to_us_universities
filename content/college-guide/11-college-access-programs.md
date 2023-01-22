@@ -62,13 +62,15 @@ Requirements:
 * Wings to Fly scholars who have attained A- and above in the KCSE.
 
 Students who meet the above criteria have a paid internship with Equity
-Bank, and an opportunity to join the College Counselling Program.
+Bank, and an opportunity to join the College Counselling Program. The
+College Counselling Program in turn supports students to apply to global
+universities.
 
 {{% comment %}}
 
-Note that not everyone in the paid internship program joins the College
-Counselling Program. As far as US universities are concerned, the
-College Counselling Program is the place to be.
+Unlike KenSAP, EaSEP and EducationUSA, EALP also helps students gain
+admission into universities outside the US, e.g., Ghana, Rwanda, Canada,
+Europe, and Asia.
 
 {{% /comment %}}
 
