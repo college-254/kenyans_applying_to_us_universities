@@ -32,24 +32,68 @@ are super helpful, if you read them early enough. You’ll soon find out
 that there’s no magical way to ‘boost’ your score by 400 points in a
 week – you need to work!
 
-## American Corners
+## American Spaces
 
-[American
-Corners](http://nairobi.usembassy.gov/resources/american-corners-contact-information.html)
-are resources provided for free by the US Embassy. There are 4 of them,
-and we’ll provide their addresses below. You can get free access to ACT
-and SAT Prep Books and some general information on US Colleges such as
-college brochures & magazines. We hope you’ll also run into fellow
-students applying to the US. For your best interests, please work
-together; don’t pretend that you’re not applying so as to ‘reduce
-competition’.
+[American Spaces](https://ke.usembassy.gov/education/am-spaces/) are
+resources provided for free by the US Embassy. You can get free access
+to ACT and SAT Prep Books and some general information on US Colleges
+such as college brochures & magazines. We hope you'll also run into
+fellow students applying to the US.
 
-| American Corner | Physical Address | P.O.Box | Telephone | Mobile | Email |
-| --- | --- | --- | --- | --- | --- |
-| American Corner Nakuru | Kenya National Library Services, Nakuru Branch. Behind Christ the King Cathedral off Moses Mudavadi Road | 253, Nakuru | +254-51-216-023, +254-20-215-8362 | +254-720-261-120 | nkuamspace@gmail.com |
-| American Space Lamu | Lamu Museum Information Center. Mwanaarafa House – Sea Front Road | 48 – 80500, Lamu | +254-42-463-3027 | +254-722-480-145 | lamucorner@gmail.com |
-| Ali A Mazrui Memorial Library (Mombasa) | MEWA Information Center. My-Tac Hall, next to Masjid Musa, Majengo | 89427 – 80100, Mombasa | +254-722-819-795, +254-725-833-597 | mewainformationcentre@yahoo.com |
-| American Space, Moi University (Nairobi) | Moi University, Nairobi Campus. The Bazaar, Moi Avenue | 63056 – 00200, Nairobi | +254-20-221-1206 | +254-721-302-481 | moiunivspace@gmail.com |
+<address>
+
+**American Center Nairobi** <br/>
+US Embassy, United Nations Avenue, Nairobi ([Google Maps](https://goo.gl/maps/pEj7tiwokGSz44Pn9?coh=178572&entry=tt)) <br/>
+Phone: <a href="+254203636205/197/439">+254 20 363 6205/197/439</a> <br/>
+Website: [https://ke.usembassy.gov/american-center-nairobi/](https://ke.usembassy.gov/american-center-nairobi/) <br/>
+Email: <a href="mail:americancenternairobi@state.gov">americancenternairobi@state.gov</a> <br/>
+Address: P. O. Box 606, Village Market. Nairobi. 00621 <br/>
+
+</address>
+
+<address>
+
+**American Corner Nairobi - Moi University** <br/>
+Moi University Nairobi Campus. <br/>
+The Bazaar Plaza, Moi Avenue, Nairobi. ([Google Maps](https://goo.gl/maps/2ZoYg1FxGBcUCphb6?coh=178572&entry=tt)) <br/>
+Phone: <a href="tel:+254202211206">+254 20 221 1206</a>; <a
+href="+254721302481">+254 721 302481</a> <br/>
+Email: <a
+href="mail:americancornermoi@gmail.com">americancornermoi@gmail.com</a> <br/>
+
+</address>
+
+<address>
+
+**American Corner Mombasa** <br/>
+MEWA Information Center <br/>
+My-Tac Hall, next to Masjid Musa, Majengo ([Google Maps](https://goo.gl/maps/sxwKGdXBAoQPhS7i9?coh=178572&entry=tt)) <br/>
+Phone: <a href="tel:+254722819795">+254 722 819 795</a>; <a href="+254725833597">+254 725 833 597</a> <br/>
+Email: <a href="mail:americancornermombasa@gmail.com">americancornermombasa@gmail.com</a>
+
+</address>
+
+<address>
+
+**American Corner Nakuru** <br/>
+Kenya National Library Services, Nakuru Branch <br/>
+Behind Christ the King Cathedral off Moses Mudavadi Road ([Google
+Maps](https://goo.gl/maps/q7oajokrDayeg64V8?coh=178572&entry=tt)) <br/>
+Phone: <a href="tel:+25451216023">+254 51 216 023</a>; <a
+href="tel:+254720261120">+254 720 261120</a> <br/>
+Email: <a href="mail:americancornernakuru@gmail.com">americancornernakuru@gmail.com</a>
+
+</address>
+
+<address>
+
+**American Corner Lamu** <br/>
+Lamu Museum Information Center <br/>
+Mwanaarafa House – Sea Front Road ([Google Maps](https://goo.gl/maps/RLpoPUbbYFTtVz2A6?coh=178572&entry=tt)) <br/>
+Phone: <a href="tel:+254424633027">+254 42 463 3027</a>; <a href="tel:+254722572736">+254 722 572 736</a>; <a href="tel:+254743989722">+254 743 989 722</a> <br/>
+Email: <a href="mail:americancornerlamu@gmail.com">americancornerlamu@gmail.com</a>
+
+</address>
 
 ## Online SAT & ACT Resources
 
