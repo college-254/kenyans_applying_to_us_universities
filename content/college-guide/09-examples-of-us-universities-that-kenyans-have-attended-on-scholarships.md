@@ -89,6 +89,6 @@ strategic – have some schools in which you’re likely to get in, and
 others where you require the cosmos to realign in your favor.
 
 * This list has been compiled from [KenSAP](http://kensap.org/) and
-  [EaSEP](http://www.easep.org/) since they have the universities on
+  [EaSEP](http://www.easepkenya.org/) since they have the universities on
   their websites. We don’t have data from other organizations &
   independent applicants. It is not an exhaustive list!
