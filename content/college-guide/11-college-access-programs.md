@@ -36,7 +36,7 @@ after a couple of weeks.
 Unless otherwise specified, the programs only accept applications from
 students who completed the most recent KCSE.
 
-## [EaSEP (Education and Social Empowerment Program)](http://www.easep.org/)
+## [EaSEP (Education and Social Empowerment Program)](http://www.easepkenya.org/)
 
 The students stay at a camp in Nandi Hills for weeks at a time. The
 program also pays for its students' [standardized tests]({{< ref
@@ -51,7 +51,7 @@ Requirements:
 * Preferably from (or schooled in) western Kenya.
 
 Application Instructions:
-[https://www.easep.org/apply.html](https://www.easep.org/apply.html)
+[https://www.easepkenya.org/apply.html](https://www.easepkenya.org/apply.html)
 
 ## EALP (Equity African Leaders Program)
 
