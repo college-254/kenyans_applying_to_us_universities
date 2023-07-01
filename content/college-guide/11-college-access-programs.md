@@ -53,6 +53,12 @@ Requirements:
 Application Instructions:
 [https://www.easepkenya.org/apply.html](https://www.easepkenya.org/apply.html)
 
+{{% comment %}}
+
+2023 applications are open until July 12th.
+
+{{% /comment %}}
+
 ## EALP (Equity African Leaders Program)
 
 Requirements:
@@ -94,13 +100,6 @@ Requirements:
 Application Instructions:
 [https://www.kensap.org/apply](https://www.kensap.org/apply)
 
-{{% comment %}}
-
-KenSAP is now accepting applications from students that completed the
-KCSE in December 2022.
-
-{{% /comment %}}
-
 Note that, despite its name, KenSAP does not work with students seeking
 athletic scholarships.
 
@@ -139,10 +138,8 @@ results are announced.
 
 {{% comment %}}
 
-The EducationUSA Scholars Program is now accepting applications from
-students that completed the KCSE in December 2022. [Facebook
-post](https://www.facebook.com/photo/?fbid=553076613530447&set=a.293295186175259).
-The application deadline is Feb 19th, 2023.
+In 2023, applications were open from Jan 21st to Feb 19th (
+[link](https://www.facebook.com/photo/?fbid=553076613530447&set=a.293295186175259)).
 
 {{% /comment %}}
 
@@ -166,3 +163,9 @@ the most recent KCSE are also considered.
 
 Application Instructions:
 [https://www.zawadiafrica.org/apply-now/](https://www.zawadiafrica.org/apply-now/)
+
+{{% comment %}}
+
+In 2023, applications were closed on April 14th.
+
+{{% /comment %}}
