@@ -25,7 +25,7 @@ use the [feedback form]({{< ref "/feedback.md" >}}). Thanks!
 
 {{% /comment %}}
 
-## Terminology
+## Terms
 
 If a school has 10,000 applicants, and accepts 1,000 of them, then its
 **acceptance rate** is (1,000 / 10,000) * 100% = 10%.
@@ -76,14 +76,34 @@ doesn't offer financial aid to international students. {{% cite
 uwAdmissions %}} {{% cite uwFinancialAid %}}
 
 The fact that we need universities that offer financial aid to
-international students pretty much limits our options to the reach
-schools. That said, there are finer levels even within the reach
-schools, e.g., you have a higher chance of getting into Amherst than
-getting into Harvard.
+international students pretty much limits us to reach schools. That
+said, there are finer levels even within the reach schools, e.g., you
+have a higher chance of getting into Amherst than getting into Harvard.
 
 One typically applies to 8-10 schools. When building your list, try to
 stagger the admission rates as much as you can. Your list should not be
 Harvard, Stanford, Columbia, Yale, MIT, Brown, Princeton, and Dartmouth.
+
+In schools that practice need-aware admissions, international students
+that need significant financial aid tend to be in the most competitive
+applicant pool. The moral here is that you shouldn't take any
+application for granted -- if you want financial aid as an international
+student, craft the best application that you can.
+
+{{% comment %}}
+
+Two examples to illustrate this.
+
+Although the general admissions rate at Oberlin College is ~33%, the
+rate for international students is ~8%, and even then, applicants who
+can afford at least $35,000 USD per year are the most competitive. {{%
+cite oberlinClassProfile %}} {{% cite oberlinInternationalAid %}}
+
+While St. Lawrence University's general admission rate is 58.5%, it has
+only two full-scholarship slots per year for Kenyan students. {{% cite
+SLUAdmRates %}} {{% cite SLUFinancialAidInternational %}}
+
+{{% /comment %}}
 
 ## School Locations
 
@@ -111,4 +131,28 @@ Harvard, Stanford, Columbia, Yale, MIT, Brown, Princeton, and Dartmouth.
   id="uwFinancialAid"
   title="International students | Student Financial Aid"
   url="https://www.washington.edu/financialaid/getting-started/eligibility/international-students/"
+  accessed="2023-12-03" >}}
+
+1. {{< citation
+  id="oberlinInternationalAid"
+  title="Applying for Aid: International Students | Oberlin College and Conservatory"
+  url="https://www.oberlin.edu/admissions-and-aid/financial-aid/applying-aid-international-students"
+  accessed="2023-12-03" >}}
+
+1. {{< citation
+  id="oberlinClassProfile"
+  title="Class Profile | Oberlin College and Conservatory"
+  url="https://www.oberlin.edu/admissions-and-aid/class-profile"
+  accessed="2023-12-03" >}}
+
+1. {{< citation
+  id="SLUAdmRates"
+  title="SLU Quick Facts | St. Lawrence University"
+  url="https://www.stlawu.edu/offices/institutional-research/slu-quick-facts"
+  accessed="2023-12-03" >}}
+
+1. {{< citation
+  id="SLUFinancialAidInternational"
+  title="Financial Aid for International Students | St. Lawrence University"
+  url="https://www.stlawu.edu/admissions/financial-aid-scholarships/financial-aid/financial-aid-international-students"
   accessed="2023-12-03" >}}
