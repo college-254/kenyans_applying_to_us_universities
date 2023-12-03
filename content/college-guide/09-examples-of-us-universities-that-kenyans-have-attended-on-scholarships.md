@@ -6,61 +6,25 @@ aliases:
 - 2016-09-08-09-examples-of-us-universities-that-kenyans-have-attended-on-scholarships/
 ---
 
-An easy starting point for your college search would be universities
-where other Kenyans have attended. Here is a list* to get you started.
-The numbers in parentheses indicate the approximate number of undergrad
-Kenyan students as of August 2016. If a school doesn’t have a number
-next to it, it’s only because we’ve not yet heard from people attending
-that school.
+[Link to Google Sheet](https://docs.google.com/spreadsheets/d/1qqzRlRogXwrbtFtjgcIMIbFYw1v-tm0_xfNfsrvV9tk/edit?usp=sharing)
 
-(The numbers in parentheses indicate the approximate number of current
-undergraduate Kenyan students – freshmen, sophomores, juniors & seniors
-– as of August 2016. If a school doesn’t have a number next to it, it’s
-only because we’ve not yet heard from people attending that school.)
+<iframe
+  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRRFDVMQu5xQFHZdSnhpdXB5XBsNXxBRKC27rZVfeSMneFdaDC4Z5A2ZtLE67RAg3pfY_SJDzydCUpe/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false&amp;chrome=false"
+  style="width: 100%; min-height: 400px">
+</iframe>
 
-* Cornell (28)
-* Yale (20)
-* Columbia (6)
-* Wesleyan (4)
-* Princeton (11)
-* Smith (10)
-* Harvard (14)
-* Dartmouth (8)
-* Massachusetts Institute of Technology – MIT (6)
-* Drexel
-* Northwestern
-* Lafayette (4)
-* University of Pennsylvania (UPenn)
-* Pomona
-* Brown
-* Stanford
-* Michigan State University
-* Tufts (6)
-* Amherst (14)
-* St. Lawrence
-* Vanderbilt (5)
-* Mount Holyoke
-* Hamilton
-* Middlebury
-* Williams
-* Lehigh
-* Bowdoin
-* Brandeis
-* Colby
-* Bates
-* Bryn Mawr
-* Kenyon
-* Barnard
-* Carleton
-* Connecticut College
-* Davidson
-* Gettysburg
-* Michigan State
-* Oberlin
-* Swarthmore
-* College of Wooster
+{{% comment %}}
 
-* Ashesi University in Ghana has 51.
+This is not a complete list. If you know of an American university that
+has scholarships available for international undergraduate students,
+we'll gladly appreciate the tip. Either comment on the Google Sheet, or
+use the [feedback form]({{< ref "/feedback.md" >}}). Thanks!
+
+{{% /comment %}}
+
+As of 2023, Harvard, Yale, Princeton, Dartmouth, MIT, Amherst, and
+Bowdoin are need-blind even to international students. This means that
+your ability to pay is not considered when making admissions decisions.
 
 The [MasterCard Foundation Scholars
 Program](http://mcfscholarsprogram.berkeley.edu/partner-universities)
@@ -79,16 +43,7 @@ Although UC-Berkeley & Stanford currently have MasterCard scholars,
 they’ll not be accepting any more MCF scholars as of August 2016. These
 schools have already exhausted their MasterCard grants.
 
-As of 2016, Princeton, Harvard, Yale, MIT and Amherst are need-blind
-even to international students. This means that your ability to pay is
-not considered when making admissions decisions.
-
 Spread out your schools according to your chances of getting in. Don’t
 apply to Harvard, Yale, Princeton, Stanford and MIT as your backup. Be
 strategic – have some schools in which you’re likely to get in, and
 others where you require the cosmos to realign in your favor.
-
-* This list has been compiled from [KenSAP](http://kensap.org/) and
-  [EaSEP](http://www.easepkenya.org/) since they have the universities on
-  their websites. We don’t have data from other organizations &
-  independent applicants. It is not an exhaustive list!
