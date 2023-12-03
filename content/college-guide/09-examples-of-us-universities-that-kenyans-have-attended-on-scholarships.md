@@ -26,23 +26,6 @@ As of 2023, Harvard, Yale, Princeton, Dartmouth, MIT, Amherst, and
 Bowdoin are need-blind even to international students. This means that
 your ability to pay is not considered when making admissions decisions.
 
-The [MasterCard Foundation Scholars
-Program](http://mcfscholarsprogram.berkeley.edu/partner-universities)
-has partnered with universities in the US, Canada, Ghana and Costa Rica
-to provide undergraduate scholarships to promising students. Click on
-the links on MCF Scholars Program’s website to learn about each partner
-university’s policy on MasterCard scholarships. Some schools require
-special MCF applications, while others award MasterCard scholarships
-after general admission. Partner universities in the US are [Arizona
-State University](http://global.asu.edu/MCFScholarsProgram), [Duke
-University](http://mcfscholars.duke.edu/), [Michigan State
-University](http://www.msu.edu/stories/master-card-foundation/), and
-[Wellesley College](http://www.wellesley.edu/).
-
-Although UC-Berkeley & Stanford currently have MasterCard scholars,
-they’ll not be accepting any more MCF scholars as of August 2016. These
-schools have already exhausted their MasterCard grants.
-
 Spread out your schools according to your chances of getting in. Don’t
 apply to Harvard, Yale, Princeton, Stanford and MIT as your backup. Be
 strategic – have some schools in which you’re likely to get in, and
