@@ -8,13 +8,18 @@ aliases:
 
 ## Transcript and School Report
 
-The transcript should contain all of your term grades since Form One.
-Here’s a [sample
-tanscript](https://drive.google.com/file/d/0BxcN6nrpsXL6Rk9LYlF5dnNVb28/view?usp=sharing&resourcekey=0-y89tjuvELZK2bZoRLIhejA)
-that shows how a student’s grades may be presented. Please note that the
-transcript should be prepared on a school letterhead, bear the official
-school stamp and signed by an authority (usually the School Principal,
-but check your high school’s policy).
+The transcript should contain all of your term grades since form 1, and
+your GPA on the 4.0 scale, e.g., [sample
+transcript](https://docs.google.com/spreadsheets/d/1pOfNJq8xebUzBN9kk-cVHIIRhwS14Hd7wGFG0MqFGvA/edit?usp=sharing):
+
+<iframe
+  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSFsPkYBQRDoYSPolI9K3nUSwVGlzmvK_PShp9WuOjuyuKxs47GIk2ZbE1m_9518_aarOyg52Fg4wN4/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false&amp;chrome=false"
+  style="width: 100%; min-height: 400px">
+</iframe>
+
+Please note that the transcript should be prepared on a school
+letterhead, bear the official school stamp and signed by an authority
+(usually the School Principal, but check your high school's policy).
 
 You’ll also need a School Counselor to fill in your school profile. If
 your high school has had a history of sending its students to the US,

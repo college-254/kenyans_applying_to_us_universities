@@ -1,10 +1,87 @@
 ---
-title: 03. What are US universities looking for in international students?
+title: 03. What are US universities looking for?
 date: 2016-09-08
 weight: 3
 aliases:
 - 2016-09-08-03-what-are-us-universities-looking-for-in-international-students/
 ---
+
+The major difference between university admissions in Kenya and those in
+the US is the number of factors considered for admission. For Kenyan
+universities, your grade in the KCSE national exam determines which
+university and course you'll be admitted to. In contrast, American
+universities consider academic and non-academic factors when deciding
+who to admit.
+
+{{% comment %}}
+
+The buckets below are obtained from the Common Data Set, a common
+document filled by universities to be used by publishers. {{% cite CDS
+%}}
+
+{{% /comment %}}
+
+## Academic Factors
+
+### Rigor of Secondary School Record
+
+Relative to the resources available at your school, did you challenge
+yourself academically?
+
+{{% comment %}}
+
+In American high schools, academic rigor usually takes the form of
+Advanced Placement classes in which high school students take on
+college-level classes and earn college credits. Such credits allow them
+to place out of certain introductory classes when they enroll into
+college. {{% cite cbAP %}}
+
+{{% /comment %}}
+
+### Academic GPA
+
+To calculate your high school GPA, add together your grades on the 4.0
+scale after converting them from letter grades, and divide the sum by
+the number of classes you are taking. {{% cite cbGPA %}} For example:
+
+<iframe
+  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSFsPkYBQRDoYSPolI9K3nUSwVGlzmvK_PShp9WuOjuyuKxs47GIk2ZbE1m_9518_aarOyg52Fg4wN4/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false&amp;chrome=false"
+  style="width: 100%; min-height: 400px">
+</iframe>
+
+### Class Rank
+
+### Standardized Test Scores
+
+### Application Essay
+
+## Non-academic Factors
+
+### Extracurricular Activities
+
+### Talent/Ability
+
+### Character/Personal Qualities
+
+### First-Generation
+
+### Interview
+
+### Alumni Relation
+
+### Geographical Residence
+
+### State Residency
+
+### Religious Affiliation/Commitment
+
+### Racial/Ethnic Status
+
+### Volunteer Work
+
+### Work Experience
+
+### Level of Applicant's Interest
 
 This section has been extracted from the [EGF
 Guide](https://drive.google.com/drive/folders/0BxcN6nrpsXL6VUlPWThlaTdtZ1E?resourcekey=0-zab22OZ9EjcJWeng8nFplA&usp=sharing).
@@ -231,3 +308,39 @@ capacities, your potential to study abroad next year or in five years
 
 > “We aren’t looking for well-rounded individuals, we’re looking for a
 > well-rounded class”
+
+## References
+
+1. {{< citation
+  id="egfUSGuide"
+  title="A Guide to Applying to Undergraduate Institutions in USA"
+  url="https://drive.google.com/drive/folders/0BxcN6nrpsXL6VUlPWThlaTdtZ1E?resourcekey=0-zab22OZ9EjcJWeng8nFplA&usp=sharing"
+  authors=`Catrin Davies; Isaac Ochieng'; Mary Kiarie; Wanjiku Mungai;
+  Susan Kemboi; Benjamin Munyao; John Kimani; Kenneth Kiambati;
+  Simeon Kamunde; Martha Obasi; Trevor Omangi` >}}
+
+1. {{< citation
+  id="CDS"
+  title="Home - Common Data Set"
+  url="https://commondataset.org/"
+  accessed="2023-12-03" >}}
+
+1. {{< citation
+  id="cbGPA"
+  title="How to Convert (Calculate) Your GPA to a 4.0 Scale"
+  url="https://bigfuture.collegeboard.org/plan-for-college/college-basics/how-to-convert-gpa-4.0-scale"
+  accessed="2023-12-03" >}}
+
+1. {{< citation
+  id="WignallRigor"
+  title="What's Academic Rigor? Why is it So Important?"
+  author="Allison Wignall"
+  url="https://www.collegeraptor.com/getting-in/articles/questions-answers/academic-rigor-important/"
+  date="2022-12-22"
+  accessed="2023-12-04" >}}
+
+1. {{< citation
+  id="cbAP"
+  title="Advanced Placement® (AP) – College Board"
+  url="https://ap.collegeboard.org/"
+  accessed="2023-12-04" >}}
