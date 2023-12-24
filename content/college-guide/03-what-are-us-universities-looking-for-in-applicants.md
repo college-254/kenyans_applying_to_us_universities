@@ -29,9 +29,15 @@ and from there, you can view the latest CDS.
 
 {{% /comment %}}
 
-## Academic Factors
+Universities attach different levels of importance to various
+factors, ranging from "not considered" to "very important". For
+convenience, we order the factors below based on the average preferences
+of the schools listed in [09. Examples of US universities that Kenyans
+have attended on scholarships]({{< ref
+"/college-guide/09-examples-of-us-universities-that-kenyans-have-attended-on-scholarships"
+>}}).
 
-### Rigor of Secondary School Record
+## Rigor of Secondary School Record
 
 Relative to the resources available at your school, did you challenge
 yourself academically? Colleges use information provided by the school
@@ -47,7 +53,7 @@ A lot of Kenyan high schools do not provide such classes. Not to worry
 though, you will not be penalized for not taking courses that were not
 available at your school.
 
-### Academic GPA
+## Academic GPA
 
 To calculate your high school GPA, add together your grades on the 4.0
 scale after converting them from letter grades, and divide the sum by
@@ -58,34 +64,7 @@ the number of classes you are taking. {{% cite cbGPA %}} For example:
   style="width: 100%; min-height: 400px">
 </iframe>
 
-### Class Rank
-
-This is provided by the school counselor in the school report, e.g., are
-you in the top 5% of your class? How many other students share the same
-rank? {{% cite schoolReport %}}
-
-### Standardized Test Scores
-
-Standardized tests include the SAT and the ACT. These are different from
-the tests that you took in high school. See [this page]({{< ref
-"/college-guide/07-tests-that-you-need-to-take" >}}) for more
-information on standardized tests.
-
-### Personal Essay
-
-The personal essay is limited to 650 words, and you can choose one of
-several prompts. For example, one of the prompts in the 2023-2024
-application cycle was: *Some students have a background, identity,
-interest, or talent that is so meaningful they believe their application
-would be incomplete without it. If this sounds like you, then please
-share your story.* {{% cite Lombardi2023 %}}
-
-See [this page]({{< ref
-"/college-guide/14-common-application-essays-and-writing-supplements"
->}}) for more information on the college essay. A lot goes into writing
-a great personal essay.
-
-### Recommendation
+## Recommendation
 
 Your college application also includes recommendations from your high
 school teachers. They typically include:
@@ -107,9 +86,41 @@ See [this page]({{< ref
 "/college-guide/12-high-school-transcript-school-report-and-letters-of-recommendation"
 >}}) for more information.
 
-## Non-academic Factors
+## Character/Personal Qualities
 
-### Extracurricular Activities
+Some personal qualities like maturity, character, leadership,
+self-confidence, warmth of personality, sense of humor, energy, and
+grace under pressure are essential for someone to thrive in an
+unfamiliar and competitive environment thousands of miles from home. {{%
+cite egfUSGuide %}}
+
+Your teacher may be asked to describe you on various fronts, e.g.,
+intellectual promise, quality of writing, creative thought, productive
+discussion, faculty respect, disciplined habits, maturity, motivation,
+leadership, integrity, reaction to setbacks, concern for others,
+self-confidence, initiative, etc. {{% cite teacherEvaluation %}}
+
+## Personal Essay
+
+The personal essay is limited to 650 words, and you can choose one of
+several prompts. For example, one of the prompts in the 2023-2024
+application cycle was: *Some students have a background, identity,
+interest, or talent that is so meaningful they believe their application
+would be incomplete without it. If this sounds like you, then please
+share your story.* {{% cite Lombardi2023 %}}
+
+See [this page]({{< ref
+"/college-guide/14-common-application-essays-and-writing-supplements"
+>}}) for more information on the college essay. A lot goes into writing
+a great personal essay.
+
+## Class Rank
+
+This is provided by the school counselor in the school report, e.g., are
+you in the top 5% of your class? How many other students share the same
+rank? {{% cite schoolReport %}}
+
+## Extracurricular Activities
 
 Extracurricular activities encompass how you spend your time beyond
 studying, e.g., athletics, clubs, art, drama, student leadership,
@@ -120,50 +131,48 @@ to them. Were you significantly committed to an activity? Did you
 receive recognition for it? Were you in a leadership position? {{% cite
 egfUSGuide %}}
 
-### Talent/Ability
+## Talent/Ability
 
 Some colleges give special consideration to students who have
 demonstrated excellence in areas of interest to the colleges. {{% cite
 CDS %}} More so if there is regional/national recognition. {{% cite
 egfUSGuide %}}
 
-### Character/Personal Qualities
+## Standardized Test Scores
 
-Your teacher may be asked to describe you on various fronts, e.g.,
-intellectual promise, quality of writing, creative thought, productive
-discussion, faculty respect, disciplined habits, maturity, motivation,
-leadership, integrity, reaction to setbacks, concern for others,
-self-confidence, initiative, etc. {{% cite teacherEvaluation %}}
+Standardized tests include the SAT and the ACT. These are different from
+the tests that you took in high school. See [this page]({{< ref
+"/college-guide/07-tests-that-you-need-to-take" >}}) for more
+information on standardized tests.
 
-Some personal qualities like maturity, character, leadership,
-self-confidence, warmth of personality, sense of humor, energy, and
-grace under pressure are essential for someone to thrive in an
-unfamiliar and competitive environment thousands of miles from home. {{%
-cite egfUSGuide %}}
+## Volunteer Work
 
-### First-Generation
+Some colleges give special consideration to students with activities
+done on a volunteer basis, e.g., tutoring, hospital care, working with
+the elderly or disabled, etc. {{% cite CDS %}}
+
+## First Generation Status
 
 Are you the first in your family to finish high school, or to attend
 university? Are you one of the few in your village to go to high school?
 Are you the first in your high school to apply abroad? {{% cite
 egfUSGuide %}}
 
-### Interview
+## Work Experience
+
+Some colleges give special consideration given to students who have been
+employed prior to application, whether for relevance to major,
+demonstration of employment-related skills, or as explanation of
+student’s academic and extracurricular record. {{% cite CDS %}}
+
+## Interview
 
 Some universities enlist their alums to interview students who apply to
 the school. While the interview provides you with the chance to learn
 more about the school, the alums also write a recommendation to the
 school after the interview.
 
-### Alumni/ae Relation
-
-Some colleges practice legacy admissions, where having a relative who is
-an alumni is considered a plus factor. However, given recent Supreme
-Court ruling against considering race, legacy admissions have come under
-scrutiny and some colleges are dropping the special consideration. {{%
-cite LaGesse2023 %}}
-
-### Geographical Residence / State Residence
+## Geographical Residence / State Residence
 
 Some colleges give special consideration to students from a particular
 region, state, or country of residence. {{% cite CDS %}}
@@ -172,29 +181,24 @@ Public universities tend to favor applicants from within the state.
 Private universities tend to favor applicants from under-represented
 regions. {{% cite Kowarski2018 %}}
 
-### Religious Affiliation/Commitment
+## Alumni/ae Relation
 
-Some colleges give special consideration to applicants who are
-affiliated with a certain church/faith/religion. {{% cite CDS %}}
+Some colleges practice legacy admissions, where having a relative who is
+an alumni is considered a plus factor. However, given recent Supreme
+Court ruling against considering race, legacy admissions have come under
+scrutiny and some colleges are dropping the special consideration. {{%
+cite LaGesse2023 %}}
 
-### Volunteer Work
-
-Some colleges give special consideration to students with activities
-done on a volunteer basis, e.g., tutoring, hospital care, working with
-the elderly or disabled, etc. {{% cite CDS %}}
-
-### Work Experience
-
-Some colleges give special consideration given to students who have been
-employed prior to application, whether for relevance to major,
-demonstration of employment-related skills, or as explanation of
-student’s academic and extracurricular record. {{% cite CDS %}}
-
-### Level of Applicant's Interest
+## Level of Applicant's Interest
 
 Some colleges consider demonstrated interest, e.g., joining their
 mailing list, attending admissions events, applying early
 action/decision, etc. {{% cite Sarikas2023 %}}
+
+## Religious Affiliation/Commitment
+
+Some colleges give special consideration to applicants who are
+affiliated with a certain church/faith/religion. {{% cite CDS %}}
 
 ## References
 

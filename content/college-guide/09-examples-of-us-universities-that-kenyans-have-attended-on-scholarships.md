@@ -105,6 +105,13 @@ SLUAdmRates %}} {{% cite SLUFinancialAidInternational %}}
 
 {{% /comment %}}
 
+## School Admission Factors
+
+<iframe
+  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRRFDVMQu5xQFHZdSnhpdXB5XBsNXxBRKC27rZVfeSMneFdaDC4Z5A2ZtLE67RAg3pfY_SJDzydCUpe/pubhtml?gid=2098063565&amp;single=true&amp;widget=true&amp;headers=false&amp;chrome=false"
+  style="width: 100%; min-height: 400px">
+</iframe>
+
 ## School Locations
 
 <iframe
