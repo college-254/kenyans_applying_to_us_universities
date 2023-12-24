@@ -4,6 +4,7 @@ date: 2016-09-08
 weight: 3
 aliases:
 - 2016-09-08-03-what-are-us-universities-looking-for-in-international-students/
+- 03-what-are-us-universities-looking-for-in-international-students/
 ---
 
 The major difference between university admissions in Kenya and those in
