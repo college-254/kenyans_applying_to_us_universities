@@ -13,11 +13,18 @@ university and course you'll be admitted to. In contrast, American
 universities consider academic and non-academic factors when deciding
 who to admit.
 
-{{% comment %}}
-
-The buckets below are obtained from the Common Data Set, a common
+The list of factors is compiled from the Common Data Set (CDS), a
 document filled by universities to be used by publishers. {{% cite CDS
 %}}
+
+{{% comment %}}
+
+If you want to know a quick view of a college, look up its
+latest Common Data Set. For example, [searching for "Harvard common data
+set"](https://www.google.com/search?q=harvard+common+data+set&oq=harvard+common+data+set&gs_lcrp=EgZjaHJvbWUyDggAEEUYFBg5GIcCGIAEMg0IARAAGJECGIAEGIoFMgYIAhBFGEDSAQgzNDU1ajBqMagCALACAA&sourceid=chrome&ie=UTF-8)
+surfaces
+[https://oira.harvard.edu/common-data-set/](https://oira.harvard.edu/common-data-set/),
+and from there, you can view the latest CDS.
 
 {{% /comment %}}
 
@@ -26,17 +33,18 @@ document filled by universities to be used by publishers. {{% cite CDS
 ### Rigor of Secondary School Record
 
 Relative to the resources available at your school, did you challenge
-yourself academically?
+yourself academically? Colleges use information provided by the school
+counselor, e.g.,
 
-{{% comment %}}
+* How many AP, IB, Honors, and Cambridge courses are offered?
+* What is the maximum number of such classes that a student can take in
+  a given year?
 
-In American high schools, academic rigor usually takes the form of
-Advanced Placement classes in which high school students take on
-college-level classes and earn college credits. Such credits allow them
-to place out of certain introductory classes when they enroll into
-college. {{% cite cbAP %}}
+{{% cite schoolReport %}}
 
-{{% /comment %}}
+A lot of Kenyan high schools do not provide such classes. Not to worry
+though, you will not be penalized for not taking courses that were not
+available at your school.
 
 ### Academic GPA
 
@@ -51,265 +59,150 @@ the number of classes you are taking. {{% cite cbGPA %}} For example:
 
 ### Class Rank
 
+This is provided by the school counselor in the school report, e.g., are
+you in the top 5% of your class? How many other students share the same
+rank? {{% cite schoolReport %}}
+
 ### Standardized Test Scores
 
-### Application Essay
+Standardized tests include the SAT and the ACT. These are different from
+the tests that you took in high school. See [this page]({{< ref
+"/college-guide/07-tests-that-you-need-to-take" >}}) for more
+information on standardized tests.
+
+### Personal Essay
+
+The personal essay is limited to 650 words, and you can choose one of
+several prompts. For example, one of the prompts in the 2023-2024
+application cycle was: *Some students have a background, identity,
+interest, or talent that is so meaningful they believe their application
+would be incomplete without it. If this sounds like you, then please
+share your story.* {{% cite Lombardi2023 %}}
+
+See [this page]({{< ref
+"/college-guide/14-common-application-essays-and-writing-supplements"
+>}}) for more information on the college essay. A lot goes into writing
+a great personal essay.
+
+### Recommendation
+
+Your college application also includes recommendations from your high
+school teachers. They typically include:
+
+* Your academic, extracurricular, and personal characteristics.
+* Relevant context for your performance and involvement, e.g.,
+  particularities of family situation.
+* Observed problematic behaviors that the admissions committee should
+  explore further.
+
+{{% cite teacherEvaluation %}}
+
+Beyond grades, is there evidence of original work, e.g., writing,
+poetry, research? Did you participate in competitions and symposia? Did
+you succeed despite adversity, e.g., poor school resources or personal
+difficulty? Did you tutor lower classes? {{% cite egfUSGuide %}}
+
+See [this page]({{< ref
+"/college-guide/12-high-school-transcript-school-report-and-letters-of-recommendation"
+>}}) for more information.
 
 ## Non-academic Factors
 
 ### Extracurricular Activities
 
+Extracurricular activities encompass how you spend your time beyond
+studying, e.g., athletics, clubs, art, drama, student leadership,
+significant family/community involvement, part-time jobs, etc. Schools
+recognize that some schools may not have a full range of extracurricular
+activities, and evaluate how well students used the resources available
+to them. Were you significantly committed to an activity? Did you
+receive recognition for it? Were you in a leadership position? {{% cite
+egfUSGuide %}}
+
 ### Talent/Ability
+
+Some colleges give special consideration to students who have
+demonstrated excellence in areas of interest to the colleges. {{% cite
+CDS %}} More so if there is regional/national recognition. {{% cite
+egfUSGuide %}}
 
 ### Character/Personal Qualities
 
+Your teacher may be asked to describe you on various fronts, e.g.,
+intellectual promise, quality of writing, creative thought, productive
+discussion, faculty respect, disciplined habits, maturity, motivation,
+leadership, integrity, reaction to setbacks, concern for others,
+self-confidence, initiative, etc. {{% cite teacherEvaluation %}}
+
+Some personal qualities like maturity, character, leadership,
+self-confidence, warmth of personality, sense of humor, energy, and
+grace under pressure are essential for someone to thrive in an
+unfamiliar and competitive environment thousands of miles from home. {{%
+cite egfUSGuide %}}
+
 ### First-Generation
+
+Are you the first in your family to finish high school, or to attend
+university? Are you one of the few in your village to go to high school?
+Are you the first in your high school to apply abroad? {{% cite
+egfUSGuide %}}
 
 ### Interview
 
-### Alumni Relation
+Some universities enlist their alums to interview students who apply to
+the school. While the interview provides you with the chance to learn
+more about the school, the alums also write a recommendation to the
+school after the interview.
 
-### Geographical Residence
+### Alumni/ae Relation
 
-### State Residency
+Some colleges practice legacy admissions, where having a relative who is
+an alumni is considered a plus factor. However, given recent Supreme
+Court ruling against considering race, legacy admissions have come under
+scrutiny and some colleges are dropping the special consideration. {{%
+cite LaGesse2023 %}}
+
+### Geographical Residence / State Residence
+
+Some colleges give special consideration to students from a particular
+region, state, or country of residence. {{% cite CDS %}}
+
+Public universities tend to favor applicants from within the state.
+Private universities tend to favor applicants from under-represented
+regions. {{% cite Kowarski2018 %}}
 
 ### Religious Affiliation/Commitment
 
-### Racial/Ethnic Status
+Some colleges give special consideration to applicants who are
+affiliated with a certain church/faith/religion. {{% cite CDS %}}
 
 ### Volunteer Work
 
+Some colleges give special consideration to students with activities
+done on a volunteer basis, e.g., tutoring, hospital care, working with
+the elderly or disabled, etc. {{% cite CDS %}}
+
 ### Work Experience
+
+Some colleges give special consideration given to students who have been
+employed prior to application, whether for relevance to major,
+demonstration of employment-related skills, or as explanation of
+student’s academic and extracurricular record. {{% cite CDS %}}
 
 ### Level of Applicant's Interest
 
-This section has been extracted from the [EGF
-Guide](https://drive.google.com/drive/folders/0BxcN6nrpsXL6VUlPWThlaTdtZ1E?resourcekey=0-zab22OZ9EjcJWeng8nFplA&usp=sharing).
-
-While an admission decision based purely on test scores and grade point
-averages is easier to explain, such scores seldom reflect an applicant’s
-intellectual curiosity, creativity, originality and love of learning.
-Applicants can distinguish themselves for admission in a number of ways.
-Some show unusual academic promise through achievements in study or
-research that place them among the best potential scholars of their
-generation.
-
-Most are “well rounded” and have contributed in various ways – academic
-and nonacademic – to the lives of their schools or communities. Others
-are “well-lopsided” with demonstrated excellence in a particular
-endeavor—academic, extracurricular or otherwise. Still, others bring
-perspectives formed by unusual personal circumstances or experiences.
-The energy, commitment, and dedication it takes to achieve the various
-kinds and degrees of excellence are revealed not by test scores, but by
-students’ activities outside the classroom, the testimony of teachers
-and guidance counselors, and by alumni/ae and staff interview reports.
-
-### Academics
-
-Most colleges identify academic achievement and potential as the most
-important factor influencing admission. Truly brilliant students will
-usually be admitted if they appear to be of good character. However,
-school grades and test scores are not always reliable indicators of real
-brilliance and schools will look for signs of intellectual curiosity,
-creativity, originality and a love of learning.
-
-* Is there evidence of original work such as writing, poetry,
-  mathematical or scientific research? Did the student participate in
-  competitions, contests, symposia and [science] congresses?
-
-* Are there unusual factors such as poor school resources or personal
-  difficulty that may give a context to an applicant’s intellectual
-  ability and promise?
-
-Applicants may also demonstrate their potential to contribute
-academically by achieving high marks in a challenging program of study
-or by making the most use of resources available to them in their
-school/community.
-
-### Extracurriculars
-
-This will include an applicant’s participation in life outside the
-classroom, including significant contributions to the life of their
-school or community in athletics, music, art/drama and student
-leadership. In addition to school extracurricular activities and
-athletics, students can describe significant community, employment, or
-family commitments. There are many who spend a great deal of time
-helping to run their household, preparing meals and caring for siblings
-or making money with a part-time job to help the household meet
-expenses.
-
-Schools have no preference for one activity over another, but they look
-most favorably upon those students who have committed themselves to
-their chosen activities over a period of time and who have shown energy,
-discipline, and enthusiasm in working with others.
-
-They also recognize that some schools may not have a full range of
-extracurricular activities and they take this into account while
-evaluating applicants. Admissions Committees are concerned most of all
-to know how well students used the resources available to them.
-Extracurricular activities need not be exotic — most are not — and
-substance is far more important. A student who has made the most of the
-opportunities offered by their secondary school is much more likely to
-do so during college and beyond.
-
-This applies to academic life as well as extracurricular activities.
-
-### Personal
-
-Personal qualities and character provide the foundation upon which each
-admission rests. Some personal qualities like maturity, character,
-leadership, self-confidence, warmth of personality, sense of humor,
-energy, and grace under pressure are essential for someone to thrive in
-an unfamiliar and competitive environment thousands of miles from home.
-
-Some applicants, on the other hand, may have an unusual attractiveness
-of personality that would enrich the college community, including
-unusual concern for others or desire to make a difference. However, any
-candidate about whom there is evidence of serious weakness of character
-is rejected.
-
-Most college graduates often report that the education they received
-from fellow classmates was a critically important component of their
-college experience. The education that takes place between roommates, in
-dining halls, classrooms, research groups and extracurricular activities
-depends on selecting students who will reach out to others.
-
-The admissions committees, therefore, take great care to attempt to
-identify students who will be outstanding “educators,” and would
-contribute towards a great college community.
-
-## Who is reading the application & what are they seeking?
-
-> “But the truth is that essay readers are nothing more than bright,
-> curious, conscientious people – frazzled by the pile of folders ahead
-> of them, perhaps, and probably a little sleepy, but basically open to
-> what the kids have to write. They don’t want to have to spend a lot of
-> time unmixing metaphors and trying to guess who the writer really is.
-> They want writers who will speak to them directly from personal
-> experience. (..) The real you. That is your voice.” – Bill Mayher,
-> College Admissions Mystique
-
-They seek evidence of good academics & academic initiative of
-extracurricular activities of leadership & impact ‘beyond the numbers,
-of who you are, of what you add’
-
-They wonder “Would I like to share a bedroom with this person?” They
-reject on: arrogance (boasting), bigotry (prejudice), signs of trickery,
-dishonesty, lying, unfair play, but also on dull essays.
-
-They also try to understand what you have achieved in your context:
-
-* 71% of those applying through Common Application last year had at
-  least one parent with a Bachelor’s Degree
-
-* Are you the first in your family to finish high school, or to attend
-  university?
-
-* One of few in your village to go to high school?
-
-* The first in your high school to apply abroad?
-
-## How will the admissions officer know this?
-
-Therefore, in telling your story – think, analyze, provide others with
-the information to help them help you
-
-### School profile
-
-* Where do people go on to university in last three years, how many went
-  to university?
-
-* Where is it ranked – if high ranked, show you had good teaching; if
-  low ranked, show you did well.
-
-* Guidance counselor reference – family background, how many children,
-  both parents alive, live with grandparents, IDP, parents’ jobs –
-  peasant farmers
-
-* School resources – how many computers, how many books in the school
-  library
-
-### Managing the information
-
-* What does the admissions officer need to know about me/my life?
-
-* What strengthens my application?
-
-* Focus & selective, not every detail
-
-* Who is the best person to tell them (teacher, headteacher, me in an
-  essay)?
-
-* Avoid duplication.
-
-* How can I help this person to provide accurate, compelling
-  information?
-
-### Academics and Academic Initiative
-
-> ‘Interested in learning for learning’s sake’
-
-* The key issue ahead of extracurricular & leadership/impact – but on
-  its own not sufficient
-
-* Vocal member of the class? Someone who asks interesting questions?
-
-* Intellectual potential, love of learning – how have you developed your
-  interest?
-
-* Academic initiative – e.g. a teacher of lower classes, coordinator of
-  maths club, district/regional awards, independent research.
-
-### Extracurricular activities
-
-* What do you spend your time doing besides studying?
-
-* What excites and motivates you? Follow your interests.
-
-* What do you add beyond the figures (your SAT scores)?
-
-* Very impressive would be e.g. significant commitment to one or more
-  activities, usually with regional or national recognition, leadership
-  or dedication
-
-* BUT overcoming extreme challenge to attain high level of
-  leadership/involvement is seen as most impressive
-
-### Leadership and impact
-
-* Positions of responsibility
-
-  * At school? (*Did you teach lower classes?*)
-
-  * At work?
-
-  * At home, as carer, wage-earner, for livestock?
-
-  * In the community, church, President’s Award, scouts?
-
-* How were you selected? What does it involve? What was the feedback
-  from people who worked with you?
-
-* Do you initiate things, or do you follow behind?
-
-### Work Experience
-
-* What have you been doing at your workplace?
-
-* How can you show the challenges, dedication, the integrity needed?
-
-* Have you been involved in other roles apart from your standard
-  assigned roles?
-
-However, college admissions is not an exact science… It isn’t a
-predictable and equitable process. Warmest congratulations if you get
-in. But if you don’t, it truly doesn’t say anything about you, your
-capacities, your potential to study abroad next year or in five years
-
-> “We aren’t looking for well-rounded individuals, we’re looking for a
-> well-rounded class”
+Some colleges consider demonstrated interest, e.g., joining their
+mailing list, attending admissions events, applying early
+action/decision, etc. {{% cite Sarikas2023 %}}
 
 ## References
+
+1. {{< citation
+  id="CDS"
+  title="Common Data Set"
+  url="https://commondataset.org/"
+  url_2="https://commondataset.org/wp-content/uploads/2023/12/CDS_2023-2024.pdf"
+  accessed="2023-12-03" >}}
 
 1. {{< citation
   id="egfUSGuide"
@@ -320,27 +213,52 @@ capacities, your potential to study abroad next year or in five years
   Simeon Kamunde; Martha Obasi; Trevor Omangi` >}}
 
 1. {{< citation
-  id="CDS"
-  title="Home - Common Data Set"
-  url="https://commondataset.org/"
-  accessed="2023-12-03" >}}
-
-1. {{< citation
   id="cbGPA"
   title="How to Convert (Calculate) Your GPA to a 4.0 Scale"
   url="https://bigfuture.collegeboard.org/plan-for-college/college-basics/how-to-convert-gpa-4.0-scale"
   accessed="2023-12-03" >}}
 
 1. {{< citation
-  id="WignallRigor"
-  title="What's Academic Rigor? Why is it So Important?"
-  author="Allison Wignall"
-  url="https://www.collegeraptor.com/getting-in/articles/questions-answers/academic-rigor-important/"
-  date="2022-12-22"
-  accessed="2023-12-04" >}}
+  id="schoolReport"
+  title="Common App School Report"
+  url="https://commonapp.my.salesforce.com/sfc/p/#d0000000eEna/a/8X0000011Ken/ll9soTdjMLh73NA1QlQ0FR4fZlDcb1LeXjVEh55XY2E"
+  accessed="2023-12-23" >}}
 
 1. {{< citation
-  id="cbAP"
-  title="Advanced Placement® (AP) – College Board"
-  url="https://ap.collegeboard.org/"
-  accessed="2023-12-04" >}}
+  id="teacherEvaluation"
+  title="Common App Teacher Evaluation"
+  url="https://commonapp.my.salesforce.com/sfc/p/#d0000000eEna/a/8X0000011Kf6/Jv1Pvg8yvluXZaNdUG3INHJJve.MUDFJPrA3IUgnCZM"
+  url_2="https://commonapp.my.salesforce.com/sfc/p/#d0000000eEna/a/8X0000011KfC/gIYG1GmlNYawiRVUYZ.90hSowCr5el1b97obX7Hprn4"
+  accessed="2023-12-23" >}}
+
+1. {{< citation
+  id="Lombardi2023"
+  author="Meredith Lombardi"
+  title="2023-2024 Common App essay prompts"
+  date="2023-02-04"
+  url="https://www.commonapp.org/blog/2023-2024-common-app-essay-prompts"
+  accessed="2023-12-23" >}}
+
+1. {{< citation
+  id="LaGesse2023"
+  author="Shane LaGesse"
+  title="Legacy Admissions: What It Is and Why Colleges Are Reconsidering It | Higher Education"
+  date="2023-07-21"
+  url="https://www.usnews.com/higher-education/articles/legacy-admissions-what-it-is-and-why-colleges-are-reconsidering-it"
+  accessed="2023-12-23" >}}
+
+1. {{< citation
+  id="Kowarski2018"
+  author="Ilana Kowarski"
+  title="How Your Hometown Could Affect Your College Admissions Chances"
+  date="2018-09-10"
+  url="https://www.usnews.com/education/best-colleges/articles/2018-09-10/how-your-hometown-could-affect-your-college-admissions-chances"
+  accessed="2023-12-23" >}}
+
+1. {{< citation
+  id="Sarikas2023"
+  author="Christine Sarikas"
+  title="The 99 Demonstrated Interest Colleges: Complete List"
+  date="2023-10-18"
+  url="https://blog.prepscholar.com/colleges-that-track-demonstrated-interest"
+  accessed="2023-12-23" >}}
