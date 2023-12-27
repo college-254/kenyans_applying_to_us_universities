@@ -6,60 +6,94 @@ aliases:
 - 2016-09-08-04-organizing-information-about-your-extracurricular-activities/
 ---
 
-This section has been extracted from the [EGF
-Guide](https://drive.google.com/drive/folders/0BxcN6nrpsXL6VUlPWThlaTdtZ1E?resourcekey=0-zab22OZ9EjcJWeng8nFplA&usp=sharing).
+Your college application will be assessed on [various non-academic
+factors]({{< ref
+"/college-guide/03-what-are-us-universities-looking-for-in-applicants"
+>}}), e.g., character/personal qualities, personal essay,
+extracurricular activities, volunteer work, work experience, etc. It is
+crucial to learn how to provide relevant information succinctly.
 
-Colleges are interested in knowing how you spent time outside class.
-Extracurricular activities are very diverse: leadership roles, drama &
-music festivals, sports, volunteer activities, income-generating
-projects like rearing rabbits, coding apps, etc. You’ll be given little
-space to show your extracurriculars, so it’s crucial that you include
-relevant details. EALP advises applicants to use the STAR technique.
-STAR stands for Situation, Task, Action and Result.
+## The STAR Method
 
-## Situation (Set up the context in half a sentence):
+S.T.A.R. is a useful acronym for effectively describing particular
+behaviors or skills. {{% cite star %}}
 
-*As a student volunteer once a week at a mental health mobile outreach
-clinic, Kamili, in Kangemi, one of Nairobi’s low-cost housing
-districts...*
+### Situation (20%)
 
-## Task (What were you responsible for?):
+Explain the situation so that the reader understands the context of the
+upcoming example.
 
-*...I was responsible for welcoming sometimes highly distressed
-potential clients and their families to our mobile clinic, helping them
-to complete necessary administration and referring them on to our
-volunteer psychiatrists...*
+> *When I was a junior in high school, there were several students in my
+> math class who were struggling with some of the more difficult
+> concepts.*
 
-## Actions (How did you go about achieving your task?)
+{{% cite star %}}
 
-*... This included supporting individuals who had sometimes walked from
-as far as Lake Victoria, some 150km away, in search of affordable
-medication; identifying and recording relevant details from often highly
-confused narratives of patients suffering from untreated schizophrenia
-and other mental illnesses; and maintaining a calm yet purposeful
-atmosphere in the clinic while scores of patients waited for hours for
-assessment and treatment...*
+### Task (10%)
 
-## Result (the outcome, potential learning for the individual, any feedback or statistics)
+Talk about what the task that you took responsibility for.
 
-*...The clinic’s director noted in my end of year review that ‘Without
-Jane’s positive and pragmatic support it would have been difficult to
-maintain Kamili’s outreach services in this initial year.’ During the
-year we supported over 140 patients, such that some, who previously had
-been isolated and highly disturbed, burying food and tearing their
-clothes, were, with the help of our medication, able to dig their
-shambas and contribute to supporting their families. I have learnt what
-a difference such low-cost interventions as this may make to
-overstretched and vulnerable families, and I am committed to returning
-to work in this field, were I to qualify as a psychiatrist in the US...*
+> *With an upcoming national exam, I was asked by my math teacher to
+> start a study group to assist the other students.*
 
-Go ahead and make a STAR account of each of your extracurricular
-activities. Notice that the material is evidence-based. Statements like
-*‘I like football because of the camaraderie. I feel really close to the
-people on the team since we’ve been through so much together. I hope to
-play in college.’* are meaningless.
+{{% cite star %}}
 
-These STAR accounts will help you when approaching your referees for
-letters of recommendation so don’t throw them away. Also, the Common
-Application is very strict on word limits so practise squeezing out the
-essence of each extracurricular activities in about 2 sentences!
+### Actions (60%)
+
+Describe the actions that **you** personally took to complete the task.
+Avoid "we" statements as they make it difficult for the reader to
+understand your behavior or skills. Provide specific and clear examples
+of your actions.
+
+> *I set up three study group sessions a week to review class material
+> and assignments. I created a comprehensive study guide. I demonstrated
+> the best methods for solving difficult problems, explained strategies
+> that worked for me, and developed new problems to help them practice.*
+
+{{% cite star %}}
+
+A common pitfall is being general instead of being evidence-based, e.g.,
+*I like football because of the camaraderie. I feel really close to the
+people on the team since we've been through so much together. I hope to
+play in college.* {{% cite egfUSGuide %}}
+
+### Result (10%)
+
+Explain the positive outcomes generated from your actions. Highlight
+quantifiable results. You may also want to emphasize your key takeaways.
+
+> *Our class average for the national exam was the highest it had been
+> in over ten years, and overall the students I helped were able to
+> develop a better understanding and appreciation for math.*
+
+{{% cite star %}}
+
+## Exercise
+
+For each of your extracurricular activities, make a STAR account.
+
+These accounts will help you answer questions on your application, e.g.,
+*Briefly describe any of your extracurricular activities, employment
+experience, travel, or family responsibilities that have shaped who you
+are. (max 200 words).*
+
+The STAR accounts will also come in handy when [approaching your
+referees for letters of recommendation]({{< ref
+"/college-guide/12-high-school-transcript-school-report-and-letters-of-recommendation"
+>}}). {{% cite egfUSGuide %}}
+
+## References
+
+1. {{< citation
+  id="star"
+  title="Using the STAR method for your next behavioral interview (worksheet included) – Career Advising & Professional Development | MIT"
+  url="https://capd.mit.edu/resources/the-star-method-for-behavioral-interviews/"
+  accessed="2023-12-26" >}}
+
+1. {{< citation
+  id="egfUSGuide"
+  title="A Guide to Applying to Undergraduate Institutions in USA"
+  url="https://drive.google.com/drive/folders/0BxcN6nrpsXL6VUlPWThlaTdtZ1E?resourcekey=0-zab22OZ9EjcJWeng8nFplA&usp=sharing"
+  authors=`Catrin Davies; Isaac Ochieng'; Mary Kiarie; Wanjiku Mungai;
+  Susan Kemboi; Benjamin Munyao; John Kimani; Kenneth Kiambati;
+  Simeon Kamunde; Martha Obasi; Trevor Omangi` >}}
