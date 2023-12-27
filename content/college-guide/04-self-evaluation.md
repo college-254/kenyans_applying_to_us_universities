@@ -1,9 +1,10 @@
 ---
-title: 05. Self Evaluation
+title: 04. Self Evaluation
 date: 2016-09-08
-weight: 5
+weight: 4
 aliases:
 - 2016-09-08-05-self-evaluation-questions/
+- 05-self-evaluation-questions/
 ---
 
 ## Motivation

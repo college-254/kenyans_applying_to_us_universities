@@ -1,9 +1,10 @@
 ---
-title: 04. Organizing information about your extracurricular activities
+title: 05. Organizing information about your extracurricular activities
 date: 2016-09-08
-weight: 4
+weight: 5
 aliases:
 - 2016-09-08-04-organizing-information-about-your-extracurricular-activities/
+- 04-organizing-information-about-your-extracurricular-activities/
 ---
 
 Your college application will be assessed on [various non-academic
