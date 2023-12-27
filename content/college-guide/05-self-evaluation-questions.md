@@ -1,106 +1,111 @@
 ---
-title: 05. Self evaluation questions
+title: 05. Self Evaluation
 date: 2016-09-08
 weight: 5
 aliases:
 - 2016-09-08-05-self-evaluation-questions/
 ---
 
+## Motivation
+
+Completing the college applications will require a lot of
+self-reflection. For example, Harvard asked these questions to its
+applicants for the class of 2027:
+
+* Harvard has long recognized the importance of enrolling a diverse
+  student body. How will the life experiences that shape who you are
+  today enable you to contribute to Harvard? (max 200 words)
+* Briefly describe an intellectual experience that was important to you.
+  (max 200 words)
+* Briefly describe any of your extracurricular activities, employment
+  experience, travel, or family responsibilities that have shaped who
+  you are. (max 200 words)
+* How do you hope to use your Harvard education in the future? (max 200
+  words)
+* Top 3 things your roommates might like to know about you. (max 200
+  words)
+
+## Exercise
+
 This section has been extracted from the [EGF
 Guide](https://drive.google.com/drive/folders/0BxcN6nrpsXL6VUlPWThlaTdtZ1E?resourcekey=0-zab22OZ9EjcJWeng8nFplA&usp=sharing).
 
-First, take several hours to think about yourself as an individual. KEEP
-NOTES. Consider, from primary school onwards, who you are, what makes
-you an individual, which the key aspects of your character are, and what
-examples you can provide that express them. Don’t think of one example
-for each section then stop. Try and think comprehensively of all
-possible experiences/examples, to then help you select the most
-appropriate example for each situation.
+Take several hours to think about yourself as an individual. Keep notes!
+Think comprehensively and write down several examples for each section.
 
-## Background
+### Background
 
-* Where did you grow up? In a small village in Kericho, or on the edge
-  of Nairobi?
+Where did you grow up? Is it a rural area or an urban one?
 
-* How many brothers and sisters do you have? Are you the oldest, the
-  youngest, in the middle?
+How many siblings do you have? Are you the oldest, the youngest, or in
+the middle?
 
-* Are your parents alive?  How do they earn a living – are they peasant
-  farmers, have a duka stall or accountants?
+How do your parents/guardians earn a living? Are they small-scale
+farmers, have a shop, white collar workers?
 
-* Who were the important people and role models in your life when you
-  were growing up?  *E.g. my grandmother who would tell us stories by
-  the fire each night, and tell me she looked to me to become a great
-  success and provide for her in her old age.*
+Who were the important people and role models in your life when you were
+growing up?
 
-* Are there other challenges in your life – do you have a disability,
-  were you an IDP, were you brought up by your grandmother, did you grow
-  up in a slum, or is your village very isolated or with very few people
-  who are educated?
+Are there significant challenges in your life that you've overcome? A
+disability? Passing away of a parent/guardian? Growing up poor? Hailing
+from a village that is very isolated or with very few people who are
+educated?
 
-## Schooling
+### Schooling
 
-* Where did you go to school (at primary and secondary level)?
+Where did you go to school (at primary and secondary level)?
 
-* If you were allocated a place at national or provincial school were
-  you able to take it up?
+If you were allocated a place at national or provincial school were you
+able to take it up?
 
-* Which subjects have particularly stimulated you and have you performed
-  particularly well in?
+Which subjects have particularly stimulated you and have you performed
+particularly well in?
 
-* Which examples can you give of pursuing your interest in these fields
-  *(e.g. researched project on XYZ for National Physics Competition;
-  co-ordinated Maths Club for fellow students, setting and marking
-  problems; taught class of 40 students Chemistry/Biology for two terms
-  to cover teacher absence)*
+Which examples can you give of pursuing your interest in these fields,
+*e.g., researched project on XYZ for National Physics Competition.*
 
-* Have mentored, coached or taught other students during your studies?
-  For how long?  What did this involve?
+Have you mentored, tutored other students during your studies? For how
+long? What did this involve?
 
-## Extracurricular activities and responsibilities you've been involved in
+### Extracurricular Activities and Responsibilities
 
-* How have you spent your time alongside your studies? *(e.g. keeping
-  chickens to pay for my studies;  athletics (long distance runner),
-  including competing at regional level; peer counseling, offering
-  guidance to 40 fellow students in my year on issues such as
-  homesickness, bullying, depression;  Presidents Award, leading camping
-  treks, eventually being selected as National Assessor)*
+How have you spent your time alongside your studies? *E.g., keeping
+chickens to pay for my studies;  athletics (long distance runner),
+including competing at regional level; peer counseling, offering
+guidance to 40 fellow students in my year on issues such as
+homesickness, bullying, depression;  Presidents Award, leading camping
+treks, eventually being selected as National Assessor.*
 
-* Which positions of responsibility have you taken on? *(e.g. Laboratory
-  Prefect, supporting the Chemistry teacher by preparing and clearing
-  away all experiments; Peer Counsellor; Chair of Catholic Students
-  Society, the biggest society in the school, with 400 active members,
-  involving facilitating discussion groups, chairing meetings,
-  coordinating voluntary activities through the year.)*
+Which positions of responsibility have you taken on? *E.g. Laboratory
+Prefect, supporting the Chemistry teacher by preparing and clearing away
+all experiments.*
 
-* Now think beyond your school. Where else have you been active (in your
-  church or mosque? In your community? With local organizations? With
-  your own business?) How?
+Beyond your school, where else have you been active. In your place of
+worship? In your community? With local organizations? With your own
+business?
 
-* At work What work have you been doing in your workplace?  What are
-  your achievements there?What have you learnt, about the tasks, and
-  about yourself?
+What work have you been doing in your workplace? What are your
+achievements there? What have you learnt, about the tasks, and about
+yourself?
 
-## Next Steps
+### Next Steps
 
-* What subject would you like to study at university? What interests you
-  about this?
+What subject would you like to study at university? What interests you
+about this? If you are weighing up a few subjects, which are they? What
+do you see as the similarities and differences between them?
 
-* If you are weighing up a few subjects, which are they? What do you see
-  as the similarities between them?  The differences?
+What profession/job do you think you would like to go into after
+graduation? What do you know about this field? How have you found out
+more? Which skills that you have do you think will be key?
 
-* What profession/job do you think you would like to go into after
-  graduation? What do you know about this field? How have you found out
-  more? Which skills that you have do you think will be key?
+How do you think that studying in the US will help you reach this
+ambition, more than studying in Kenya? Are there courses that are not
+offered in Kenya?
 
-* How do you think that studying in the US will help you reach this
-  ambition, more than studying in Kenya? *(e.g. are there subjects on
-  offer at your chosen colleges, of relevance to this work in Kenya,
-  which are not offered at the parallel Kenyan university?  If so, what
-  are they?)*
+{{% comment %}}
 
-NB: Make sure you have researched the options in Kenya.  Studying in the
-USA is not for everyone. In particular, if you want to work as a doctor
-in Kenya – as Medicine is studied as a postgraduate in the USA, and is
-very very competitive – you should think very carefully before opting to
-study in the USA.
+Note: If you want to work as a doctor in Kenya – as medicine is studied
+as a postgraduate in the USA, and is very very competitive – you should
+think very carefully before opting to study in the USA.
+
+{{% /comment %}}
