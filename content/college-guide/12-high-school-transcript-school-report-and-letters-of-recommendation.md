@@ -96,11 +96,9 @@ counselors. A few tips on getting good recommendation letters:
   encountered and how you overcame them. Discuss your future plans. This
   will enable the recommender to refer to specific examples.
 
-* The [Teacher Recommendations
-  Kit](https://drive.google.com/file/d/0BxcN6nrpsXL6TW9fRzdzM0c4bWs/view?usp=sharing&resourcekey=0-rdCjvh_YiIpz9LGwjFUoUQ)
-  has 3 sample letters of recommendation. Show these samples to your
-  teachers. Letters written for US college applications need to be very
-  detailed and personalized.
+* The [Teacher Recommendations Kit](/pdfs/teacher-recommendations-kit.pdf) has 3
+  sample letters of recommendation. Show these samples to your teachers. Letters
+  written for US college applications need to be very detailed and personalized.
 
 * Waive your right to view the recommendation letters. Allow your
   teachers to upload their recommendation letters confidentially.

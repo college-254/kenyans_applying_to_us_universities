@@ -33,17 +33,14 @@ Of the 3 types, we recommend that you go for Need-Based Aid since you’re
 assured that no matter what (unless you stop attending the university),
 your scholarship will only depend on how much your family can afford.
 
-Application for Financial Aid is done through portals like the CSS
-Profile, International Student Financial Aid Application (ISFAA) or
-other school specific portals. All these portals will require you to
-have extensive information about your financial status and that of your
-parents. Here is the [2016-17
-ISFAA](https://drive.google.com/file/d/0BxcN6nrpsXL6RmhBOU04ekZMa0U/view?usp=sharing&resourcekey=0-U-RTNK9B7Yy9PQ7e4tHOhg)
-for you to gauge the amount of detail needed. Since the questions asked
-on various financial aid applications are similar, your responses more
-or less carry over amongst the schools. Although it may seem quite
-uncomfortable asking your parents about their financial status, you need
-to get ready to do it because your application is otherwise incomplete.
+Application for Financial Aid is done through portals like the CSS Profile,
+International Student Financial Aid Application (ISFAA) or other school specific
+portals. All these portals will require you to have extensive information about
+your financial status and that of your parents. Since the questions asked on
+various financial aid applications are similar, your responses more or less
+carry over amongst the schools. Although it may seem quite uncomfortable asking
+your parents about their financial status, you need to get ready to do it
+because your application is otherwise incomplete.
 
 The documents you will need to acquire so as to prove the income that
 you report may include:
