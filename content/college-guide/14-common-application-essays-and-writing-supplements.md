@@ -27,11 +27,8 @@ deadline. Don’t have more than two reviewers since they may have
 conflicting opinions and it will be hard for you to heed to all of their
 suggestions.
 
-To start you off, here’s essay writing advice adapted from Nathaniel
-Choge’s ‘New Horizons: A Guide to Applying to American Colleges’. Choge
-offers 12 Tips. [Download the
-PDF](https://drive.google.com/drive/folders/0BxcN6nrpsXL6VUlPWThlaTdtZ1E?resourcekey=0-zab22OZ9EjcJWeng8nFplA&usp=sharing)
-for a more detailed explanation:
+To start you off, here’s essay writing advice adapted from
+Choge’s and Warria's [New Horizons: A Guide to Applying to American Colleges](/pdfs/choge-warria-new-horizons-college-guide.pdf):
 
 * Don’t write a term paper.
 

@@ -94,7 +94,7 @@ referees for letters of recommendation]({{< ref
 1. {{< citation
   id="egfUSGuide"
   title="A Guide to Applying to Undergraduate Institutions in USA"
-  url="https://drive.google.com/drive/folders/0BxcN6nrpsXL6VUlPWThlaTdtZ1E?resourcekey=0-zab22OZ9EjcJWeng8nFplA&usp=sharing"
+  self_url="/pdfs/egf-guide-undergrad-programs.pdf"
   authors=`Catrin Davies; Isaac Ochieng'; Mary Kiarie; Wanjiku Mungai;
   Susan Kemboi; Benjamin Munyao; John Kimani; Kenneth Kiambati;
   Simeon Kamunde; Martha Obasi; Trevor Omangi` >}}

@@ -29,7 +29,7 @@ applicants for the class of 2027:
 ## Exercise
 
 This section has been extracted from the [EGF
-Guide](https://drive.google.com/drive/folders/0BxcN6nrpsXL6VUlPWThlaTdtZ1E?resourcekey=0-zab22OZ9EjcJWeng8nFplA&usp=sharing).
+Guide](/pdfs/egf-guide-undergrad-programs.pdf).
 
 Take several hours to think about yourself as an individual. Keep notes!
 Think comprehensively and write down several examples for each section.

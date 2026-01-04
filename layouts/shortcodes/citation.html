@@ -25,6 +25,11 @@
         <i>{{ (urls.Parse .).Host }}</i> <i class="fas fa-fw fa-external-link-alt" aria-hidden="true"></i>
     </a>.
     {{ end }}
+    {{ with .Get "self_url" }}
+    <a href="{{.}}" target="_blank" rel="noopener">
+        <i>{{.}}</i> <i class="fas fa-fw fa-external-link-alt" aria-hidden="true"></i>
+    </a>.
+    {{ end }}
     {{ with .Get "date" }} {{ dateFormat "Jan 2, 2006" . }}.{{ end }}
     {{ with .Get "year" }} {{ . }}.{{ end }}
     {{ with .Get "isbn" }} ISBN: {{.}}.{{ end }}
